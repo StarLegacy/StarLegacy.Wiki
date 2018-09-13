@@ -8,6 +8,7 @@ The interstellar government has provided you a starting balance from their refug
 
 ### Flying a ship
 After acquiring a ship, you need to first "re-detect" the ship. To do this you need to **left-click** with your clock on the starship computer. The starship computer looks like this:
+
 ![Image](https://gyazo.com/c4f2b1849aee8a9a686b5f9ffc1eb514.png)
 
 You will have to search your ship near the cockpit to find it. For a Speeder it will be under the chest at the back of the ship. For a shuttle it is under a carpet with a sign on it that says Heavy Shuttle.
