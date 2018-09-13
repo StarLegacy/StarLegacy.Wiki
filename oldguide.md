@@ -1,6 +1,4 @@
-First and foremost, welcome to Star Legacy. Your convoy has been attacked by a pirate fleet and in an attempt to escape, you hopped on a ship which carried you to Sobrii system. Now a refugee, you've lost all your possessions and need to start over in this strange galaxy. 
-
-If you are here to edit the wiki, this is for you. Otherwise, please continue as you were. Do not troll, delete others info with permission, or create useless pages. This will earn you a one time warning and then a site ban upon second offense. 
+First and foremost, welcome to Star Legacy. Your convoy has been attacked by a pirate fleet and in an attempt to escape, you hopped on a ship which carried you to Sobrii system. Now a refugee, you've lost all your possessions and need to start over in this strange galaxy.
 
 ## Getting Started
 
