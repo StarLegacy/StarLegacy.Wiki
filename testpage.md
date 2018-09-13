@@ -10,3 +10,4 @@ val player = Bukkit.getPlayer("King_NevLo")
 player.health = 0.0
 // haha u ded @King_NevLo
 ```
+`this is a single line of code` mixed with non-code
