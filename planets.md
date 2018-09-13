@@ -2,7 +2,7 @@
 SL has 15 planets. Each planet has unique terrain and environment.
 
 ## List of Planets
-1. [Arbusto](/wiki/planets/arbusto)
+1. ![A](/img/planeticons/arbusto.png) [Arbusto](/wiki/planets/arbusto)
 2. [Aecor](/wiki/planets/aecor)
 3. [Cerus Alpha](/wiki/planets/cerusalpha)
 4. [Cerus Beta](/wiki/planets/cerusbeta)
