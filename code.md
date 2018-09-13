@@ -9,5 +9,5 @@ String text = "This is Java code";
 ```
 
 ```Kotlin
-String text = "This is Kotlin code:
+String text = "This is Kotlin code"
 ```
