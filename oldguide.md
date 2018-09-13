@@ -8,8 +8,7 @@ The interstellar government has provided you a starting balance from their refug
 
 ### Flying a ship
 After acquiring a ship, you need to first "re-detect" the ship. To do this you need to **left-click** with your clock on the starship computer. The starship computer looks like this:
-
-https://gyazo.com/c4f2b1849aee8a9a686b5f9ffc1eb514.png
+![Image](https://gyazo.com/c4f2b1849aee8a9a686b5f9ffc1eb514.png)
 
 You will have to search your ship near the cockpit to find it. For a Speeder it will be under the chest at the back of the ship. For a shuttle it is under a carpet with a sign on it that says Heavy Shuttle.
 
@@ -20,7 +19,7 @@ In the GUI you will see several options. Here you can choose to add pilots by cl
 To pilot your ship, you need to right-click the starship computer with a clock in your hand. To be able to do this you have to left click the ship, choose the type of ship you want it to be (see above paragraph for more info) then press redetect. You will use your clock in conjunction with your ship in all things. You will use the clock to access the ship computer GUI, pilot the ship, shoot the ships weapons, and turn. 
 
 To bring a passenger with you you must first stop flying the ship. The passenger than has to enter the ship and stand inside it. Then the captain repilots the ship and the passenger boards the ship. You will know for sure if the passenger has boarded the ship by looking in chat for a statement like this:
-https://gyazo.com/d0301b27e37369256c421a0c270b9efe.png
+![Image](https://gyazo.com/d0301b27e37369256c421a0c270b9efe.png)
 
 After piloting the ship, you can move your ship around. There are 3 ways to move your ship:
 
@@ -79,18 +78,18 @@ Now that you're on a planet, you should build [s]wall[/s] a cryopod. A cryopod i
 
 Diagram of a cryopod:
 
-https://gyazo.com/4c369b2eb204cf779d5851d6f9644846.png
+![Image](https://gyazo.com/4c369b2eb204cf779d5851d6f9644846.png)
 
-https://gyazo.com/beab57a710690accac1fea161f104b03.png
+![Image](https://gyazo.com/beab57a710690accac1fea161f104b03.png)
 
-https://gyazo.com/515ff3b935d9091e470ff61f8780cf94.png
+![Image](https://gyazo.com/515ff3b935d9091e470ff61f8780cf94.png)
 
-https://gyazo.com/7d1f7bc501c64a264e368b9163b3edc6.png
+![Image](https://gyazo.com/7d1f7bc501c64a264e368b9163b3edc6.png)
 
 ### Re-textured blocks
 In this server you may encounter several different terms used for blocks and new minerals alike. To maximize your experience, it is recommended to use the provided server resource pack which can also be downloaded offline [https://github.com/Miclebrick/StarLegacyResourcepack/blob/master/StarLegacyPack.zip?raw=true here].
 Here's an example of blocks which have been re-textured or renamed:
-https://i.imgur.com/rxwpHkc.png
+![Image](https://i.imgur.com/rxwpHkc.png)
 Left to right:
 * Starship Computer (Jukebox), Sponge (Technical Block), End Rod (Wire), Redstone Lamp (Tier 2 Thruster), Glowstone (Tier 1 Thruster).
 * Piston, Furnace, Crafting Table (Extractor), Graxene Powder (Concrete Powder), Coal Ore.
