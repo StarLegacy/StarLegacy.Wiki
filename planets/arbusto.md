@@ -1,4 +1,4 @@
-# Arbusto 
+# Arbusto ![icon](/img/planeticons/arbusto.png)
 
 ##### [Go Back](/wiki/planets)
 
