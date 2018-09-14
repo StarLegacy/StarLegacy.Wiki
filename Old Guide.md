@@ -33,7 +33,7 @@ To open the map, click [here](/map). Alternatively, use `/map` on the server to 
 ### Getting a ship
 In the station, find the "Ship Dealer" NPC. Right click it and buy a shuttle.
 Congratulations, you now have your very own space shuttle!
-~~Who needs NASA, anyway?~~
+*Who needs NASA, anyway?*
 
 ### Flying a ship
 After getting a ship from the ship dealer, it comes pre-detected for you.
