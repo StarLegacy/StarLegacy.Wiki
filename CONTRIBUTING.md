@@ -1,5 +1,5 @@
 # Contributing
-We appreciate help with the wiki! To get started, hit the Fork button on the project page.
+We appreciate help with the wiki! To get started, hit the Fork button on the [project page](https://github.com/StarLegacy/StarLegacy.Wiki).
 That gives you your own copy of the wiki repository.
 
 ## Formatting
