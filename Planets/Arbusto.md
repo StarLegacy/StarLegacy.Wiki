@@ -1,6 +1,6 @@
 # Arbusto
 
-##### [Go Back](/wiki/planets)
+##### [Go Back](/wiki/space#planets)
 
 > System: Centrum
 
