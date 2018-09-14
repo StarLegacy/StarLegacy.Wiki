@@ -1,54 +1,102 @@
-First and foremost, welcome to Star Legacy. Your convoy has been attacked by a pirate fleet and in an attempt to escape, you hopped on a ship which carried you to Sobrii system. Now a refugee, you've lost all your possessions and need to start over in this strange galaxy.
+# New Player Guide
+
+Welcome! This guide will teach you the basics of the server.
 
 ## Getting Started
 
-The interstellar government has provided you a starting balance from their refugee funds. Use it to acquire a ship from the ship dealer and head for a planet of liking. **However, we strongly encourage you to go through the tutorial before buying your first ship as on obtaining your first ship, you will be teleported directly to it.**
+The interstellar government gave you some omoney from the refugee funds. 
+Use it to get a ship from the ship dealer and fly to a planet!
 
->Note: You also need to wear the space suit (chain armor) provided. Should you lose your space suit, you can always acquire a new one using `/kit space`. You can use the [map](/map) to navigate the systems (Accessible in-game with `/map`). You can find yourself on the map by hovering over the little arrow on the right, then going to the player list on the bottom of the panel, and clicking on your name. If you don't see your name, try clicking the down arrow at the bottom of the player list to scroll down. Pick a [planet](/wiki/space#planets) to go to where you can start setting up a base. 
+### Basic Gear
+
+You need to wear a space suit to survive in space.
+Use `/kit space` to get one!
+
+You'll also need a ship controller to fly ships and be visible on the map.
+Use `/kit controller` to get one.
+
+A nice kit that comes with all the good stuff is `/kit starter`, but be careful - you can only use that once a week!
+
+### Map
+
+The server has a web-based map which allows you to view all of the planets, space, people flying ships, and more!
+
+To open the map, click [here](/map). Alternatively, use `/map` on the server to get a link. 
+
+#### Finding Yourself
+* Hold the controller you got (more info [here](#basic_gear))
+* Look at the bottom right of the map page, at the player list
+* Find your name, and click on it
+
+> If you can't find your name, try scrolling with the arrows
+
+### Getting a ship
+In the station, find the "Ship Dealer" NPC. Right click it and buy a shuttle.
+Congratulations, you now have your very own space shuttle!
+~~Who needs NASA, anyway?~~
 
 ### Flying a ship
-After acquiring a ship, you need to first "re-detect" the ship. To do this you need to **left-click** with your clock on the starship computer. The starship computer looks like this:
+After getting a ship from the ship dealer, it comes pre-detected for you.
+However, you usually need to detect it yourself, so do it for practice:
 
-![Image](https://gyazo.com/c4f2b1849aee8a9a686b5f9ffc1eb514.png)
+* Use /release to release in case you're already piloted
+* Left click the ship computer with the controller
+* Click the controller button, labeled "re-detect"
 
-You will have to search your ship near the cockpit to find it. For a Speeder it will be under the chest at the back of the ship. For a shuttle it is under a carpet with a sign on it that says Heavy Shuttle.
+> There are other things you can do in that menu.
+> Most importantly there is locking - if you enable the lock,
+> when you release the ship it will start a 5 minute timer.
+> At the end of the timer, if it wasn't repiloted,
+> it'll lock and nobody who is not added as a pilot can break blocks on it.
 
-In the GUI you will see several options. Here you can choose to add pilots by clicking the add-pilot option then typing into chat the players name. This is also the place you can lock your ship. Locking your ship means no one other than you can access it. This includes stopping people from stealing your ship, greifing your ship, stealing items from your ships chest. (This option will not work if there are multiple pilots of the ship) The final option in the GUI is Ship Type. This s how you get different size, and powerful ships. Click on the option, this will open another GUI with a list of ships you have unlocked. (To unlock more ships you have to rank-up) Every ship has a minimum and maximum block amount. Your ship has to fit the minimum and maximum limit to be able to become that type of ship. For example for a shuttle or a starfighter the ship you are detecting must be 100 -> 500 blocks. 
+There, you detected it! Now, try piloting it by **right clicking the computer**. It should say "You have boarded a starship piloted by [your name]"
 
-*Note: To detect the ship properly the type of ship option must be chosen first to accommodate the size of your ship.
+Now that you've piloted it, you can fly your ship! **There are 3 basic ways to move your ship:**
 
-To pilot your ship, you need to right-click the starship computer with a clock in your hand. To be able to do this you have to left click the ship, choose the type of ship you want it to be (see above paragraph for more info) then press redetect. You will use your clock in conjunction with your ship in all things. You will use the clock to access the ship computer GUI, pilot the ship, shoot the ships weapons, and turn. 
+> You must be piloting the ship and holding the controller to do these
 
-To bring a passenger with you you must first stop flying the ship. The passenger than has to enter the ship and stand inside it. Then the captain repilots the ship and the passenger boards the ship. You will know for sure if the passenger has boarded the ship by looking in chat for a statement like this:
-![Image](https://gyazo.com/d0301b27e37369256c421a0c270b9efe.png)
+1. "Shift" Flying
 
-After piloting the ship, you can move your ship around. There are 3 ways to move your ship:
+Shift flying lets you move precisely over short distances and maneuver. **Don't use this for flying around space!**
 
-#### 1. "Shift" Flying
+To shift fly, hold the controller in your hand and face the direction you intend to move the ship.
+Hold the sneak key (default `LEFT SHIFT`). Your ship should move in the direction you're facing.
 
-Shift flying allows you to move quickly over short distances, and quickly change directions. Hold the clock in your hand and look in the direction you want to move in. Then hold the sneak key (by default, shift, hence the name). You can face in any direction. This means you can move horizontally, vertically, and at a diagonal. 
-
-*Note: You must be piloting the ship before you can perform any ship manovours. 
+> If it says your ship is obstructed, something is in the way of your ship!
+> You'll need to move a different direction to get out of the path of whatever's blocking it.
 
 #### 2. Cruising
 
-Cruising is the best way to move over longer distances, like getting across a planet, going from the eco station to a planet, or traveling between planets. 
+Cruising is how you travel over long distances.  
 
-To cruise either right click the sign with [cruise] on it or type in chat the command: /cruise
-(To make a cruise sign, place a sign that says [cruise] on line 1 and right-click it)
+To cruise, you need a cruise sign. Spawn ships come with these, but if you make your own,
+place a sign and put `[cruise]` on the first line, then right click it.
 
-Your ship needs time to accelerate to a target speed while cruising. The speed you cruise at and acceleration is determined by your [[Thrusters|thrusters]]. To cruise, use right-click on the cruise sign while facing the direction you want to go in, this can also be done by facing the direction you want to go in and typing into chat /cruise.
-You can cruise sideways and diagonally but it is most effective when going in a direction facing the opposite way of the engines. 
+Now that you have a functional cruise sign, right click it with the controller.
+Your ship will move in the approximate direction you were facing.
+
+> To navigate properly with cruise, see which cardinal direction it is to your destination using the map.
+> In-game, use the info scoreboard to see which way you are facing (N = north, E = east, S = south, W = west)
 
 #### 3. Steering
 
-Using the helm of your starship, you can rotate it right or left 90 degrees. To use it, right-click the sign to turn right, or left-click to turn left. The ship will rotate according to the sign block as the center. (To make a helm sign, place a sign that says [helm] on line 1 and right-click it). You can also, while holding a clock in your hand and piloting the ship, press F and Q to turn your ship. F will turn left and Q will turn right.
+Starships can change directions using helm signs.
+
+If your ship doesn't have one yet, make a sign that says `[helm]` on the first line, and right click it.
+
+Now that you have a helm sign, right click it with a controller.
+Your ship should turn right! Left click it, and it should turn left.
+
+> Another way to rotate is using the drop and switch to offhand keys.
+> To turn right, drop the controller (default key `Q`).
+> To turn left, switch it to your offhand (default key `F`).
+
 #### Tips
- - If there is a block in the way of your ship, you cannot move it in that direction.
- - Stained glass blocks act as hangars - you can fly through them!
- - Remember to click on your name on the map again after going through a world transfer! (i.e. entering a planet)
- - To release your starship, type `/release` or right click the starship computer.
- - To protect your ship's contents, you can enable starship lock on the computer GUI. You can only have one ship locked at a time!
+* If there's a block in the way of your ship, you can't go that way.
+* Stained glass blocks act as "hangar doors". You can fly ships through them, and they reappear when it exits them.
+* Remember to click on your name on the map again after switching worlds
+* To unpilot your ship, do `/release` or right click the computer.
+* To protect your ship, lock it!
 
 ### Shooting
 After learning how to pilot your ship you must now learn how to use it in combat. To shoot heavy weapons such as heavy lasers and torpedoes double right click. There is a cool down on these weapons so you will have to wait until they are reloaded so use them wisely. For weapons such as cannons and pulses normal left click will fire them. Depending on how much energy your ship has and the amount of these weapons you have it'll dictate the cool down for pulses and cannons. 
