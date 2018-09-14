@@ -55,7 +55,7 @@ Now that you've piloted it, you can fly your ship! **There are 3 basic ways to m
 
 > You must be piloting the ship and holding the controller to do these
 
-1. "Shift" Flying
+#### 1. "Shift" Flying
 
 Shift flying lets you move precisely over short distances and maneuver. **Don't use this for flying around space!**
 
@@ -91,22 +91,19 @@ Your ship should turn right! Left click it, and it should turn left.
 > To turn right, drop the controller (default key `Q`).
 > To turn left, switch it to your offhand (default key `F`).
 
-#### Tips
+### Tips
 * If there's a block in the way of your ship, you can't go that way.
 * Stained glass blocks act as "hangar doors". You can fly ships through them, and they reappear when it exits them.
 * Remember to click on your name on the map again after switching worlds
 * To unpilot your ship, do `/release` or right click the computer.
 * To protect your ship, lock it!
 
-### Shooting
-After learning how to pilot your ship you must now learn how to use it in combat. To shoot heavy weapons such as heavy lasers and torpedoes double right click. There is a cool down on these weapons so you will have to wait until they are reloaded so use them wisely. For weapons such as cannons and pulses normal left click will fire them. Depending on how much energy your ship has and the amount of these weapons you have it'll dictate the cool down for pulses and cannons. 
-
-### What Next
+## What Next
 Now that you know the basics of flying a ship, there are a number of things you can do. You can pick a rank track (/ranktrack) (though you should wait till you can handle pirates), you can make money (which is used to rank up if you are a colonist!), you can bake cake, you can build a ship, you can make a claim or start a settlement, you can JOIN a settlement or nation, and you can go check out the creative server!
 
 Picking a rank track is important but you shouldn't do it just yet, as pirates can kill you for points if you do. 
 
-There are several ways to make money. You can trade with other players, ship cargo between the stations (see [https://www.starlegacy.enjin.com/wiki/m/44193093/page/Cargo_Trading here]), or you can sell items to the importer. To see how much an item sells for, use /value. The importer comes in two forms: An NPC named after the system (e.g. "Sobrii Importer") or the importer chest (available in some areas of eco stations). 
+There are several ways to make money. You can trade with other players, ship cargo between the stations (see [ here](https://www.starlegacy.enjin.com/wiki/m/44193093/page/Cargo_Trading)), or you can sell items to the importer. To see how much an item sells for, use /value. The importer comes in two forms: An NPC named after the system (e.g. "Sobrii Importer") or the importer chest (available in some areas of eco stations). 
 
 If you want to make trade deals with other players, you can join our Discord server and communicate with the hundreds of other players on the server! Invite link: https://discord.gg/RdRCVkM
 
@@ -114,16 +111,34 @@ If you want to join a settlement, you can also join that and go to the #recruiti
 
 If you want to make a small personal claim to protect some stuff, use /claim. To expand it, stand inside it and use /expandclaim. If you want to claim a large plot of land on a planet, use /settlement create <name>. The amount of money it takes depends on the size of a territory, a very small piece of land could be 1,000 credits while a huge one could be as much as 20,000 credits. 
 
-Finally, you can check out the creative server on /server creative. By default, you can claim one alpha plot (a 64x64 plot). You can donate for bigger plots at https://www.starlegacy.enjin.com/shop . If you want some inspiration, it is recommended that you go to /warp spaceplots and see what other people have built.
+Finally, you can check out the creative server on /server creative. By default, you can claim one alpha plot (a 64x64 plot). You can donate for bigger plots at [the donation store](/donate) . If you want some inspiration, it is recommended that you go to /warp spaceplots and see what other people have built.
 
 ### Getting to Planets
-In the system you start in there are several planets. Open the map (/map) and look at the system on the top left, where you start. Find a planet and see which way to go to get to, then fly to its icon. To enter a planet just fly into it. Once you get there, make sure that you don't land in claimed land - you won't be able to build there.
-### Getting to Neighboring Systems
-In other systems like Frigus and Ignum, you may find interesting planets with items that cannot be found in Sobrii. To get there, you will need a [[Hyperdrives|hyperdrive]]. A hyperdrive runs on Cheterite for fuel, which can be mined on asteroids. With your hyperdrive fueled and ready, head to one of the hyperspace beacons of the corresponding system you're heading to. These beacons look like nether portals on the map. To use the hyperdrive at these beacons you must fly very close to the beacon which is a space station. When you get close enough in chat a message will pop up telling you to accept or deny the hyperspace jump to the solar system it is designated to send you to. With help of the hyperdrive, you can also establish trade routes between systems which import and export crates from or to other systems. For more info, check out [[Cargo_Trading|the page on cargo trading]]. Once you've unlocked a [[Navigation_Computers|navigation computer]], you can use it to go through hyperspace to any point in space. However, you may get caught in mass shadows like dark matter, planets, or stars. The best way remains to be using hyperspace beacons.
+In the system you start in there are several planets. 
 
-### Cryopod
-Now that you're on a planet, you should build [s]wall[/s] a cryopod. A cryopod is where you'd respawn if you die. If a cryopod gets destroyed, obstructed, or moved, you will respawn at the eco station instead. You also can not have more than one cryopod active at one time. You can acquire the basic materials you need from `/kit cryo`. (7 day cooldown) After building your cryopod, put a sign with "[cryopod]" on the first line and right-click on the sign to activate it. Below is the simplest basic design for a cryopod. You should cover your cryopod with more blocks or even hide it to prevent it being destroyed. For more info use `/info cryopod`
-- Note: Cryopods can be placed on ships.
+Open the map (/map) and look at the system on the top left, where you start. Pick a planet, then fly to its icon. To enter a planet, fly your ship into it.
+
+When you arrive, make sure that you don't land in claimed land - you can't build in claimed land.
+
+### Getting to Neighboring Systems
+In other systems like Frigus and Ignum, you may find interesting planets with items unavailable in Sobrii. 
+
+To get there, you will need a [hyperdrive](/wiki/hyperdrive). Hyperdrives use **chetherite** for fuel, which you can get from mining asteroids. 
+
+With your hyperdrive fueled and ready, head to one of the **hyperspace beacons** in your system. These beacons look like portals on the map. 
+
+To use the beacon, fly very close to the beacon station. When you get close enough, you will get a message saying "accept or deny" the jump to its system.
+
+Once you've unlocked a [navigation computer](/wiki/navcomputer), you can use it to go through hyperspace from and to any point in space. However, you may get caught in mass shadows like dark matter, planets, or stars!
+
+### Cryo Pods
+Now that you're on a planet, you should build a cryo pod!
+Cryo pods are devices that you respawn at when you die.
+If you don't have one, you respawn at the station.
+
+To make one, use `/kit cryo` to get the parts, and see `/info cryopod` for an explanation of building them.
+
+> To prevent your cryo pod from being destroyed, you can use [area shields](/wiki/areashields) or hide it!
 
 Diagram of a cryopod:
 
@@ -136,7 +151,7 @@ Diagram of a cryopod:
 ![Image](https://gyazo.com/7d1f7bc501c64a264e368b9163b3edc6.png)
 
 ### Re-textured blocks
-In this server you may encounter several different terms used for blocks and new minerals alike. To maximize your experience, it is recommended to use the provided server resource pack which can also be downloaded offline [https://github.com/Miclebrick/StarLegacyResourcepack/blob/master/StarLegacyPack.zip?raw=true here].
+In this server you may encounter several different terms used for blocks and new minerals alike. To maximize your experience, it is recommended to use the provided server resource pack which can also be downloaded offline [from the github](https://github.com/MicleBrick/StarLegacyResourcepack/releases).
 Here's an example of blocks which have been re-textured or renamed:
 ![Image](https://i.imgur.com/rxwpHkc.png)
 Left to right:
@@ -149,16 +164,16 @@ Left to right:
 
 ### Added Crafting Recipes
 * Sea Lantern can be crafted out of 4x Focusing Lens (Prismarine Crystals) and vice versa.
-* [[Power_Gear|Power Gear]].
+* [Power Gear](/wiki/powergear).
 * Copper, Aluminum, Chetherite, Titanium, and Uranium Blocks out of 9x of each respective item.
 * 16x Wire (End Rod) can be crafted out of 3x Copper Ingots.
 
 ### Ranks and Advancements
 Meanwhile, you should decide on a [[Ranks|rank path]] (`/ranktrack`).
 
-After choosing a rank path, you may now earn points. Points can be used to rank up, unlocking bigger ship types and making higher tier advancements available to unlock. Colonists get points by getting money (money = points, losing money = losing points and ranking up takes money) and pirates/privateers get points from kills.
+After choosing a path, can earn points. Points are used to rank up, unlock bigger ship types and unlock higher advancement tiers. Colonists get points by getting money (money = points, losing money = losing points and ranking up costs money) and pirates/privateers get points from kills.
 
-Advancements are unlockable technologies which can be implemented to your ship, defenses, or automatons (more on that later). They also cost points to unlock, increasingly more expensive the higher the tier. Advancements can be implemented on ships, defenses, and automatons. [Click here to jump to Advancements](#main-features).
+Advancements are unlockable technologies which can be added to your ship, defenses, or automatons (more on that later). They also cost points to unlock, increasingly more expensive the higher the tier. Advancements can be implemented on ships, defenses, and automatons. [Click here to jump to Advancements](#main-features).
 
 ### Claiming Land
 Now with a base set up you should protect it using GriefPrevention, or GP for short. You can do a basic claim using `/claim`. To do more advanced stuff like custom sizes and shapes, you'll need a golden shovel (gold can be acquired on asteroids). You may only have one GP claim in a world, but you can expand them later with a golden shovel. For more info, you should check out the tutorial in this [video on YouTube](http://bit.ly/mcgpuser).
