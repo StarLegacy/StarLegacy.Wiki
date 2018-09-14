@@ -4,7 +4,7 @@ Welcome! This guide will teach you the basics of the server.
 
 ## Getting Started
 
-The interstellar government gave you some omoney from the refugee funds. 
+The interstellar government gave you some money from the refugee funds. 
 Use it to get a ship from the ship dealer and fly to a planet!
 
 ### Basic Gear
