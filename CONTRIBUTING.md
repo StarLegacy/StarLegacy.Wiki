@@ -3,7 +3,7 @@ We appreciate help with the wiki! To get started, hit the Fork button on the [pr
 That gives you your own copy of the wiki repository.
 
 ## Getting your own mirror/fork of the repository
-https://guides.github.com/activities/forking/
+Check out [this guide](https://guides.github.com/activities/forking/)
 
 ## Formatting
 The wiki uses [Markdown](https://commonmark.org/). For a quick tutorial on using it, [see here](https://commonmark.org/help/)!
