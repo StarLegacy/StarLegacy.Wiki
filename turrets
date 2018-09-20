@@ -1,0 +1,3 @@
+Turrets are multiblock structures useful for larger ships and base defense platforms. You can put them on starships and they work even while it's flying (if attached to a node). They have more firepower than TNT per energy bolt and can make a big difference in the hands of a skilled and well-fortified gunner.
+
+To create the sign, it must be directly below (or above, if it's an upside-down turret) the center of the sponge blocks under the turret, 2 blocks down, and say the axis on the second line (e.g. "top" or "bottom", refering to the turret, not the sign). The first line must say [turret].
