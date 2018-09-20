@@ -1,0 +1,24 @@
+**Main chat channels**
+Your messages will send in any of these unless you have a secondary channel enabled.
+
+`/l [message]` or simply `/l` to chat/switch to **local chat**.
+
+`/g [message]` or simply `/g` to chat/switch to **global chat**.
+
+`/vip [message]` or simply `/vip` to chat/switch to **vip chat** (only available for VIP players).
+
+**Secondary chat channels**
+These channels have to be disabled for your message to send to your selected main channel.
+
+`/sc` to enable/disable settlement chat.
+
+`/nc` to enable/disable nation chat.
+
+`/ac` to enable/disable ally chat.
+
+**Misc chat**
+These messages are direct, and won't be put in any channels.
+
+`/msg [playername] [message] for a direct message to a specific player.
+
+`/mail send [playername] [message] for a direct message to an offline player.
