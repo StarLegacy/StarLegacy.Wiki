@@ -1,4 +1,4 @@
-Mining using a Drill
+# Mining using a Drill
 Note: Consult page Drills to see how to make one
 Ever wondered how nations like the First Order and Arimfea has so many resources? (besides stealing, raiding, and sla- unpayed interns)
 

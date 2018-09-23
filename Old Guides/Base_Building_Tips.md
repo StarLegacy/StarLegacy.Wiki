@@ -6,7 +6,7 @@ Contents
 4 Ship Defense
 5 How to use Base Ship Defenses
 Base Location
-Bases, bases, bases. From large sky scrapers to underground bunkers, bases take many shapes and sizes. But where do you put such a base? The first step is choosing a planet. There are many planets in the 4 solar systems in Star Legacy, and choosing the right solar system to head to can be the difference between living next to certain death or a relatively peaceful area. Next is the planet to choose from. There are a wide variety of different planets ranging from cold icy planets to inferno hell like planets to lush tropical island planets. Choosing the one for you is very important because you’ll probably be staying there a while.
+Bases, bases, bases. From large sky scrapers to underground bunkers, bases take many shapes and sizes. But where do you put such a base? The first step is choosing a planet. There are many planets in the 4 solar systems in Star Legacy, and choosing the right solar system to head to can be the difference between living next to certain death or a relatively peaceful area. Next is the planet to choose from. There are a wide variety of different planets ranging from cold icy planets to inferno hell like planets to lush tropical island planets. Choosing the one for you is very important because youï¿½ll probably be staying there a while.
 
 Once you have found the solar system and planet of your choosing, you want to head there right away. Looking at the map is very helpful in not just finding a planet, but also finding a place to settle in. Looking over the planet, find a nice, unclaimed area that will suit your needs. (Joining a settlement, however, will be much easier to get a good foot hold on a planet) Once you have landed on the ground, find a place to put your crappy first survival house. In that house, having a cry-pod and storage is crucial. If you are unable to buy the claim, try claiming it with Grief Prevention, this will keep your valuables safe from unwanted guests.
 
@@ -15,7 +15,7 @@ By now you should start setting up a temporary mini base. This is a base that is
 
 b03842047f3b147f86e51f33482271ad.png
 
-...but you’re WRONG. This turret is unprotected, exposed, and is very easy for enemy to turret kill you. To properly arm your turret you will need preferably iron bars and a stone slab, but for beginners glass pains and any slab will do fine for now. This is done by placing the iron bars and slab as shown in the below:
+...but youï¿½re WRONG. This turret is unprotected, exposed, and is very easy for enemy to turret kill you. To properly arm your turret you will need preferably iron bars and a stone slab, but for beginners glass pains and any slab will do fine for now. This is done by placing the iron bars and slab as shown in the below:
 
 799a31eaecacf90ae53ca276824bafde.png
 

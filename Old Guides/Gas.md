@@ -1,8 +1,3 @@
-Contents
-1 Gas
-1.1 Gas Canisters
-1.2 Gas Collectors
-1.2.1 Multiblock
 Gas
 Gasses are useful for generating power and they may have other uses in the future. (Hydrogen generates 5000 power per canister.) You collect gasses using gas collectors and store them with gas canisters. You can see how to make those below.
 

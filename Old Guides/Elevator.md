@@ -1,7 +1,8 @@
-Using the Elevators
-By clicking on the "Dest:" sign of the elevator above the button, you can change where the elevator will take you. Stand on the block in front of the signs and press the button.
+# Elevators
+Elevators are simple multiblocks you can use to move up and down floors in buildings with ease.
 
-Creating a New Elevator
+
+## Building an elevator
 An Elevator is created with a few simple easy steps:
 
 1. Create a hollow vertical shaft in a size of your choice from 1x1 up to 15x15. The whole shaft must be the same size.
@@ -20,9 +21,10 @@ An Elevator is created with a few simple easy steps:
 
 7. When you have added all the floors you want, right- or left-click the blank sign to make it update and show destination floor. This does not mean you cannot add more floors, as the sign will update again when you interact with it.
 
+> You may cover the glass and iron of your elevator floors with carpet.
 
-Addtional Information:
+## Using an elevator
 
-- You may cover the glass and iron of your elevator floors with carpet.
+By clicking on the "Dest:" sign of the elevator above the button, you can change where the elevator will take you. Stand on the block in front of the signs and press the button.
 
-- Since the button, sign, and glass is all that is needed for a floor, you can create a spaceship that supports an Elevator going into and out of it when you line up the glass with the bottom destination (e.g. level 1 in your base, level 2 on ship)
+> Since the button, sign, and glass is all that is needed for a floor, you can create a spaceship that supports an Elevator going into and out of it when you line up the glass with the bottom destination (e.g. level 1 in your base, level 2 on ship)
