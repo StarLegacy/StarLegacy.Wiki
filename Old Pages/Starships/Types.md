@@ -5,6 +5,21 @@ These include block size limits, power output, and container percent.
 
 They are split into freighters and warships.
 
+You unlock these by ranking up. Everyone has shuttle by default.
+Ranking up as a colonist gets you freighters a rank earlier than others, 
+and ranking up as a pirate or privateer gets you warships
+a rank earlier than colonists.
+
+#### Examples
+* Colonists get transports at rank 2,
+  but pirates and privateers get it at rank 3.
+
+* Pirates and privateers get starfighters at rank 1,
+  colonists get them at rank 2.
+
+* Pirates and privateers get cruisers at rank 5,
+  colonists get them at rank 6.
+
 > Cargo percent is the percent of blocks that can be inventory blocks.
 > Chests count as three inventory blocks.
 
