@@ -52,8 +52,8 @@ right click the sign to create it, and fill it up with power.
 ![30block1]
 ![30block2]
 
-[5block1]: https://forum.starlegacy.net/uploads/default/original/1X/b8d0e5fee93c5bdfe88d01b9b3d514aa4e8182c1.jpeg
-[5block2]: https://forum.starlegacy.net/uploads/default/original/1X/166f078a11beece5972763f8487b4a9d0392fc91.jpeg
+[5block1]: https://forum.starlegacy.net/uploads/default/original/1X/21bce726bc7ed2afe8baef3b94daf62ea65dacbe.jpeg
+[5block2]: https://forum.starlegacy.net/uploads/default/original/1X/659df0eba8c836a65bbe675eeb0c872e74add04a.jpeg
 
 [10block1]: https://forum.starlegacy.net/uploads/default/original/1X/b8d0e5fee93c5bdfe88d01b9b3d514aa4e8182c1.jpeg
 [10block2]: https://forum.starlegacy.net/uploads/default/original/1X/166f078a11beece5972763f8487b4a9d0392fc91.jpeg
