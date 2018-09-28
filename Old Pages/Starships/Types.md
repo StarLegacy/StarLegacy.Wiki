@@ -1,22 +1,31 @@
-There are various classes of starships which have unique stats, such as block size, power output per second, and dropper percentages.
+# Starship Types
+Every starship has a type.
+Starship types have their own stats.
+These include block size limits, power output, and container percent.
 
-Red = Colonist Primary Ships, Blue = Pirate/Privateer Primary Ships.
+They are split into freighters and warships.
 
-These ships are unlocked by ranking up. You unlock the tier ship of your ranktrack and the tier under it of the other.
+> Cargo percent is the percent of blocks that can be inventory blocks.
+> Chests count as three inventory blocks.
 
-Ex, If you get T2 colonist, you would have unlocked the T2 colonist ship, and T1 privateer/pirate ship.
+## Warships
+> **Cargo Percent**: 2.5%
 
-NOTE: The minimum hull block (concrete) percentage, for all ships, is 30% NOTE: Chest = to 3 storage. Dispenser/Dropper = 1
+| Name        	    | Block Size Range 	| Power Output 	|
+|------------------	|------------------	|--------------	|
+| Starfighter 	    | 50-500           	| 25,000       	|
+| Corvette    	    | 500-2000         	| 30,000       	|
+| Frigate     	    | 2000-4000        	| 40,000       	|
+| Destroyer   	    | 4000-8000        	| 60,000       	|
+| Cruiser     	    | 8000-12000       	| 85000        	|
 
-Name	Minimum Blocks	Maximum Blocks	Power Output	Dropper Percent	Role
-Speeder	25	100	12,000	4.5%	Schoolbus
-Shuttle	50	500	15,000	4.5%	Freighter
-Transport	500	2000	20,000	4.5%	Freighter
-Light Freighter	2000	4000	25,000	4.5%	Freighter
-Heavy Freighter	4000	6000	30,000	4.5%	Freighter
-Barge	6000	12000	35,000	4.5%	Freighter
-Starfighter	50	500	25,000	2%	Fighter
-Corvette	500	2000	30,000	2%	Warship
-Frigate	2000	4000	40,000	2%	Warship
-Destroyer	4000	6000	60,000	2%	Warship
-Cruiser	6000	12000	85,000	2%	Warship
+## Freighters
+> **Cargo Percent**: 4.5%
+
+| Name            	| Block Size Range 	| Power Output 	|
+|------------------	|------------------	|--------------	|
+| Shuttle         	| 50-500           	| 15,000       	|
+| Transport       	| 500-2000         	| 20,000       	|
+| Light Freighter 	| 2000-4000        	| 25,000       	|
+| Heavy Freighter 	| 4000-8000        	| 30,000       	|
+| Barge           	| 8000-12000       	|  40,000      	|
