@@ -1,4 +1,5 @@
 # Ship Factory
+
 A ship factory is a machine that automatically builds a ship in front of you.
 
 There are two types of ship factories -
