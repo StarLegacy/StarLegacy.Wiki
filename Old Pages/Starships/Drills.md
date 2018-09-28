@@ -7,8 +7,6 @@ Right clicking the sign enables the drill.
 Then, after redetecting, pilot your ship, fly forward,
 and it will begin to break blocks in the way.
 
-As of now, these DO drill through liquid. However, this may be changed, and the wiki will be updated accordingly.
-
 ## Drill Sizes:
 **Tier 1**: 5x5 hole
 
