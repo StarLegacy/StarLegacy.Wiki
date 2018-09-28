@@ -20,8 +20,8 @@ a rank earlier than colonists.
 * Pirates and privateers get cruisers at rank 5,
   colonists get them at rank 6.
 
-> Cargo percent is the percent of blocks that can be inventory blocks.
-> Chests count as three inventory blocks.
+Cargo percent is the percent of blocks that can be inventory blocks.
+Chests count as three inventory blocks.
 
 ## Warships
 > **Cargo Percent**: 2.5%
