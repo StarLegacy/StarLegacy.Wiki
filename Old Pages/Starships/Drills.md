@@ -31,6 +31,7 @@ Materials required: 1x furnace, 1x dropper, 1x noteblock, 1x redstone block, 1x 
 tier 2 is diamond and tier 3 is emerald. Don't mix it up!
 
 ### Images
+
 ([Contribute!](/wiki/contributing))
 
 ### Sign
@@ -40,5 +41,6 @@ The sign must read [drill], and when clicked will automatically assign the corre
 Furthermore, you must place 2 focus lens into the drills furnace. Place 1 in the top and the other in the bottom. WIthout it, it will not work!
 
 ## Video Tutorial
+
 If you're a visual learner, see this
 [detailed video tutorial!](https://youtu.be/bObAMu28blM)
