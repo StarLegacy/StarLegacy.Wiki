@@ -1,66 +1,145 @@
-Contents
-1 Starship Weaponry
-1.1 Laser Cannons
-1.2 Pulse Cannons
-1.3 Plasma Cannons
-1.4 Proton Torpedoes
-1.5 Heavy Lasers
-1.6 Auto Turrets
-Starship Weaponry
-There are many weapons available to shipwrights wanting to arm their builds. Weapons typically require power, which is provided from the starship's power output. They do large amounts of damage, although this can be absorbed using particle shields.
+# Starship Weapons
 
-There are two different weapon types: light weapons and heavy weapons. To fire light weapons, hold a clock in your hand and press left mouse button. To fire heavy weapons, hold a clock in your hand and hold down the right mouse button for about 1 second.
+Starships can (and should!) have weapons to defend themselves.
+There is a variety of types of starship weapons.
+This page walks you through them.
 
-Laser Cannons
-7508864fb35cf36a74fa58ea97f576c7.png
+## Firing Weapons
 
-Materials required: 1x sponge, 1x piston
+Weapons can be either light or heavy weapons.
+**Light weapons** are fired by left clicking with a starship controller.
+**Heavy weapons** are fired by right clicking with a starship controller.
 
-Laser cannons are your most basic weapons. They use 1000 power per shot and have a range of 300 blocks. Their projectiles move straight forward and have an explosion power of 2.0. They can break armor, but not by much. Laser Cannons count as light weapons.
+## Weapon Types
 
-Pulse Cannons
-57353619d282f17e43f6f11d365a1223.png
+### Laser Cannons
 
-Materials required: 1x sponge, 1x stained glass
+The simplest starship weapon is the laser cannon.
+Laser cannons fire towards the targetted block,
+with a firing cone of 15 degrees, a single explosion on impact,
+and linear power usage.
+They fire yellow projectiles.
 
-Pulse cannons are low powered weapons which, although the cannot breach armor, are useful for dealing small repeated damage to shields, using on larger ships, and killing players with. They are fully aimable but have low range and a 1.75 explosion power. They use 500 power per shot and have a range of 200 blocks. NOTE: The color of pulse cannons is based on the stained glass. Pulse Cannons count as light weapons.
+#### Laser Cannon Multiblock
 
-Plasma Cannons
-e020d835f5d726d7b429c6c137c02033.png
+> **Requirements**
+> * `1x Sponge`
+> * `1x Piston`
 
-Materials Required: 1x sponge, 1x iron block, 1x furnace
+![lasercannontop]       <!-- Top view image -->
+![lasercannonside]      <!-- Side View Image -->
 
-Plasma cannons are like laser cannons but much more powerful. You can only have a few of them on ships. They use 1000 power per shot and you can only fire 4 at a time (This is subject to change). They have an explosion power of 4.0, equivalent to TNT. Plasma Cannons count as light weapons.
+#### Laser Cannon Details
 
-Proton Torpedoes
-1ab7937c14d9477845dd3d3fb280a7ec.png
+> **Power Usage** *500 power per cannon per shot*
+>
+> **Range** *190 blocks*
+>
+> **Type** *Light Weapon*
+>
+> **Impact** *1x energy explosion, power 2.0*
 
-Materials required: 2x sponge, 1x dispenser
+### Pulse Cannons
 
-Proton torpedoes are heavy weapons useful for smaller ships. You can only have a few on any ship, even ones with high power output. You fire them by holding or double clicking right click. They have an explosion power of 8.0 and a range of 300 blocks. They are most effective when spaced apart. Torpedoes count as heavy weapons.
+The most aimable light weapon is the pulse cannon.
+Pulse cannons fire at the targetted block with no angle limit.
+Their color is based on the color of their multiblock's stained glass.
 
-Heavy Lasers
-5107adc39d05af0a1a2ee0c48767b12b.png
+#### Pulse Cannon Multiblock
 
-Materials required: 7x redstone block, 28x stained glass (any color), 1x furnace
+> **Requirements**
+> * `1x Sponge`
+> * `1x Stained Glass`
 
-Heavy lasers are powerful weapons useful for larger ships. They create ten 3.0 power explosions on impact, with approximately 150 milliseconds in between. They use 5000 power per shot, although they use a bit less the bigger your ship is, and have a maximum range of 500 blocks. They are primarily useful on larger ships when fighting against other large ships. Heavy Lasers count as heavy weapons.
+![pulsecannontop]       <!-- Top view image -->
+![pulsecannonside]      <!-- Side view image -->
+
+#### Pulse Cannon Details
+
+> **Power Usage** *400 per cannon for ships at least 5000 blocks,*
+                > *400 more for every 1000 blocks smaller*
+>
+> **Range** *165*
+>
+> **Type** *Light Weapon*
+>
+> **Impact** *1x energy explosion, power 1.75*
+
+[lasercannontop]: https://forum.starlegacy.net/uploads/default/original/1X/503c55842997e104ccac75cbdc1577360372ae86.png
+[lasercannonside]: https://forum.starlegacy.net/uploads/default/original/1X/4c45592b2fd12e6717010b11d2afd8085f394162.png
+
+[pulsecannontop]: https://forum.starlegacy.net/uploads/default/original/1X/ee68dfd7f357af7edb67a02fdcb1c7748cb060d4.png
+[pulsecannonside]: https://forum.starlegacy.net/uploads/default/original/1X/2387f4c223aa8b351e533e1c18e7537c8cfbe7a2.png
+
+#### Plasma Cannons
+
+![Image](https://i.gyazo.com/e020d835f5d726d7b429c6c137c02033.png)
+
+`Materials Required: 1x sponge, 1x iron block, 1x furnace`
+
+Plasma cannons are like laser cannons but much more powerful.
+You can only have a few of them on ships.
+They use 1000 power per shot and you can only fire 4 at a time.
+They have an explosion power of 4.0, equivalent to TNT.
+Plasma Cannons count as light weapons.
+
+#### Proton Torpedoes
+
+![Image](https://i.gyazo.com/1ab7937c14d9477845dd3d3fb280a7ec.png)
+
+`Materials required: 2x sponge, 1x dispenser`
+
+Proton torpedoes are heavy weapons useful for smaller ships.
+You can only have a few on any ship, even ones with high power output.
+You fire them by holding or double clicking right click.
+They have an explosion power of 8.0 and a range of 300 blocks.
+They are most effective when spaced apart.
+Torpedoes count as heavy weapons.
+
+#### Heavy Lasers
+
+![Image](https://i.gyazo.com/5107adc39d05af0a1a2ee0c48767b12b.png)
+
+`Materials required: 7x redstone block, 28x stained glass (any color), 1x furnace`
+
+Heavy lasers are powerful weapons useful for larger ships.
+They create ten 3.0 power explosions on impact,
+with approximately 150 milliseconds in between.
+They use 5000 power per shot, though they use less on bigger ships,
+and have a maximum range of 500 blocks.
+They are primarily useful on larger ships
+when fighting against other large ships.
+Heavy Lasers count as heavy weapons.
 
 NOTE: Furnace is the FRONT of the weapon
-Auto Turrets
-b8764272cdb7d391f7b1ac5cbd1a064d.png
 
-Materails required: 1x dispenser, 1x iron block, 1x redstone lamp.
+#### Auto Turrets
 
-Auto turrets are mainly useful for ships that are too big to maneuver and shoot down smaller ships. They do not have a rapid enough rate of fire and consume too much power to have many of on small ships, so they are only truly useful on big ships. They are very effective on a cruiser firing against starfighters and corvettes. They have a range of 200 blocks, explosion power of 2.0, and power usage of 100. They are also primarily defensive weapons - if you move around or fire other weapons, they can't fire as much, and they have difficulty hitting moving targets. NOTE: If you put a dye in the dispenser, then it uses that as the color of the shot. The dispenser must also be facing into the iron block.
+![Image](https://i.gyazo.com/b8764272cdb7d391f7b1ac5cbd1a064d.png)
 
-NOTE: The redstone lamp is where the auto turret fires from
-To set up auto turrets you need [node] signs. Place a sign on the dispenser that says, for example:
+`Materials required: 1x dispenser, 1x iron block, 1x redstone lamp.`
 
-line 1 [node]
+Auto turrets can target players and shoot at them automatically.
+They are very effective on a cruiser firing
+against starfighters and corvettes.
+They have a range of 200 blocks, explosion power of 2.0,
+and power usage of 100.
+They are also primarily defensive weapons -
+if you move around or fire other weapons, they can't fire as much,
+and they have difficulty hitting moving targets.
 
-line 2 defense
+The redstone lamp is where the auto turret fires from.
+To set up auto turrets you need [node] signs.
+Place a sign on the dispenser that says, for example:
+> Line 1: [node]
+>
+> Line 2: defense
 
-Then, you can do /settarget defense <player>
+Then, you can do `/settarget defense <player>`
 
-You can also turn heavy turrets into auto heavy turrets. To do this, simply place a node sign on the turret sign, like so: oyKvb_ecSYSumhBepC-80A.png
+> Alternatively, you can use `/st` instead of `/settarget`
+
+You can also turn heavy turrets into auto turrets.
+To do that, place a node sign on the turret sign, like this:
+
+![Image](https://image.prntscr.com/image/oyKvb_ecSYSumhBepC-80A.png)
