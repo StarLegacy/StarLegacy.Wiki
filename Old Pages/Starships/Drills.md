@@ -1,5 +1,6 @@
 # Starship Drills
-*Starship Drills* are drills mounted on starships
+
+Starship drills are drills mounted on starships
 and used to mine large areas efficiently.
 They require a constant stream of power to work.
 
@@ -8,6 +9,7 @@ Then, after redetecting, pilot your ship, fly forward,
 and it will begin to break blocks in the way.
 
 ## Drill Sizes:
+
 **Tier 1**: 5x5 hole
 
 **Tier 2**: 7x7 hole
@@ -17,6 +19,7 @@ and it will begin to break blocks in the way.
 The drill doesn't move by itself - you need to mount it on a starship and move the it.
 
 ## Multiblock
+
 Materials required: 1x furnace, 1x dropper, 1x noteblock, 1x redstone block, 1x redstone lamp, 2x tier block, 4x glass pane, 1x glass, 1x sign
 
 ### Tier Blocks:
