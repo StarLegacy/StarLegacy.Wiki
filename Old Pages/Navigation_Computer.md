@@ -1,20 +1,44 @@
-Contents
-1 Navigation Computers
-1.1 Multiblocks
-1.1.1 Basic
-1.1.2 Advanced
-Navigation Computers
-Navigation computers are subsystems that allow you to plot hyperspace jumps with no hyperdrive beacon nearby. Navcomputers have GUI menus that allow you to pick from a number of methods to plot courses, such as entering coordinates, finding the nearest hyperspace beacon leading to another system, or using pre-programmed routes to get to places. (NOTE: Not all of these are currently implemented)
+<!-- so for example, let's fix this dumb broken page -->
 
-Multiblocks
-The sign for navcomputers is [navcomputer].
+# Navigation Computers
 
-Basic
-Materials required: 2x diamond block, 2x stairs, 1x sponge, 2x iron block, 4x glass pane, 1x glass
+Navigation computers are subsystems for starships
+used to plot hyperspace jumps without a hyperspace beacon.
 
-4110341a5ed067cde956adf128707017.png
+## Building a nav computer
 
-Advanced
-Materials required: 1x diamond block, 8x stairs, 3x glass pane, 10x iron block, 8x sponge,
+> The sign text for nav computers is `[navcomputer]`
 
-4db72f63af51e11df98d3441d936d20d.png 6b597fc0ff3b6a68ca8ba5ef31508cfa.png
+### Nav computer types
+
+Currently, there is no major difference between the types.
+However, there may be in the future more advanced functions
+to the advanced one, such as being able to go to new sectors.
+
+#### Basic
+> **Requirements**
+>
+> * `2x Diamond Block`
+> * `2x (Any) Stairs`
+> * `1x Sponge`
+> * `2x Iron Block`
+> * `4x Glass Pane`
+> * `1x Glass`
+
+![basicnav1]
+
+#### Advanced
+> **Requirements**
+>
+> * `1x Diamond Block`
+> * `8x (Any) Stairs`
+> * `3x Glass Pane`
+> * `10x Iron Block`
+> * `8x Sponge`
+
+![advancednav1]
+![advancednav2]
+
+[basicnav1]: https://i.gyazo.com/4110341a5ed067cde956adf128707017.png
+[advancednav1]: https://i.gyazo.com/4db72f63af51e11df98d3441d936d20d.png
+[advancednav2]: https://i.gyazo.com/6b597fc0ff3b6a68ca8ba5ef31508cfa.png
