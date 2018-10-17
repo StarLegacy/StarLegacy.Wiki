@@ -2,19 +2,21 @@
 # Power Machines
  On this page, you will learn how to create and store power, and how you can use it. Wires will be mentioned, but clearly explained here.
 
-## Tiers
+## Power Machine Tiers
 * __Tier 1:__ Iron Block 
 * __Tier 2:__ Gold Block 
 * __Tier 3:__ Diamond Block
 
 These tier blocks are used in the power machines instead of the iron blocks seen in the pictures. 
-> You CANNOT mix different Tier blocks together, this will make the machine not function. (eg. 1 iron block and 1 diamond block in a generator)
+> You CANNOT mix different Tier blocks together, this will make the machine not function. 
+> (e.g. 1 iron block and 1 diamond block in a generator)
 
 > Tier blocks do not work in other machines unless specified. (eg. Diamond blocks instead of iron in printer)
 
-## Furnaces
+## Power Furnaces
 
-Generators and Chargers require a furnace. In the top slot of the furnace, you MUST place a focusing lens (prismarine crystal). This allows the machine to operate. 
+Generators and Chargers require a furnace. In the top slot of the furnace, you MUST place a focusing lens (prismarine crystal).
+This allows the machine to operate. 
 > (Note, the crystals cannot be shift clicked into the slot) 
 
 In the bottom slot, you place either fuel or the charging item. For example
@@ -22,19 +24,31 @@ In the bottom slot, you place either fuel or the charging item. For example
 * __Generators:__ Place fuel in the bottom slot and a prismarine crystal in the top slot.
 * __Chargers:__ Place the power armor or weapon you wish to charge in the bottom slot and the prismarine crystal in the top slot.
 
-# Generator
+## Power Generators
 Generator will burn fuels and gasses and in return create energy.
 > Energy output is from the crafting tables. Connect crafting tables to other machines via sponges and wires.
 
 To use a generator, you put the fuel in the fuel slot, and a focusing lens (prismarine crystals) in the smelting slot.
 
-## Capacities for Generator Tiers
+### Generator Tier Capacities
+> See above for more information about tiers
 * __Tier 1 Generator:__ 100k power
 * __Tier 2 Generator:__ 175k power
 * __Tier 3 Generator:__ 250k power
 
-## Generator Fuels
+### Generator Fuels
 -In order of least to greatest power generation-
+
+| Name           | Power | Cooldown |
+| Coal           | 500   | 40       |
+| Charcoal       | 400   | 40       |
+| Coal Block     | 4000  | 300      |
+| Redstone Dust  | 750   | 75       |
+| Redstone Block | 6500  | 350      |
+| Hydrogen Gas   | 300   | 200      |
+| Oxygen Gas     | 100   | 150      |
+| Nitrogen Gas   | 250   | 100      |
+| Uranium        | 10000 | 2000     |
 
 __Charcoal:__
 
