@@ -37,8 +37,6 @@ To use a generator, you put the fuel in the fuel slot, and a focusing lens (pris
 * __Tier 3 Generator:__ 250k power
 
 ### Generator Fuels
--In order of least to greatest power generation-
-
 | Name           | Power | Cooldown |
 |----------------|-------|----------|
 | Coal           | 500   | 40       |
