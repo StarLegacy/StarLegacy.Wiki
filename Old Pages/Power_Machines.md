@@ -40,6 +40,7 @@ To use a generator, you put the fuel in the fuel slot, and a focusing lens (pris
 -In order of least to greatest power generation-
 
 | Name           | Power | Cooldown |
+|----------------|-------|----------|
 | Coal           | 500   | 40       |
 | Charcoal       | 400   | 40       |
 | Coal Block     | 4000  | 300      |
