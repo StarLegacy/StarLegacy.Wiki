@@ -1,41 +1,30 @@
-Contents
-1 Power Machines
-1.1 Tiers
-1.2 Furnaces
-1.3 Capacities for Generator Tiers
-1.4 Generator
-1.5 Generator Fuels
-1.6 Gases (In Canisters)
-1.7 Burnable fuels
-1.8 Multiblock
-1.9 Charger
-1.10 Charger Capacities for Tiers
-1.10.1 Multiblock
-1.11 PowerFurnace
-1.11.1 Multiblock
-1.12 Power Bank
-1.12.1 Multiblock
-1.13 PowerCell
-1.14 Multiblock
+
 # Power Machines
-Here you will find all you need to know about power machines. The machines covered in this part of the wiki include generators, chargers, and power banks. Wires will be mentioned, but clearly explained here. On this page, you will learn how to create and store power, and how you can use it. NOTE: This power is not to be confused with ship power, which is based on the ship's class and is pre-determined.
+ On this page, you will learn how to create and store power, and how you can use it. Wires will be mentioned, but clearly explained here.
 
-__Tiers__
-* Tier 1: Iron Block 
-* Tier 2: Gold Block 
-* Tier 3: Diamond Block
+## Tiers
+* __Tier 1:__ Iron Block 
+* __Tier 2:__ Gold Block 
+* __Tier 3:__ Diamond Block
 
-These tier blocks are used in the power machines instead of the iron blocks seen in the pictures. You CANNOT mix different Tier blocks together, this will make the machine not function. (eg. 1 iron block and 1 diamond block in a generator) Tier blocks do not work in other machines unless specified. (eg. Diamond blocks instead of iron in printer)
+These tier blocks are used in the power machines instead of the iron blocks seen in the pictures. 
+> You CANNOT mix different Tier blocks together, this will make the machine not function. (eg. 1 iron block and 1 diamond block in a generator)
 
-__Furnaces__
+> Tier blocks do not work in other machines unless specified. (eg. Diamond blocks instead of iron in printer)
 
-Generators and Chargers require a furnace. In the top slot of the furnace, you MUST place a focusing lens (prismarine crystal). This allows the machine to operate. Without it, the machine will not work. (Note, the crystals cannot be shift clicked into the slot) In the bottom slot, you place either fuel or the charging item. For example
+## Furnaces
+
+Generators and Chargers require a furnace. In the top slot of the furnace, you MUST place a focusing lens (prismarine crystal). This allows the machine to operate. 
+> (Note, the crystals cannot be shift clicked into the slot) 
+
+In the bottom slot, you place either fuel or the charging item. For example
 
 * __Generators:__ Place fuel in the bottom slot and a prismarine crystal in the top slot.
 * __Chargers:__ Place the power armor or weapon you wish to charge in the bottom slot and the prismarine crystal in the top slot.
 
 # Generator
-Generator will burn fuels and gasses and in return create energy. Energy output is from the crafting tables. Connect crafting tables to other machines via sponges and wires.
+Generator will burn fuels and gasses and in return create energy.
+> Energy output is from the crafting tables. Connect crafting tables to other machines via sponges and wires.
 
 To use a generator, you put the fuel in the fuel slot, and a focusing lens (prismarine crystals) in the smelting slot.
 
@@ -93,17 +82,16 @@ __Uranium__
 ## Multiblock
 __Materials Required:__ 1x note block, 2x crafting table, 4x stained glass pane, 1x furnace, 2x redstone block, 2x tier block (iron, gold, or diamond), 1x sign.
 
-![Image](https://i.imgur.com/21msolF.png)
+![genfront]
 
-![Image](https://i.imgur.com/8PdP9pZ.png)
-
+![genrear]
 
 # Charger
 Chargers are necessary for charging items such as batteries, blasters, power gear, and more!
 
 To use a charger, you put the focusing lens in the smelting slot and the item to charge in the fuel slot. When it's done smelting it, it will go in the smelted-item slot.
 
-Chargers take in fuel through their noteblock, and must receive it through wires from a generator.
+> Chargers accept power through their noteblock, and must receive it through wires from a generator or powerbank.
 
 ## Charger Capacities for Tiers
 * __Tier 1 Charger:__ 100k
@@ -112,35 +100,37 @@ Chargers take in fuel through their noteblock, and must receive it through wires
 ## Multiblock
 __Materials Required:__ 1x note block, 8x stained glass pane, 1x furnace, 2x tier block, 1x sign
 
-![Image](https://i.imgur.com/W6xW1VK.png) 
-![Image](https://i.imgur.com/t8R49jz.png)
-
+![chargerfront] 
+![chargerrear]
 
 # PowerFurnace
-The power furnace will help you with all your smelting needs. Using power, input via note block, it smelts ores into their corresponding gems and other items.
+The power furnace operates exactly like a regular furnace, the only difference is that it uses power rather than a burnable fuel.
+> Using wires, input the power into the noteblock of the power furnace.
 
 To use a power furnace, place 1 focusing crystal in the fuel slot and the item that needs smelting into the smelting slot.
 
 ## Multiblock
 __Materials Required:__ 1x Sign, 1x Note Block, 1x Furnace, 2x Glass Blocks, 4x Glass Panes, 4x Iron Blocks
 
-![Image](https://i.imgur.com/LRy8LUt.png)
-![Image](https://i.imgur.com/QK1tyJF.png)
+![furnacefront]
+![furnacerear]
 
-For automation the glass used in the multiblock behind the furnace itself and note block can be used as input. The top of the furnace can be used as an output using a crafting table as so. 
+> For automation, the glass used in the multiblock behind the furnace and note block can be used as input. The top of the furnace can be used as an output using a crafting table like so. 
 
-![Image](https://i.imgur.com/eOGiUPB.png)
+![furnacepipes]
 
 # Power Bank
 Power banks store large amounts of power.
 
-To store power connect the note block with either a sponge or wire, wire or sponge must be connected to power creating source or other power bank with power in it to work. To extract energy use the same method of wires or sponge but connect to the crafting table.
+* __To store power:__ Use wires to connect the note block of the power bank with the power source.
+> The power source can be a generator or solar panels, a power cell, or another power bank.
+* __To extract energy:__ Again using wires, take the energy output from either (or both) crafting table.
 
 ## Multiblock
 __Materials require:__ 11x stained glass, 8x stained glass pane, 3x redstone block, 2x crafting table, 2x tier block, 1x noteblock, 1x sign
 
-![Image](https://i.imgur.com/38EsO5o.png)
-![Image](https://i.imgur.com/BeReP2K.png)
+![powerbankfront]
+![powerbankrear]
 
 # PowerCell
 Power cells are a useful buffer for power grids. They can hold up to 50,000 energy and can output 2k per second if wired correctly.
@@ -148,10 +138,30 @@ Power cells are a useful buffer for power grids. They can hold up to 50,000 ener
 ## Multiblock
 __Materials:__ 1 redstone block, 1 note block, 2 glass panes, 1 sign
 
-![Image](https://i.imgur.com/SW953Z0.png)
+![powercell]
 
-To wire correctly power input is into the redstone block behind the note block. For Output place two crafting tables above and below note block with end-rods leaving both in the direction of the sign, from those wires add two sponges one one each and an iron block in-between those two sponges like seen below:
+### To wire correctly:
+ > Power input is into the redstone block behind the note block. 
 
-![Image](https://i.imgur.com/9yDugPk.png)
+__To wire the output:__ 
+* Place two crafting tables above and below note block with end-rods leaving both in the direction of the sign. 
+* Add two sponges, one on the end of each wire
+* Place an iron block in-between those two sponges
 
-The iron block is the output from PowerCell.
+like seen below:
+
+![powercellwiring]
+
+> The iron block is the output from PowerCell
+
+[genfront]: https://i.imgur.com/21msolF.png
+[genrear]: https://i.imgur.com/8PdP9pZ.png
+[chargerfront]: https://i.imgur.com/W6xW1VK.png
+[chargerrear]: https://i.imgur.com/t8R49jz.png
+[furnacefront]: https://i.imgur.com/LRy8LUt.png
+[furnacerear]: https://i.imgur.com/QK1tyJF.png
+[furnacepipes]: https://i.imgur.com/eOGiUPB.png
+[powerbankfront]: https://i.imgur.com/38EsO5o.png
+[powerbankrear]: https://i.imgur.com/BeReP2K.png
+[powercell]: https://i.imgur.com/SW953Z0.png
+[powercellwiring]: https://i.imgur.com/9yDugPk.png
