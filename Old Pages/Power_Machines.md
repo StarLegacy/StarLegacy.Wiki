@@ -50,49 +50,6 @@ To use a generator, you put the fuel in the fuel slot, and a focusing lens (pris
 | Nitrogen Gas   | 250   | 100      |
 | Uranium        | 10000 | 2000     |
 
-__Charcoal:__
-
- >__Cooldown:__ 40 __Power:__ 400
-
-__Coal:__
-
-> __Cooldown:__ 40
- __Power:__ 500
-
-__Redstone Dust:__
-
-> __Cooldown:__ 75
- __Power:__ 750
-
-
-__Oxygen:__
-
-> __Cooldown:__ 300
- __Power:__ 1000
-
-__Nitrogen:__
-> __Cooldown:__ 200
- __Power:__ 2500
-
-__Hydrogen:__
-
-> __Cooldown:__ 400
- __Power:__ 3000
-
-__Coal Block:__
-
-> __Cooldown:__ 300
- __Power:__ 4000
-
-__Redstone Block:__
-
-> __Cooldown:__ 350
- __Power:__ 6500
-
-__Uranium__
-
-> __Cooldown:__ 1000
- __Power:__ 7500
 ## Multiblock
 __Materials Required:__ 1x note block, 2x crafting table, 4x stained glass pane, 1x furnace, 2x redstone block, 2x tier block (iron, gold, or diamond), 1x sign.
 
