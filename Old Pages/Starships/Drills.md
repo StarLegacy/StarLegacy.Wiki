@@ -35,7 +35,12 @@ tier 2 is diamond and tier 3 is emerald. Don't mix it up!
 
 ### Images
 
-([Contribute!](/wiki/contributing))
+#### Tier 1 Drill:
+![T1Drill]
+#### Tier 2 Drill:
+![T2Drill]
+#### Tier 3 Drill:
+![T3Drill]
 
 ### Sign
 
@@ -43,7 +48,14 @@ The sign must read [drill], and when clicked will automatically assign the corre
 
 Furthermore, you must place 2 focus lens into the drills furnace. Place 1 in the top and the other in the bottom. WIthout it, it will not work!
 
+![Crystals]
+
 ## Video Tutorial
 
 If you're a visual learner, see this
 [detailed video tutorial!](https://youtu.be/bObAMu28blM)
+
+[T1Drill]: https://i.imgur.com/O09HB0S.png
+[T2Drill]: https://i.imgur.com/aDBj5Wv.png
+[T3Drill]: https://i.imgur.com/8xj06Aa.png
+[Crystals]: https://i.imgur.com/16KJjnm.png
