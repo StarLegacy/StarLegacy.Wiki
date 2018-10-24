@@ -1,6 +1,7 @@
 
 # Power Machines
- On this page, you will learn how to create and store power, and how you can use it. Wires will be mentioned, but clearly explained [here].
+ On this page, you will learn how to create and store power, and how you can use it. 
+ - Wires will be mentioned, but clearly explained [here](https://starlegacy.net/wiki/old_pages/wires).
 
 ## Power Machine Tiers
 * __Tier 1:__ Iron Block 
@@ -135,4 +136,3 @@ like seen below:
 [powerbankrear]: https://i.imgur.com/BeReP2K.png
 [powercell]: https://i.imgur.com/SW953Z0.png
 [powercellwiring]: https://i.imgur.com/9yDugPk.png
-[here]: https://starlegacy.net/wiki/old_pages/wires
