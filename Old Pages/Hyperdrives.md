@@ -3,12 +3,14 @@
 # Hyperdrives
 Hyperdrives allow faster-than-lightspeed travel, drastically cutting travel time.
 
-## Use
+## Usage
 - First, build a hyperdrive in your starship. 
 - Then, fill the hoppers with Chetherite (minimum 1 per hopper). 
-### *Navigating a jump can be done one of two ways:*
+
+***Navigating a jump can be done one of two ways:***
 - Use one of the hyperspace beacons found in every system.
-> To do this, simply fly up to one and click on the button in the chat message it sends you.
+
+-  To do this, simply fly up to one and click on the button in the chat message it sends you.
 - You can also build and use a navigation computer [(Info here)].
 
 # Tiers
