@@ -49,7 +49,7 @@ The recipes require titanium and Size G batteries.
 ![powerboots]
 
 ### Power Armor Modules
-- Power Armor can have modules attached to them, enhancing them with special abilities. 
+Power Armor can have modules attached to them, enhancing them with special abilities. 
 - To attach a module to a power armor piece, craft it with the piece in a crafting table.
 - A piece of power armor can only have one module.
 
@@ -109,7 +109,7 @@ The recipes require titanium and Size G batteries.
 [powerchest]: https://i.imgur.com/N0wKV68.png
 [powerlegs]: https://i.imgur.com/2hrWxge.png
 [powerboots]: https://i.imgur.com/8LZ9yb7.png
-[blankmodule]: https://i.imgur.com/aIbBVYm.png
+[blankmodule]: https://i.imgur.com/c6QjG0L.png
 [enviromodule]: https://i.imgur.com/ucTZT9M.png
 [nightvisionmodule]: https://i.imgur.com/wjbelOb.png
 [shockmodule]: https://i.imgur.com/AQ9aaLK.png
