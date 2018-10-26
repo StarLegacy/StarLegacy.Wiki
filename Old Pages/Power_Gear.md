@@ -1,102 +1,117 @@
-Power gear is gear similar to vanilla gear, except that they are unbreakable and they require power to work.
+# Power gear
+Unbreakable gear that uses power instead of durability.
 
-Contents
-1 Power Tools
-1.1 Power Drill
-1.2 Power Chainsaw
-2 Power Armor
-2.1 Recipes:
-3 Power Armor Modules
-3.1 Environment Module
-3.2 Night Vision Module
-3.3 Shock Absorbing Module
-3.4 Speed Boosting Module
-3.5 Rocket Boosting Module
-4 Detailed Video Tutorial
-Power Tools
-Power tools are excellent utilities that don't run out of durability, although they do use power.
+## Power Tools
 
-Power Drill
-Recipe (1x iron ingot, 2x titanium, 1x size m battery, 1x stick)
+### Power Drill
+> Recipe: 1x iron ingot, 2x titanium, 1x size m battery, 1x stick
 
-Screenshot 7.png
+![powerdrill]
 
-Power Drills are useful for terraforming and light mining, although starship drills are a bit faster, have a higher power capacity, and the potential to carry many times more power and storage space. They use 10 power per block, with a maximum power of 50,000.
+- Useful for terraforming and light mining, 
+- They use 10 power per block.
+- With a maximum power of 50,000.
 
-Power Chainsaw
-Recipe (1x aluminum, 2x iron ingot, 2x titanium, 1x size m battery, 1x stick)
+### Power Chainsaw
+> Recipe: 1x aluminum, 2x iron ingot, 2x titanium, 1x size m battery, 1x stick
 
-Screenshot 8.png
+![powersaw]
 
-Power Chainsaws can cut down up to 100 blocks of a tree at once. They use 1,000 power for every cut, with a maximum power of 100,000.
+- Cut down up to 100 blocks of a tree at once.
+- They use 1,000 power for every cut.
+- With a maximum power of 100,000.
 
-Power Armor
-(Detailed Video Tutorial On the end of the page)
+## Power Armor
+Detailed Video Tutorial [here](https://youtu.be/Qu9Zn0Yebuw)
 
-Power armor reduces all incoming damage by 50%, with a full set of armor. Each time you get hit, it uses up 100 power. It can carry 50,000 power apiece.
+- A full set of power armor reduces all incoming damage by 50%.
+- Each time you get hit, it uses up 100 power.
+- Each piece holds a max 50,000 power.
+- You can dye power armor just like any regular leather armor
 
-You can dye power armor just like any regular leather armor
-
-Recipes:
+### ***Recipes:***
 The recipes require titanium and Size G batteries.
 
-Helmet:
+**Helmet:**
 
-Screenshot 12.png
+![powerhelmet]
 
-Chestplate:
+**Chestplate:**
 
-Screenshot 13.png
+![powerchest]
 
-Leggings:
+**Leggings:**
 
-Screenshot 14.png
+![powerlegs]
 
-Boots:
+**Boots:**
 
-Screenshot 15.png
+![powerboots]
 
-Power Armor Modules
-Power Armor can have modules attached to them, enhancing them with special abilities. You create these with a standard recipe that has a special item in the middle. To attach a module to a power armor piece, craft it with the piece in a crafting table.
+### Power Armor Modules
+- Power Armor can have modules attached to them, enhancing them with special abilities. 
+- To attach a module to a power armor piece, craft it with the piece in a crafting table.
+- A piece of power armor can only have one module.
 
+***Power Module Recipe***
 
-Power Module Recipe
-Note: Power Module Recipe uses 4x aluminum ingot, 4x glass pane, and 1x special item, depending on the module.
+![blankmodule]
+> 4x aluminum ingot, 4x glass pane, and 1x special item, depending on the module.
 
-Environment Module
-Compatible Gear Pieces: Helmet
+**Environment Module**
+- Attaches to helmet.
+- Allows survival outdoors on very hot and cold planet (including radioactive planets like Titus).
+  - Does *NOT* allow survival in the void of space!
 
-Environment Modules go on helmets. They give you the ability to survive outdoors on very hot and cold planet (including radioactive planets like Titus).
+![enviromodule]
 
-Special Item: Chainmail/Space Helmet
+> *Special Item:* Chainmail/Space Helmet
 
-Night Vision Module
-Compatible Gear Pieces: Helmet
+**Night Vision Module**
+- Attaches to helmet.
+- Gives night vision while active and does not use power.
+- Although they require more than 0 power to be active.
 
-Night Vision Modules go on helmets. They give you night vision while active and do not use power, although they require more than 0 power to be active.
+![nightvisionmodule]
 
-Special Item: Spider Eye
+> *Special Item:* Spider Eye
 
-Shock Absorbing Module
-Compatible Gear Pieces: Chestplate
+**Shock Absorbing Module**
+- Attaches to chestplate.
+- Gives the ability to absorb all explosion damage.
+- Does not include ship explosions.
 
-Shock Absorbing Modules go on chestplates. They give you the ability to absorb all explosion damage. (Not including ship explosions)
+![shockmodule]
 
-Special Item: Titanium Ingot
+> *Special Item:* Titanium Ingot
 
-Speed Boosting Module
-Compatible Gear Pieces: Leggings
+**Speed Boosting Module**
+- Attaches to leggings.
+- Allows for faster movement.
+- They use power when you move.
 
-Speed Boosting Modules go on leggings. They give you the ability to move faster. They use power when you move.
+![speedmodule]
 
-Special Item: Feather
+> *Special Item:* Feather
 
-Rocket Boosting Module
-Compatible Gear Pieces: Boots
+**Rocket Boosting Module**
+- Attaches to boots
+- They allow flight while holding shift.
+- They use up power fast.
 
-Rocket Boosting Modules go on boots. They let you fly while holding shift, although they gobble up power fast.
+![rocketmodule]
 
-Special Item: Firework
+> *Special Item:* Firework
 
-Detailed Video Tutorial
-https://youtu.be/Qu9Zn0Yebuw (power Gear)
+[powerdrill]: https://i.imgur.com/vkvLBm9.png
+[powersaw]: https://i.imgur.com/o0z1YmK.png
+[powerhelmet]: https://i.imgur.com/niGGtvD.png
+[powerchest]: https://i.imgur.com/N0wKV68.png
+[powerlegs]: https://i.imgur.com/2hrWxge.png
+[powerboots]: https://i.imgur.com/8LZ9yb7.png
+[blankmodule]: https://i.imgur.com/aIbBVYm.png
+[enviromodule]: https://i.imgur.com/ucTZT9M.png
+[nightvisionmodule]: https://i.imgur.com/wjbelOb.png
+[shockmodule]: https://i.imgur.com/AQ9aaLK.png
+[speedmodule]: https://i.imgur.com/wiVI0wo.png
+[rocketmodule]: https://i.imgur.com/8tKgmJa.png
