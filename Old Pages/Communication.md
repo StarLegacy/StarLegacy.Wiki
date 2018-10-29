@@ -7,6 +7,6 @@ Types Of Communication
 
 `/g [message]` or simply `/g` to chat/switch back to **global chat**.
 
-`/msg [playername] [message] for a direct message to a specific player.
+`/msg [playername] [message]` for a direct message to an **online player**.
 
-`/mail send [playername] [message] for a direct message to an offline player.
+`/mail send [playername] [message]` for a direct message to an **offline player**.
