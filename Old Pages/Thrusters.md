@@ -8,6 +8,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - Worst thruster ovrerall, but use less power and space.
 - Best for super small/cheap ships.
 - Acceleration 0.2, speed 1.75
+
 ![Glowstone]
 
 ### Plasma
@@ -16,6 +17,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - Best for most ships.
 - Very fast acceleration and almost as fast speed. 
 - Acceleration 0.75, speed 2.0
+
 ![Plasma]
 
 ### Ion 
@@ -24,6 +26,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - Best for largest ships
 - High power demand, very low acceleration.
 - Acceleration 0.05, speed 2.75
+
 ![Ion]
 
 ## Tips
@@ -32,13 +35,13 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 
 ## Under the hood
 The actual equation for thruster acceleration is:
-- (log(2 + totalAcceleration) / (log(mass) / log(thrusterAmount + 2)))
+`log(2 + totalAcceleration) / (log(mass) / log(thrusterAmount + 2))`
 
 The actual equation for thruster speed is: 
-- 150 / (log(mass) / log(sqrt(totalSpeed) + 2))
+`150 / (log(mass) / log(sqrt(totalSpeed) + 2))`
 
 The equation for speed is: 
-- availablepower / (totalSpeed * 2.5)
+`availablepower / (totalSpeed * 2.5)`
 
 [Glowstone]: https://i.imgur.com/QtsjFnN.png
 [Plasma]: https://i.imgur.com/da4g1Pr.png
