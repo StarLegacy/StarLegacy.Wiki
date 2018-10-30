@@ -8,7 +8,7 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 - Left click with the controller to fire!
 - To exit, just right click.
 
-*Creating A Turret Sign:*
+## Creating A Turret Sign
 - Must be directly below (or above) the center of the sponge blocks under the turret. 
 - 2 blocks below (or above)
 - The first line must say [turret].
@@ -29,7 +29,7 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 
 ![lightrear]
 
-### Multiblock
+### Light Turret Multiblock
 ***Materials required:***
 - 1x sponge,
 - 1x concrete,
@@ -55,7 +55,7 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 
 ![heavyrear]
 
-### Multiblock
+### Heavy Turret Multiblock
 ***Materials required:***
 - 4x sponge
 - 8x concrete
@@ -70,8 +70,6 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 ![exheavyfront]
 
 ![exheavyrear]
-
-
 
 [turretsigntop]: https://i.imgur.com/1rest8q.png
 [turretsignbottom]: https://i.imgur.com/otgtaXG.png
