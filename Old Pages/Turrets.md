@@ -2,7 +2,7 @@
 # Turrets
 Turrets are multiblock structures useful for larger ships and base defense platforms.
 
-## Using Turrets:
+## Using Turrets
 - With a controller in hand, right click the turret sign.
 - Once inside, simply looking around rotates and aims the turret.
 - Left click with the controller to fire!
