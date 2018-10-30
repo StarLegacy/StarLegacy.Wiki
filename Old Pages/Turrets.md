@@ -2,22 +2,22 @@
 # Turrets
 Turrets are multiblock structures useful for larger ships and base defense platforms.
 
-## How to use:
+## Using Turrets:
 - With a controller in hand, right click the turret sign.
 - Once inside, simply looking around rotates and aims the turret.
 - Left click with the controller to fire!
 - To exit, just right click.
 
-***To create the sign:***
+*Creating A Turret Sign:*
 - Must be directly below (or above) the center of the sponge blocks under the turret. 
 - 2 blocks below (or above)
 - The first line must say [turret].
 - The second line needs the axis (e.g. "top" or "bottom").
 
+> Example of a top turret:
 ![turretsigntop]
 
- ***or***
-
+> Example of a bottom turret:
 ![turretsignbottom]
 
 ## Light Turret
