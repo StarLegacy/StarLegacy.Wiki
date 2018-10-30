@@ -1,26 +1,35 @@
-Batteries (Video Tutorial on the bottom for Uses and ways to charge them)
+# Batteries 
 
 Batteries are used to provide small amounts of power in a portable way.
 
-Here are the recipes for batteries
+- Charge them with a charger and then use them on a device to transfer power.
+  - They even work with starship drills! 
+- To use them alt click on the sign that needs fuel with a battery.
+- Batteries of the same type and power value can stack up to 16.
+- Currently, batteries do not work with power armor.
 
-(The minerals on the sides are aluminum)
-
-Size A Battery - can hold up to 500 power.
-
-Screenshot 9.png
-
-Size M Battery - can hold up to 1000 power.
-
-Screenshot 10.png
-
-Size G Battery - can hold up to 2000 power.
-
-Screenshot 11.png
-
-Charge them with a charger and then use them on a device. A good example of this would be taking them with you when you are flying your drill and you run out of fuel and want to keep going. To use them alt click on the sign that needs fuel with a battery. The of the same type and power value can stack. Max stack size is 16.
-
-Currently, batteries do not work with power armor but the feature has been requested.
-
-Detailed Video Tutorial
+ Detailed Video Tutorial
 https://youtu.be/RgkvASn3Cd0
+
+## Crafting Recipes:
+
+All batteries use aluminum on the sides for their casing.
+
+### Size A Battery 
+- Can hold up to 500 power.
+
+![sizea]
+
+### Size M Battery 
+- Can hold up to 1000 power.
+
+![sizem]
+
+### Size G Battery 
+- Can hold up to 2000 power.
+
+![sizeg]
+
+[sizea]: https://i.imgur.com/lHsEDBF.png
+[sizem]: https://i.imgur.com/9fZsmGx.png
+[sizeg]: https://i.imgur.com/fJpOTtb.png
