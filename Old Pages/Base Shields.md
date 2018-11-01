@@ -9,7 +9,8 @@ Base shields are machines that project a spherical shield to protect bases.
 ## Activating a base shield:
 - Place prismarine crystals in both slots of the furnace.
 - Ensure that the shield sign is charged and has power(recieves power through noteblock).
-- Right click the sign to set it to "enabled." This should generate a large bubble of stained glass. - When the power runs out, or disabled with another right click, the glass will disappear shortly.
+- Right click the sign to set it to "enabled." This should generate a large bubble of stained glass.
+- When the power runs out, or disabled with another right click, the glass will disappear shortly.
 
 ## Multiblocks
 The sign for the base shields is [baseshield].
