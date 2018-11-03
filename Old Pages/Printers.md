@@ -1,21 +1,16 @@
-# Printers and Processors
+# Printers
 *Printers* are machines that turn cobblestone and energy into various materials.
-- Concrete powder, glass, sponge, and terracotta.
 
-*Carbon processors* simply process raw concrete powder into concrete.
-
-## Printers
-
-### Using a printer:
+## Using a printer:
 -  Ensure the sign has power (accepts power through noteblock).
 - Then, put a focusing lens (prismarine crystals) in the top slot.
 - Next, put cobblestone in the fuel slot.
 - The printer should now begin converting.
 
-### Printer Multiblock: 
+## Printer Multiblock: 
 
 - Red blocks are replaced with the "machinery blocks".
-- The blue block is replaced with "core block".
+- The blue block is replaced with the "core block".
 - The white block is replaced with the "product block".
 
 ![printerfront]
@@ -24,9 +19,9 @@
 ![printertop]
 ![printerright]
 
-- NOTE: Copper blocks are only on the LEFT of the sign with [Printer] on it.
+> Copper blocks are only on the LEFT of the sign with [Printer] on it.
 
-*Universal Printer Materials List:*
+### Shared required materials
 - 1x Sign,
 - 1x Hopper,
 - 1x Furnace,
@@ -38,9 +33,9 @@
 - 6x Iron Blocks.
 - The rest of the mats involved are the blocks that cause specific results.
 
-### **Carbon Printer**
+### Carbon Printer
 
-*Generates:*
+*Generates:* 
 - 2x Graxene Powder (Concrete Powder)
 
 *Machinery Blocks:*
@@ -53,7 +48,7 @@
 - Graxene Powder (Concrete Powder)
 
 
-### **Technical Printer**
+### Technical Printer
 
 *Generates:*
 - 1x Technical Block (Sponge)
@@ -68,7 +63,7 @@
 - Technical Block (Sponge)
 
 
-### **Armor Printer**
+### Armor Printer
 
 *Generates:*
 - 1x Armor (Stained clay/Terracotta)
@@ -83,7 +78,7 @@
 - Armor (Stained clay/Terracotta)
 
 
-### **Glass Printer**
+### Glass Printer
 
 *Generates:*
 - 2x Glass
@@ -98,6 +93,8 @@
 - Glass
 
 ## Carbon Processor
+
+*Carbon processors* simply process raw concrete powder into concrete.
 
 Using a carbon processor is the same as a printer.
 - Except that you must use graxene(concrete) powder rather than cobblestone.
