@@ -1,5 +1,5 @@
 # Printers
-*Printers* are machines that turn cobblestone and energy into various materials.
+Printers are machines that turn cobblestone and energy into various materials.
 
 ## Using a printer:
 -  Ensure the sign has power (accepts power through noteblock).
@@ -7,7 +7,7 @@
 - Next, put cobblestone in the fuel slot.
 - The printer should now begin converting.
 
-## Printer Multiblock 
+## Printer Multiblock
 
 - Red blocks are replaced with the **machinery blocks**.
 - The blue block is replaced with the **core block**.
@@ -22,15 +22,15 @@
 > Copper blocks are only on the LEFT of the sign with [Printer] on it.
 
 ### Shared required materials
-- 1x Sign,
-- 1x Hopper,
-- 1x Furnace,
-- 1x Note Block,
-- 2x Wires,
-- 3x Copper Blocks,
-- 4x Stained Glass Panes,
-- 6x Stained Glass,
-- 6x Iron Blocks.
+- 1x Sign
+- 1x Hopper
+- 1x Furnace
+- 1x Note Block
+- 2x Wires
+- 3x Copper Blocks
+- 4x Stained Glass Panes
+- 6x Stained Glass
+- 6x Iron Blocks
 - The rest of the mats involved are the blocks that cause specific results.
 
 ### Carbon Printer
@@ -54,7 +54,7 @@
 - 1x Technical Block (Sponge)
 
 *Machinery Blocks:*
-- Redstone Lamps
+- Redstone Lamp
 
 *Core Block:*
 - Daylight Sensor
@@ -94,7 +94,7 @@
 
 ## Carbon Processor
 
-*Carbon processors* simply process raw concrete powder into concrete.
+Carbon processors simply process raw concrete powder into concrete.
 
 Using a carbon processor is the same as a printer.
 - Except that you must use graxene(concrete) powder rather than cobblestone.
