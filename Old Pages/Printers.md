@@ -7,11 +7,11 @@
 - Next, put cobblestone in the fuel slot.
 - The printer should now begin converting.
 
-## Printer Multiblock: 
+## Printer Multiblock 
 
-- Red blocks are replaced with the "machinery blocks".
-- The blue block is replaced with the "core block".
-- The white block is replaced with the "product block".
+- Red blocks are replaced with the **machinery blocks**.
+- The blue block is replaced with the **core block**.
+- The white block is replaced with the **product block**.
 
 ![printerfront]
 ![printerback]
