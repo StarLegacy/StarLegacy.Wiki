@@ -1,7 +1,7 @@
 # Printers
 Printers are machines that turn cobblestone and energy into various materials.
 
-## Using a printer:
+## Using a printer
 -  Ensure the sign has power (accepts power through noteblock).
 - Then, put a focusing lens (prismarine crystals) in the top slot.
 - Next, put cobblestone in the fuel slot.
@@ -35,61 +35,61 @@ Printers are machines that turn cobblestone and energy into various materials.
 
 ### Carbon Printer
 
-*Generates:* 
+*Generates* 
 - 2x Graxene Powder (Concrete Powder)
 
-*Machinery Blocks:*
+*Machinery Blocks*
 - Sponge
 
-*Core Block:*
+*Core Block*
 - Magma
 
-*Product Block:*
+*Product Block*
 - Graxene Powder (Concrete Powder)
 
 
 ### Technical Printer
 
-*Generates:*
+*Generates*
 - 1x Technical Block (Sponge)
 
-*Machinery Blocks:*
+*Machinery Blocks*
 - Redstone Lamp
 
-*Core Block:*
+*Core Block*
 - Daylight Sensor
 
-*Product Block:*
+*Product Block*
 - Technical Block (Sponge)
 
 
 ### Armor Printer
 
-*Generates:*
+*Generates*
 - 1x Armor (Stained clay/Terracotta)
 
-*Machinery Blocks:*
+*Machinery Blocks*
 - Sponge
 
-*Core Block:*
+*Core Block*
 - Anvil
 
-*Product Block:*
+*Product Block*
 - Armor (Stained clay/Terracotta)
 
 
 ### Glass Printer
 
-*Generates:*
+*Generates*
 - 2x Glass
 
-*Machinery Blocks:*
+*Machinery Blocks*
 - Sponge
 
-*Core Block:*
+*Core Block*
 - End Rod
 
-*Product Block:*
+*Product Block*
 - Glass
 
 ## Carbon Processor
@@ -102,7 +102,7 @@ Using a carbon processor is the same as a printer.
 > The color of the product is determined by the color of the stained glass in the center.
 
 ### Multiblock
-*Materials:*
+*Materials*
 - 1x noteblock
 - 1x hopper
 - 4x iron block
