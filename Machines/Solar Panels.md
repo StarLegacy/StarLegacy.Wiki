@@ -1,4 +1,3 @@
-
 # Solar Panels
 
 Solar Panels are devices which you can use to generate power passively, without fuel.

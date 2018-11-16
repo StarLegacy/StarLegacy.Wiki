@@ -1,19 +1,20 @@
-<!-- so for example, let's fix this dumb broken page -->
-
 # Navigation Computers
 
-Navigation computers are subsystems for starships
-used to plot hyperspace jumps without a hyperspace beacon.
+Navigation computers are subsystems for starships used to plot hyperspace jumps without a hyperspace beacon.
+Their main disadvantage is that their range is limited: they can only go a dozen or two thousand blocks.
+This limits their usage primarily to in-system usage, particularly for the basic one.
 
 ## Building a nav computer
 
 > The sign text for nav computers is `[navcomputer]`
 
-### Nav computer types
+There are two types of navigation computers: *basic*, and *advanced*.
 
-Currently, there is no major difference between the types.
-However, there may be in the future more advanced functions
-to the advanced one, such as being able to go to new sectors.
+Basic navigation computers can only jump 10,000 blocks at a time, meaning it
+would take 4-8 jumps to get to another system, depending on the distance.
+
+Advanced navigation can jump 25,000 blocks at a time, meaning it would take
+a few jumps to get to another system. 
 
 #### Basic
 > **Requirements**
