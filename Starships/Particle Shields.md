@@ -73,7 +73,7 @@ their visual indicator is combined into one boss bar.
 ```
 
 ![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/b4d7e120424490118f0ff01c23c64dbd.png)
-![Image](https://github.com/StarLegacy/StarLegacy.Wiki/blob/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/4196adcdb58ad6ef27280fe97d24b9cc.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/4196adcdb58ad6ef27280fe97d24b9cc.png)
 
 ### Class 8.5 (35 block radius)
 #### Materials needed
@@ -85,5 +85,5 @@ their visual indicator is combined into one boss bar.
 4x sponge
 ```
 
-![Image](https://github.com/StarLegacy/StarLegacy.Wiki/blob/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/9cf0e84bb37bb3ec4de0b94efdbcc40a.png)
-![Image](https://github.com/StarLegacy/StarLegacy.Wiki/blob/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/fbc0c2e91d26ef651381b2d2984148ee.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/9cf0e84bb37bb3ec4de0b94efdbcc40a.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/fbc0c2e91d26ef651381b2d2984148ee.png)
