@@ -57,4 +57,7 @@ For the ship factory sign, put `[shipfactory]` on line 1 and `<name>` on line 2.
 > Factories print above, to the right, and in front of the furnace.
 
 ### Images
-!(https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Blueprints%26ShipFactories/6a0a724dafa8c7722586d94c824f3cfc.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Blueprints%26ShipFactories/6a0a724dafa8c7722586d94c824f3cfc.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Blueprints%26ShipFactories/8639ade7bbd3765297bbf669e004bbf6.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Blueprints%26ShipFactories/96205035a10c7c89006fbf8137a289f7.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Blueprints%26ShipFactories/97778221eab0880d71efa870b8c0fa91.png)
