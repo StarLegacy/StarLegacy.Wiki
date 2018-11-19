@@ -5,42 +5,46 @@ These include block size limits, power output, and container percent.
 
 They are split into freighters and warships.
 
-You unlock these by ranking up. Everyone has shuttle by default.
-Ranking up as a colonist gets you freighters a rank earlier than others, 
-and ranking up as a pirate or privateer gets you warships
-a rank earlier than colonists.
+You unlock these by leveling up. At level 1, you get shuttles.
+Every 12 levels, you unlock the next tier warship and freighter.
 
-#### Examples
-* Colonists get transports at rank 2,
-  but pirates and privateers get it at rank 3.
-
-* Pirates and privateers get starfighters at rank 1,
-  colonists get them at rank 2.
-
-* Pirates and privateers get cruisers at rank 5,
-  colonists get them at rank 6.
-
-Cargo percent is the percent of blocks that can be inventory blocks.
+Container percent is the percent of blocks that can be inventory blocks.
 Chests count as three inventory blocks.
 
-## Warships
-> **Cargo Percent**: 2.5%
+### Acceleration
+Ships can move faster when shift flying for extended times.
+The acceleration distance is the amount of blocks a ship must fly
+to make it go 1 block per movement faster, and max acceleration is
+the most it can move in 1 movement.
 
-| Name        	    | Block Size Range 	| Power Output 	|
-|------------------	|------------------	|--------------	|
-| Starfighter 	    | 50-500           	| 25,000       	|
-| Corvette    	    | 500-2000         	| 30,000       	|
-| Frigate     	    | 2000-4000        	| 40,000       	|
-| Destroyer   	    | 4000-8000        	| 60,000       	|
-| Cruiser     	    | 8000-12000       	| 85000        	|
+## Warships
+Warships can have up to **2.5% containers**.
+They have a higher power output than freighters, so they're better as combat ships.
+However, they can only carry half as many cargo crates.
+
+| Name           | Min Size | Max Size | Power   | Accel Dist | Max Accel | Level  |
+|----------------|----------|----------|---------|------------|-----------|--------|
+| Starfighter    | 100      | 500      | 25,000  | 3          | 2         | I      |
+| Corvette       | 500      | 2,000    | 30,000  | 5          | 3         | XII    |
+| Frigate        | 2,000    | 4,000    | 40,000  | 6          | 2         | XXIV   |
+| Destroyer      | 4,000    | 8,000    | 60,000  | 6          | 2         | XXXVI  |
+| Cruiser        | 8,000    | 12,000   | 80,000  | 2          | 3         | XLVIII |
+| Battlecruiser  | 12,000   | 20,000   | 100,000 | 3          | 3         | LX     |
+| Star Destroyer | 20,000   | 32,000   | 125,000 | 2          | 2         | LXXII  | 
+| Dreadnought    | 32,000   | 48,000   | 150,000 | 2          | 2         | LXXXIV |
 
 ## Freighters
-> **Cargo Percent**: 4.5%
+Warships can have up to **4.5% containers**.
+While they cannot do as well as a warship in combat, freighters can transport large amounts of items easily.
+They can also be used to trade cargo missiosn between planets.
 
-| Name            	| Block Size Range 	| Power Output 	|
-|------------------	|------------------	|--------------	|
-| Shuttle         	| 50-500           	| 15,000       	|
-| Transport       	| 500-2000         	| 20,000       	|
-| Light Freighter 	| 2000-4000        	| 25,000       	|
-| Heavy Freighter 	| 4000-8000        	| 30,000       	|
-| Barge           	| 8000-12000       	|  40,000      	|
+| Name             | Min Size | Max Size | Power   | Accel Dist | Max Accel | Level  |
+|------------------|----------|----------|---------|------------|-----------|--------|
+| Shuttle          | 100      | 500      | 16,000  | 3          | 2         | I      |
+| Transport        | 500      | 2,000    | 24,000  | 5          | 3         | XII    |
+| Light Freighter  | 2,000    | 4,000    | 30,000  | 6          | 2         | XXIV   |
+| Medium Freighter | 4,000    | 8,000    | 40,000  | 6          | 2         | XXXVI  |
+| Bulk Freighter   | 8,000    | 12,000   | 55,000  | 2          | 3         | XLVIII |
+| Heavy Freighter  | 12,000   | 20,000   | 75,000  | 3          | 3         | LX     |
+| Barge            | 20,000   | 32,000   | 90,000  | 2          | 2         | LXXII  | 
+| Tanker           | 32,000   | 48,000   | 110,000 | 2          | 2         | LXXXIV |
