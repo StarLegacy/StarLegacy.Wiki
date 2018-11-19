@@ -59,8 +59,8 @@ their visual indicator is combined into one boss bar.
 1x sponge
 ```
 
-![Image](https://github.com/StarLegacy/StarLegacy.Wiki/blob/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/6ba154bec3cbafbd6d20c448b31fa40a.png)
-![Image](https://github.com/StarLegacy/StarLegacy.Wiki/blob/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/d7405f97c7a48627c0c9652e37b88b19.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/6ba154bec3cbafbd6d20c448b31fa40a.png)
+![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/d7405f97c7a48627c0c9652e37b88b19.png)
 
 ### Class 6.5 (30 block radius)
 #### Materials needed
