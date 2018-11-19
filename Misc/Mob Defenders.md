@@ -1,9 +1,8 @@
 # Mob Defenders
 Mob Defenders stop mobs from spawning within 50 blocks of the sign.
 
+> This machine does not need any power to operate.
 
-
-Note: This machine does NOT need any power to operate.
 ## Multiblock
 ### Materials Required
 ```
