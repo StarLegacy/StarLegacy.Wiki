@@ -13,7 +13,7 @@ We appreciate help with the wiki! Follow this guide to start making meaningful c
 
 > ***For more in depth information check out [this guide](https://guides.github.com/activities/forking/)***
 
-- Once cloned locally your ready to make changes using any one of the many editors for Markdown.
+- Once cloned locally, you're ready to make changes using any one of the many editors for Markdown.
     - We recommend [Microsoft Visual Studio Code](https://code.visualstudio.com).
 Use one of the Markdown extensions.     
     - More info on proper Markdown formatting below.
