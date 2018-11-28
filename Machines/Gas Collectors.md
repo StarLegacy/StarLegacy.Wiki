@@ -2,7 +2,7 @@ Gas
 Gasses are useful for generating power and they may have other uses in the future. (Hydrogen generates 5000 power per canister.) You collect gasses using gas collectors and store them with gas canisters. You can see how to make those below.
 
 Gas Canisters
-Gas canisters can be used for storing gasses. They require 6 iron nuggets and 3 glass panes to craft. The crafting recipe is as follows:
+Gas canisters can be used for storing gasses. They require 4 iron nuggets and 1 glass pane to craft. The crafting recipe is as follows:
 
 ![canrecipe]
 
