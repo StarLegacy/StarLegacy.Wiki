@@ -17,6 +17,6 @@ Materials: 1x furnace, 1-4x end rod, 1x hopper
 ![collectorfront]
 ![collectorside]
 
-[canrecipe]: https://imgur.com/a/K9a34WL
-[collectorfront]: https://imgur.com/a/fagMLkq
-[collectorside]: https://imgur.com/a/hX3suhx
+[canrecipe]: https://i.imgur.com/XqLFdIY.png
+[collectorfront]: https://i.imgur.com/wB5dTLA.png
+[collectorside]: https://i.imgur.com/TLImKcp.png
