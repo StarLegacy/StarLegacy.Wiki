@@ -24,7 +24,7 @@ The server has a web-based map which allows you to view all of the planets, spac
 To open the map, click [here](/map). Alternatively, use `/map` on the server to get a link. 
 
 #### Finding Yourself
-* Hold the controller you got (more info [here](#basic_gear))
+* Hold the controller you got
 * Look at the bottom right of the map page, at the player list
 * Find your name, and click on it
 
@@ -99,19 +99,31 @@ Your ship should turn right! Left click it, and it should turn left.
 * To protect your ship, lock it!
 
 ## What Next
-Now that you know the basics of flying a ship, there are a number of things you can do. You can pick a rank track (/ranktrack) (though you should wait till you can handle pirates), you can make money (which is used to rank up if you are a colonist!), you can bake cake, you can build a ship, you can make a claim or start a settlement, you can JOIN a settlement or nation, and you can go check out the creative server!
+Now that you know the basics of flying a ship, there are a number of things you can do.
+- You can make money (which is used print ships, buy items/advancements)
+- you can rank up by turning in cargo crates
+- you can build a ship
+- you can make a claim or start a settlement
+- you can JOIN a settlement or nation
+- Or you can go check out the creative server!
 
-Picking a rank track is important but you shouldn't do it just yet, as pirates can kill you for points if you do. 
+You can earn money by turning in cargo crates to trade outposts/cities or by selling items/ships to other players.
 
-There are several ways to make money. You can trade with other players, ship cargo between the stations (see [ here](https://www.starlegacy.enjin.com/wiki/m/44193093/page/Cargo_Trading)), or you can sell items to the importer. To see how much an item sells for, use /value. The importer comes in two forms: An NPC named after the system (e.g. "Sobrii Importer") or the importer chest (available in some areas of eco stations). 
+   - If you want to make trade deals with other players, you can join our Discord server! Invite link: https://discord.gg/RdRCVkM
+   - Or make a post on our [forums](https://forum.starlegacy.net/)
 
-If you want to make trade deals with other players, you can join our Discord server and communicate with the hundreds of other players on the server! Invite link: https://discord.gg/RdRCVkM
+To unlock more/larger ships you need to rank up using SLXP which is earned by turning in cargo crates.
+   - You can buy and trade them between trade cities, see [here.](https://starlegacy.net/wiki/misc/cargo_trading)
+   - You can also pirate other players crates and turn them in for your own gain.
 
-If you want to join a settlement, you can also join that and go to the #recruiting channel.
+If you want to join a settlement ask around ingame or on the discord. Many nations/settlements are always recruiting.
 
-If you want to make a small personal claim to protect some stuff, use /claim. To expand it, stand inside it and use /expandclaim. If you want to claim a large plot of land on a planet, use /settlement create <name>. The amount of money it takes depends on the size of a territory, a very small piece of land could be 1,000 credits while a huge one could be as much as 20,000 credits. 
+If you want to make a small personal claim to protect some stuff, use /claim.
+   - To expand it, stand inside it and use /expandclaim.
+If you want to claim a large plot of land on a planet, use /settlement create <name>.
+   - The amount of money it takes depends on the size of a territory, a very small piece of land could be 1,000 credits while a huge one could be as much as 20,000 credits. 
 
-Finally, you can check out the creative server on /server creative. By default, you can claim one alpha plot (a 64x64 plot). You can donate for bigger plots at [the donation store](/donate) . If you want some inspiration, it is recommended that you go to /warp spaceplots and see what other people have built.
+Finally, you can check out the creative server on /server creative. By default, you can claim one alpha plot (a 64x64 plot). You can donate for bigger plots at [the donation store](https://starlegacy.buycraft.net/) . If you want some inspiration, it is recommended that you go to /warp spaceplots and see what other people have built.
 
 ### Getting to Planets
 In the system you start in there are several planets. 
@@ -123,13 +135,13 @@ When you arrive, make sure that you don't land in claimed land - you can't build
 ### Getting to Neighboring Systems
 In other systems like Frigus and Ignum, you may find interesting planets with items unavailable in Sobrii. 
 
-To get there, you will need a [hyperdrive](/wiki/hyperdrive). Hyperdrives use **chetherite** for fuel, which you can get from mining asteroids. 
+To get there, you will need a [hyperdrive](https://starlegacy.net/wiki/starships/hyperdrives). Hyperdrives use **chetherite** for fuel, which you can get from mining asteroids. 
 
 With your hyperdrive fueled and ready, head to one of the **hyperspace beacons** in your system. These beacons look like portals on the map. 
 
 To use the beacon, fly very close to the beacon station. When you get close enough, you will get a message saying "accept or deny" the jump to its system.
 
-Once you've unlocked a [navigation computer](/wiki/navcomputer), you can use it to go through hyperspace from and to any point in space. However, you may get caught in mass shadows like dark matter, planets, or stars!
+Once you've unlocked a [navigation computer](https://starlegacy.net/wiki/starships/navigation_computer), you can use it to go through hyperspace from and to any point in space. However, you may get caught in mass shadows like dark matter, planets, or stars!
 
 ### Cryo Pods
 Now that you're on a planet, you should build a cryo pod!
@@ -138,7 +150,7 @@ If you don't have one, you respawn at the station.
 
 To make one, use `/kit cryo` to get the parts, and see `/info cryopod` for an explanation of building them.
 
-> To prevent your cryo pod from being destroyed, you can use [area shields](/wiki/areashields) or hide it!
+> To prevent your cryo pod from being destroyed, you can use [area shields](https://starlegacy.net/wiki/machines/defense/area_shields) or hide it!
 
 Diagram of a cryopod:
 
@@ -164,7 +176,7 @@ Left to right:
 
 ### Added Crafting Recipes
 * Sea Lantern can be crafted out of 4x Focusing Lens (Prismarine Crystals) and vice versa.
-* [Power Gear](/wiki/powergear).
+* [Power Gear](https://starlegacy.net/wiki/gear/power_gear).
 * Copper, Aluminum, Chetherite, Titanium, and Uranium Blocks out of 9x of each respective item.
 * 16x Wire (End Rod) can be crafted out of 3x Copper Ingots.
 

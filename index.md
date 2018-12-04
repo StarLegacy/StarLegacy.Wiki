@@ -3,6 +3,7 @@
 
 The wiki is a place where you learn to use the myriad unique features of Star Legacy.
 
-This wiki is currently incomplete, but for now, you can see our [old guide](/wiki/old_guide)!
+Check out our [New Player Guide](https://starlegacy.net/wiki/gear/new_player_guide) to get started quickly!
+
 
 **Do you want to contribute?** [This wiki is open source on GitHub!](https://github.com/StarLegacy/StarLegacy.Wiki) 
