@@ -37,23 +37,21 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 The actual equation for thruster acceleration is:
 `log(2 + totalAcceleration) / (log(mass) / log(thrusterAmount + 2))`
 
-The function for speed is: 
-```
-Base Speed:
-y = base speed
-x = total thruster combined power
-m = mass
-F = 200
-y = x^0.4 / m^0.3 * F
+### Speed Calculation
+#### Base Speed
+`speed = "base speed`
+`x = total thruster combined power`
+`m = mass`
+`F = 200`
+`speed = x^0.4 / m^0.3 * F`
 
-Max Speed:
-a = max speed
-p = starship power output
-x = total thruster combined power
-a = p/x
+#### Max Speed
+`max = "max speed"`
+`p = starship power output`
+`x = total thruster combined power`
+`max = p/x`
 
-Actual BPS = min(a, y)
-```
+Actual BPS is whichever is lower, `speed` or `max`, times a final multiplier, currently 80%
 
 [Glowstone]: https://i.imgur.com/QtsjFnN.png
 [Plasma]: https://i.imgur.com/da4g1Pr.png
