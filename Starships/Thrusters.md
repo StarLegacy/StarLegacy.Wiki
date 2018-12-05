@@ -40,15 +40,22 @@ The actual equation for thruster acceleration is:
 ### Speed Calculation
 #### Base Speed
 `speed = "base speed`
+
 `x = total thruster combined power`
+
 `m = mass`
+
 `F = 200`
+
 `speed = x^0.4 / m^0.3 * F`
 
 #### Max Speed
 `max = "max speed"`
+
 `p = starship power output`
+
 `x = total thruster combined power`
+
 `max = p/x`
 
 Actual BPS is whichever is lower, `speed` or `max`, times a final multiplier, currently 80%
