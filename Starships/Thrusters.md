@@ -56,7 +56,7 @@ The actual equation for thruster acceleration is:
 
 `x = total thruster combined power`
 
-`max = p/x`
+`max = p / x`
 
 Actual BPS is whichever is lower, `speed` or `max`, times a final multiplier, currently 80%
 
