@@ -7,7 +7,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - Built literally with just a glowstone block.
 - Worst thruster ovrerall, but use less power and space.
 - Best for super small/cheap ships.
-- Acceleration 0.2, speed 1.75
+- Acceleration 0.2, power 1.75
 
 ![Glowstone]
 
@@ -16,7 +16,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - The lamp should face away from your ship.
 - Best for most ships.
 - Very fast acceleration and almost as fast speed. 
-- Acceleration 0.75, speed 2.0
+- Acceleration 0.75, power 2.0
 
 ![Plasma]
 
@@ -25,7 +25,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - The lantern should face away from your ship.
 - Best for largest ships
 - High power demand, very low acceleration.
-- Acceleration 0.05, speed 2.75
+- Acceleration 0.05, power 2.75
 
 ![Ion]
 
