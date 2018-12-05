@@ -39,7 +39,7 @@ The actual equation for thruster acceleration is:
 
 ### Speed Calculation
 #### Base Speed
-`speed = "base speed`
+`speed = "base speed"`
 
 `x = total thruster combined power`
 
