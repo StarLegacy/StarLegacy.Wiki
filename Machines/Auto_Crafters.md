@@ -1,7 +1,7 @@
 # Auto Crafters
 Auto crafters are an automated way to get your crafting needs met (duh). 
 Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more power).
-- Tier 1 costs 5k
+- **Tier 1** (Iron) (2 crafts/second) (200,000 power capacity)
 - Tier 2 10k,
 - Tier 3 20k. 
 
