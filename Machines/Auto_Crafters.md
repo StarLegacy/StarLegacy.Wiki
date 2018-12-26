@@ -14,7 +14,7 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 - Output is the dropper on the other side on top of the crafting table.
 - Using items form the recipe in the middle dropper as if it were a crafting table.
 
-## To Make an Auto Crafter
+## Multiblock
 ### Requirements
 8 Tier blocks, (Iron, Gold, or Diamond) 8 Glass Panes, 
 * 3x glass block
