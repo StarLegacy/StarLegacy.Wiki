@@ -6,7 +6,7 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 - **Tier 2** (Gold) (4 crafts/second) (400,000 power capacity)
 - **Tier 3** (Diamond) (6 crafts/second) (600,000 power capacity)
 
-/advance them all to auto craft what ever you want!
+To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000, and C20,000.
 
 ## To Use Auto Crafters
 
