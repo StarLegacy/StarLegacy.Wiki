@@ -1,5 +1,6 @@
 # Auto Crafters
-Auto crafters are an automated way to get your crafting needs met (duh). 
+Auto crafters are machines used to mass produce a specific crafting recipe using input and output chests,
+crafting the recipe given in the recipe holder dropper/dispenser block.
 Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more power).
 - **Tier 1** (Iron) (2 crafts/second) (200,000 power capacity)
 - **Tier 2** (Gold) (4 crafts/second) (400,000 power capacity)
