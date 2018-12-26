@@ -13,7 +13,7 @@ To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000,
 - Put `[autocrafter]` on the first line of the sign
 - The input container is the container on the left side of the multiblock, atop the glass block.
 - The output container is the container on the right side of the multiblock, atop the crafting table.
-- Using items form the recipe in the middle dropper as if it were a crafting table.
+- In the dropper/dispenser in the center, place the recipe as if you were crafting the item normally.
 
 ## Multiblock
 ### Requirements
