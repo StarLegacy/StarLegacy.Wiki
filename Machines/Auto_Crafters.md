@@ -15,7 +15,7 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 - Using items form the recipe in the middle dropper as if it were a crafting table.
 
 ## To Make an Auto Crafter
-To build the auto crafter you will need:
+### Requirements
 8 Tier blocks, (Iron, Gold, or Diamond) 8 Glass Panes, 
 3 Glass blocks, 2 Titanium blocks, 3 droppers, 1 noteblock, 
 1 furnace (with 1 focusing lens in each slot), and 2 wire/end rods
