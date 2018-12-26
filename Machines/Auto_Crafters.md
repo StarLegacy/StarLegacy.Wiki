@@ -17,7 +17,8 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 
 ## Multiblock
 ### Requirements
-8 Tier blocks, (Iron, Gold, or Diamond) 8 Glass Panes, 
+* 8 Tier blocks (Iron, Gold, or Diamond) 
+* 8 Glass Panes
 * 3x glass block
 * 2x titanium block
 * 3x dropper
