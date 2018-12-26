@@ -8,7 +8,7 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 
 To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000, and C20,000.
 
-## To Use Auto Crafters
+## Usage
 
 - Make sure the sign on the auto crafter says [AutoCrafter]
 - The Input is the dropper on top of the glass, left of the sign.
