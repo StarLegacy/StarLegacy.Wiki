@@ -1,7 +1,9 @@
 # Auto Crafters
 Auto crafters are machines used to mass produce a specific crafting recipe using input and output chests,
 crafting the recipe given in the recipe holder dropper/dispenser block.
+
 Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more power).
+
 - **Tier 1** (Iron) (2 crafts/second) (200,000 power capacity)
 - **Tier 2** (Gold) (4 crafts/second) (400,000 power capacity)
 - **Tier 3** (Diamond) (6 crafts/second) (600,000 power capacity)
@@ -17,8 +19,8 @@ To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000,
 
 ## Multiblock
 ### Requirements
-* 8 Tier blocks (Iron, Gold, or Diamond) 
-* 8 Glass Panes
+* 8x tier block (iron/gold/diamond) 
+* 8x glass pane
 * 3x glass block
 * 2x titanium block
 * 3x dropper
