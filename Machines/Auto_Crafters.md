@@ -25,6 +25,8 @@ To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000,
 * 1x wire input computer (note block) 
 * 1x furnace
 * 2x wire (end rod)
+
+### Images
 ![Image from Gyazo](https://i.gyazo.com/31e73021635a2ce3baf62e67972c701d.png)
 ![Image from Gyazo](https://i.gyazo.com/18da692ced557272ece3967c569df8f7.png)
 ![Image from Gyazo](https://i.gyazo.com/d42acba4ee5b58ec9092fb947a3db8d3.png)
