@@ -3,7 +3,7 @@ Auto crafters are an automated way to get your crafting needs met (duh).
 Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more power).
 - **Tier 1** (Iron) (2 crafts/second) (200,000 power capacity)
 - Tier 2 10k,
-- Tier 3 20k. 
+- **Tier 3** (Diamond) (6 crafts/second) (600,000 power capacity)
 
 /advance them all to auto craft what ever you want!
 
