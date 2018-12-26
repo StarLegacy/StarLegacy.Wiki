@@ -10,7 +10,7 @@ To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000,
 
 ## Usage
 
-- Make sure the sign on the auto crafter says [AutoCrafter]
+- Put `[autocrafter]` on the first line of the sign
 - The Input is the dropper on top of the glass, left of the sign.
 - Output is the dropper on the other side on top of the crafting table.
 - Using items form the recipe in the middle dropper as if it were a crafting table.
