@@ -21,7 +21,8 @@ Auto Crafters come in 3 tiers. Higher tiers craft items faster (thus using more 
 * 2x titanium block
 * 3x dropper
 * 1x wire input computer (note block) 
-1 furnace (with 1 focusing lens in each slot), and 2 wire/end rods
+* 1x furnace
+* 2x wire (end rod)
 ![Image from Gyazo](https://i.gyazo.com/31e73021635a2ce3baf62e67972c701d.png)
 ![Image from Gyazo](https://i.gyazo.com/18da692ced557272ece3967c569df8f7.png)
 ![Image from Gyazo](https://i.gyazo.com/d42acba4ee5b58ec9092fb947a3db8d3.png)
