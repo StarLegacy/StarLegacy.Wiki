@@ -134,7 +134,7 @@ when fighting against other large ships.
 >
 > **Impact** *10x explosions, power 3.0*
 
-NOTE: Furnace is the FRONT of the weapon
+> Note: Furnace is the FRONT of the weapon
 
 #### Auto Turrets
 
