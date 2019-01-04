@@ -1,4 +1,7 @@
 # Gravity Well Projectors
+
+![GravityWell1]
+
 *Gravity wells* are a small area that has a massive gravitational force,
 the kind that would make Sir Isaac Newton develop Brain damage from that apple.
 
@@ -17,12 +20,25 @@ useful for many things, including:
 > Required materials: 
 > * 1x Sponge
 > * 1x Diamond Block
-> * 1x Glass, 1x Dropper,
-> * x Stone Slab
+> * 1x Glass (Stained glass works as well)
+> * 1x Container (Dropper, Dispenser, Chest)
+> * 2x Stone Slab
 > * 4x Iron Block
 > * 9x Stairs
+> * 1x Sign
 
-[Contribute an image!](/wiki/contributing)
+### Images
+
+![GravityWell2]
+
+#### 1st Layer:
+![L1Well]
+#### 2nd Layer:
+![L2Well]
+#### 3rd Layer:
+![L3Well]
+
+Note : This is a top view.
 
 ## Usage
 
@@ -32,3 +48,9 @@ useful for many things, including:
 This will cast a mass shadow of 3,000 blocks radius while on. It prevents people
 from jumping within that range of your ship and pulls ships passing through hyperspace
 within that range of your ship out of hyperspace.
+
+[L1Well]: https://i.imgur.com/ylvt3gX.png
+[L2Well]: https://i.imgur.com/BODnxNz.png
+[L3Well]: https://i.imgur.com/rHRIfPl.png
+[GravityWell1]: https://i.imgur.com/nlG4N2L.png
+[GravityWell2]: https://i.imgur.com/gtSUIpG.png
