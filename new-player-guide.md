@@ -192,7 +192,7 @@ Now with a base set up you should protect it using GriefPrevention, or GP for sh
 
 Join us on Discord for more up-to-date information on changes!
 
-[https://cdn.discordapp.com/attachments/341345428651900948/375705484251889664/unknown.png](https://cdn.discordapp.com/attachments/341345428651900948/375705484251889664/unknown.png)
+![Join our Discord server!](.gitbook/assets/discord.png)
 
-[https://discord.gg/RdRCVkM](https://discord.gg/RdRCVkM)
+Invite Code: [https://discord.gg/RdRCVkM](https://discord.gg/RdRCVkM)
 
