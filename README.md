@@ -1,2 +1,9 @@
-# StarLegacy.Wiki
-Remote mirror of SL wiki. Contributions can be proposed here. Accepted updates are updated within 15 seconds of being pushed to master.
+# Wiki
+**Welcome to the Star Legacy wiki!**
+
+The wiki is a place where you learn to use the myriad unique features of Star Legacy.
+
+Check out our [New Player Guide](https://starlegacy.net/wiki/new_player_guide) to get started quickly!
+
+
+**Do you want to contribute?** [This wiki is open source on GitHub!](https://github.com/StarLegacy/StarLegacy.Wiki) 

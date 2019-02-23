@@ -65,4 +65,4 @@ These are like sponge blocks, but with a few key differences.
 [wires]: https://i.imgur.com/JGQXYYc.png
 [connector]:https://i.imgur.com/edCMmAe.png
 [iron1]: https://i.imgur.com/AG3w8It.png
-[iron2]: https://i.imgur.com/n73FA55.png 
+[iron2]: https://i.imgur.com/n73FA55.png
