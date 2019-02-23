@@ -5,7 +5,8 @@ To use a detonator, right click while holding one and it will be thrown in the d
 
 Detonators are relatively expensive, so it is wise to use them sparingly and not carry too many, lest you die and lose them all.
 
-## Crafting
+**Crafting**
 Materials: 3x titanium, 1x uranium, 1x redstone
 
-Screenshot 20.png
+![Detonator](https://i.imgur.com/5H0zfVb.png)
+
