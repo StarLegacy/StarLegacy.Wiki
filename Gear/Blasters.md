@@ -6,7 +6,7 @@ Blaster recipes require titanium, Size A batteries, and a glass pane.
 
 ## Blaster Pistols
 
-![](Screenshot%2016.png.png)
+![Blaster Pistols](https://i.imgur.com/M3Q0DpS.png)
 
 Blaster Pistols are cheap to make and cost little power, plus they have the most rapid rate of fire. However they do not do much damage.
 
@@ -24,7 +24,7 @@ Blaster Pistols are cheap to make and cost little power, plus they have the most
 
 ## Blaster Rifles
 
-![](Screenshot%2017.png.png)
+![Blaster Rifle](https://i.imgur.com/OLTCC6B.png)
 
 Blaster Rifles are your well-rounded standard weapon. They do good damage and they have a fair rate of fire. By far, the best for straight up PVP.
 
@@ -42,7 +42,7 @@ Blaster Rifles are your well-rounded standard weapon. They do good damage and th
 
 ## Blaster Snipers
 
-![](Screenshot%2018.png.png)
+![Blaster Sniper](https://i.imgur.com/UKI2UbF.png)
 
 Blaster snipers are useful for shooting people at long distances. They do enough damage to one-shot someone who has no armor. Their drawback is that they have a very slow chargeup.
 
@@ -60,9 +60,9 @@ Blaster snipers are useful for shooting people at long distances. They do enough
 
 ## Blaster Cannons
 
-![](Screenshot%2019.png.png)
+**BLASTER CANNONS HAVE BEEN DISCONTINUED.**
 
-Blaster cannons are heavy, expensive weapons which create explosions on impact. They have a fairly slow chargeup for do very good damage. They cost a whopping 50 power per shot, so they are quite expensive to use.
+Blaster cannons were heavy, expensive weapons which create explosions on impact. They have a fairly slow chargeup for do very good damage. They cost a whopping 50 power per shot, so they are quite expensive to use.
 
 > **Speed** 0.4
 >
