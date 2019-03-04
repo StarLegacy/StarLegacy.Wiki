@@ -8,4 +8,5 @@ Detonators are relatively expensive, so it is wise to use them sparingly and not
 ## Crafting
 Materials: 3x titanium, 1x uranium, 1x redstone
 
-Screenshot 20.png
+![Detonator](https://i.imgur.com/5H0zfVb.png)
+
