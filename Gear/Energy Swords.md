@@ -6,9 +6,9 @@ Energy Swords are capable of deflecting blasters bolts, dealing good damage, and
 
 Energy Sword Crafting
 
-![](Screenshot%201.png.png)
+![Energy Sword](https://i.imgur.com/uLbGCYG.png)
 
-(Mineral goes in center slot)
+(Mineral goes in center slot, where the coal is)
 
 Requires: 6x aluminum, 1x titanium, 1x glass pane, 1x mineral (See chart below for needed mineral)
 
