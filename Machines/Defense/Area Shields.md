@@ -30,7 +30,13 @@ right click the sign to create it, and fill it up with power.
 
 ## 10 Block Radius
 #### Requirements
-[Contribute!](/wiki/contributing)
+* 1x noteblock
+* 2x glass
+* 2x glass pane
+* 4x stairs
+* 1x stone bricks
+* 2x iron blocks
+* 2x sponge
 
 #### Images
 ![10block1]
@@ -38,7 +44,14 @@ right click the sign to create it, and fill it up with power.
 
 ## 20 Block Radius
 #### Requirements
-[Contribute!](/wiki/contributing)
+* 1x noteblock
+* 8x glass
+* 8x glass pane
+* 6x stairs
+* 2x stone bricks
+* 4x iron blocks
+* 3x sponge
+* 1x diamond block
 
 #### Images
 ![20block1]
@@ -46,7 +59,14 @@ right click the sign to create it, and fill it up with power.
 
 30 Block Radius
 #### Requirements
-[Contribute!](/wiki/contributing)
+* 1x noteblock
+* 12x glass
+* 12x glass pane
+* 8x stairs
+* 2x stone bricks
+* 6x iron blocks
+* 4x sponge
+* 3x diamond block
 
 #### Images
 ![30block1]
