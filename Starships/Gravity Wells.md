@@ -13,7 +13,6 @@ can be placed on starships to cast enormous mass shadows into hyperspace. This i
 useful for many things, including:
 
 * Pirates preventing trade ships from escaping, so they can catch them
-* Chased people preventing their attackers from jumping right on top of them
 * Preventing enemies from bringing reinforcements by trapping them with wells
 
 ## Multiblock

@@ -52,6 +52,7 @@ They can also be used to trade cargo missiosn between planets.
 ## Specialized
 
 Specialized ships have varying statistics. These ships serve one purpose extremely well while also having it's other statistics lowered accordingly.
+
 | Name             | Min Size | Max Size | Power   | Containers | Accel Dist | Max Accel | Level | Specialization |
 |------------------|----------|----------|---------|------------|------------|-----------|-------|----------------|
 | Interdictor      | 14000    | 22000    | 70,000  | 1.5%       | 5          | 8         | L     | Mass Shadows   |
