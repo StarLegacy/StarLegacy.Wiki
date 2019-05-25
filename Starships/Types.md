@@ -48,3 +48,10 @@ They can also be used to trade cargo missiosn between planets.
 | Heavy Freighter  | 12,000   | 20,000   | 75,000  | 3          | 3         | LX     |
 | Barge            | 20,000   | 32,000   | 90,000  | 2          | 2         | LXXII  | 
 | Tanker           | 32,000   | 48,000   | 110,000 | 2          | 2         | LXXXIV |
+
+## Specialized
+
+Specialized ships have varying statistics. These ships serve one purpose extremely well while also having it's other statistics lowered accordingly.
+| Name             | Min Size | Max Size | Power   | Containers | Accel Dist | Max Accel | Level | Specialization |
+|------------------|----------|----------|---------|------------|------------|-----------|-------|----------------|
+| Interdictor      | 14000    | 22000    | 70,000  | 1.5%       | 5          | 8         | L     | Mass Shadows   |
