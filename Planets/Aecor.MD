@@ -1,4 +1,4 @@
-# Planet Name
+# Aecor
 
 ##### [Go Back](/wiki/space#planets)
 
