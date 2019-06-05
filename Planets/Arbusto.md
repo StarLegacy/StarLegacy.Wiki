@@ -20,13 +20,13 @@
 >
 > Population Concentration: Medium (Currently Falling)
 >
-> Capitals: NewQuantumIllusion (VEGASecurity), Sabre (Pirates) & IoclasCity (IoclasUnion)
+> Capitals: Sector1 (VEGASecurity)
 >
-> Threats: Most are not online enough to be threats.
+> Threats: None.
 >
 > Trade Cities: Hades (Luxivitas) & Arbost (NPC)
 >
-> Territorial or Controlling Nations: Possibly Pirates
+> Territorial or Controlling Nations: None.
 
 ## Quick Notes
 
