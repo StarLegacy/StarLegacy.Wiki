@@ -1,4 +1,4 @@
-# Planet Name
+# Collis
 
 ##### [Go Back](/wiki/space#planets)
 
