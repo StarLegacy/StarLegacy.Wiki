@@ -20,7 +20,7 @@
 >
 > Population Concentration: Low
 >
-> Capitals: Centradia (CortesiaDelMar)
+> Capitals: Centradia (CortesiaDelMar) & NewStag (Valkyries)
 >
 > Threats: Mobs
 >

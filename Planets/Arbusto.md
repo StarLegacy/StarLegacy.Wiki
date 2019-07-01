@@ -8,7 +8,7 @@
 >
 > World Theme: Temperate Forest
 >
-> Atmosphere Condition: Stable
+> Atmosphere Condition: Habitable
 >
 > Generic Preferable Planet Usage: Farming
 
@@ -16,17 +16,17 @@
 
 * Most of this could change at a moment's notice, but generally will be correct.
 
-> Population: Medium-Low (Currently Falling)
+> Population: Medium-Low
 >
-> Population Concentration: Medium (Currently Falling)
+> Population Concentration: Medium
 >
 > Capitals: Sector1 (VEGASecurity)
 >
-> Threats: None.
+> Threats: None
 >
-> Trade Cities: Hades (Luxivitas) & Arbost (NPC)
+> Trade Cities: Arbost (NPC)
 >
-> Territorial or Controlling Nations: None.
+> Territorial or Controlling Nations: None
 
 ## Quick Notes
 
