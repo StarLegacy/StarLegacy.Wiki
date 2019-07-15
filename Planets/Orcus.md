@@ -24,7 +24,7 @@
 >
 > Threats: Mobs
 >
-> Trade Cities: Orcost (NPC)
+> Trade Cities: Laconia (Arimfea) & Orcost (NPC)
 >
 > Territorial or Controlling Nations: None
 
