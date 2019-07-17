@@ -20,9 +20,9 @@
 >
 > Population Concentration: Low
 >
-> Capitals: Creta (Arimfea)
+> Capitals: Creta (Arimfea) & BlockEvraHorizon (Pieratz)
 >
-> Threats: Arimfea
+> Threats: Arimfea & Pieratz
 >
 > Trade Cities: Creta (Arimfea) & Trunkost (NPC)
 >
