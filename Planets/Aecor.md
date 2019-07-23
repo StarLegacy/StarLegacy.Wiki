@@ -20,16 +20,16 @@
 >
 > Population Concentration: Medium
 >
-> Capitals: ClewBay (RepublicOfPirates) & ColonyOne (StarFleet)
+> Capitals: ClewBay (Anarchists) & ColonyOne (StarFleet)
 >
-> Threats: RepublicOfPirates
+> Threats: Anarchists
 >
 > Trade Cities: Aecost (NPC)
 >
-> Territorial or Controlling Nations: RepublicOfPirates
+> Territorial or Controlling Nations: Anarchists
 
 ## Quick Notes
 
-This cluster of islands is based on the Greek country. High mountains and lots of islands. The dominating force is the RepublicOfPirates with many claims of land and warships. The planet contains a vast ocean and worst of all, skeletons.
+This cluster of islands is based on the Greek country. High mountains and lots of islands. The dominating force is the Anarchists with many claims of land and warships. The planet contains a vast ocean and worst of all, skeletons.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Aecor)
