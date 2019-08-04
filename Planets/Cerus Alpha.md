@@ -11,6 +11,11 @@
 > Atmosphere Condition: Hot
 >
 > Generic Preferable Planet Usage: Challenging Colonization
+>
+> Resources:
+> - Gold (Not Much)
+> - Quartz (Lots)
+> - Glowstone (Some)
 
 ## Politics and Related Information
 
