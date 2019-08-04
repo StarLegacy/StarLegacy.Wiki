@@ -11,6 +11,15 @@
 > Atmosphere Condition: Freezing
 >
 > Generic Preferable Planet Usage: Mining
+>
+> Resources:
+> - Iron (Lots)
+> - Lapis (Lots)
+> - Redstone (Some)
+> - Diamond (Some)
+> - Prismarine Crystals (Lots)
+> - Copper (Lots)
+> - Aluminum (Lots)
 
 ## Politics and Related Information
 
