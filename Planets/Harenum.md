@@ -11,6 +11,12 @@
 > Atmosphere Condition: Hot <During Daylight Hours>
 >
 > Generic Preferable Planet Usage: Mining
+>
+> Resources:
+> - Iron (Lots)
+> - Gold (Lots)
+> - Diamond (Not Much)
+> - Glowstone (Lots)
 
 ## Politics and Related Information
 
