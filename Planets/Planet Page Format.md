@@ -13,6 +13,11 @@
 > Atmosphere Condition (e.g. radioactive; no air)
 >
 > Generic Preferable Planet Usage (e.g. terram is a farming planet not mining)
+>
+> Resources: (Examples below. Not Much, Some or Lots (less to more) to indicate resource density.)
+> - Coal (Not Much)
+> - Diamond (Lots)
+> - Uranium (Some)
 
 ## Politics and Related Information
 
