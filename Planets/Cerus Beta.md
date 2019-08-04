@@ -11,6 +11,9 @@
 > Atmosphere Condition: No Atmosphere
 >
 > Generic Preferable Planet Usage: Colonization
+>
+> Resources:
+> - Coal (Not Much)
 
 ## Politics and Related Information
 
