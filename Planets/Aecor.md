@@ -11,6 +11,13 @@
 > Atmosphere Condition: Habitable
 >
 > Generic Preferable Planet Usage: Colonization
+>
+> Resources:
+> - Iron (Lots)
+> - Redstone (Some)
+> - Emerald (Not Much)
+> - Prismerine Crystals (Some)
+> - Aluminum (Some)
 
 ## Politics and Related Information
 

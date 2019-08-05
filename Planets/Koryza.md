@@ -11,6 +11,10 @@
 > Atmosphere Condition: Habitable
 >
 > Generic Preferable Planet Usage: Colonization
+>
+> Resources:
+> - Lapis (Not Much)
+> - Emerald (Some)
 
 ## Politics and Related Information
 

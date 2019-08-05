@@ -11,6 +11,10 @@
 > Atmosphere Condition: Habitable
 >
 > Generic Preferable Planet Usage: Farming
+>
+> Resources:
+> - Coal (Not Much)
+> - Gold (Not Much)
 
 ## Politics and Related Information
 

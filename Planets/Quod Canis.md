@@ -11,6 +11,13 @@
 > Atmosphere Condition: Habitable
 >
 > Generic Preferable Planet Usage: Mining
+>
+> Resources:
+> - Coal (Some)
+> - Iron (Not Much)
+> - Gold (Some)
+> - Quartz (Lots)
+> - Chetherite (Lots)
 
 ## Politics and Related Information
 

@@ -11,6 +11,12 @@
 > Atmosphere Condition: Radioactive
 >
 > Generic Preferable Planet Usage: Mining
+>
+> Resources:
+> - Coal (Lots)
+> - Redstone (Lots)
+> - Emerald (Lots)
+> - Uranium (Lots)
 
 ## Politics and Related Information
 

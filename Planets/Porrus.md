@@ -11,6 +11,12 @@
 > Atmosphere Condition: Toxic
 >
 > Generic Preferable Planet Usage: Colonization
+>
+> Resources:
+> - Coal (Not Much)
+> - Lapis (Not Much)
+> - Redstone (Some)
+> - Glowstone (Not Much)
 
 ## Politics and Related Information
 
