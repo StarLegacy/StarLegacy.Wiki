@@ -28,7 +28,7 @@ Using pipes we can create an automatic, fast and no red-stone sorting system.
 
 To make a sorting system you will need the following items:
 - Hopper
-- Glass Pain (3 different colors)
+- Glass Pane (3 different colors)
 - Chest & Trapped chest
 - Crafting Table
 - Item to be sorted
