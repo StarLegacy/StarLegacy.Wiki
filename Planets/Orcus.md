@@ -22,15 +22,15 @@
 
 * Most of this could change at a moment's notice, but generally will be correct.
 
-> Population: Low
+> Population: Low (rising)
 >
 > Population Concentration: Low
 >
-> Capitals: Ortaria (UnitedSpaceFederation)
+> Capitals: Ortaria (UnitedSpaceFederation), ForgeAlpha (Qusmubia)
 >
 > Threats: Mobs
 >
-> Trade Cities: Laconia (Arimfea) & Orcost (NPC)
+> Trade Cities: Laconia (LaconianEmpire) & Orcost (NPC)
 >
 > Territorial or Controlling Nations: None
 
