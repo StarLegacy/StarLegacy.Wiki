@@ -2,6 +2,7 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/I4JYdq1"><img src="https://i.imgur.com/I4JYdq1.jpg" title="Korost on Koryza." /></a>
 ## General Information
 
 > World Type: Overworld

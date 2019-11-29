@@ -2,6 +2,7 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/5uuM5hd"><img src="https://i.imgur.com/5uuM5hd.jpg" title="Syrost on Syre." /></a>
 ## General Information
 
 > World Type: Overworld
