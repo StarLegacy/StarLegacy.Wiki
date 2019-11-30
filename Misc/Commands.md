@@ -46,22 +46,26 @@ This command gives you a "clock", a ship controller to control your ship. WARNIN
 
 /kit pvp
 
-This command gives you power boots, power leggings, power chestplate, and a power helmet. It also gives you a rocket boost module you can add to your power boots by crafting them together, the rocket boost module lets you fly around when you jump into the air and hold shift while still in the air. You also get a couple of guns. WARNING: This very expensive kit will cost you 1000 credits, so do not heavily rely upon it, get used to making your own power armor as it will be much cheaper for you in the long run.
+This command gives you a blaster pistol for when you're in a sticky situation and have no other options. WARNING: This very expensive kit will cost you 500 credits, so do not heavily rely upon it, it will be much cheaper for you to create your own pvp gear.
 
 
-/points
+/xp 
 
-tells you how much points you have, so that you know how close you are to ranking up.
-
-
-/rankup
-
-use this command to "level up", which will grant you access to larger and more powerful spaceships whether you're buying them from the ecostation or building them yourself. You'll need a certain amount of points to rankup, and each time you rankup you'll need to collect more points than before.
+Tells you how much SLXP you have, and how much you need to level up, so you know when you're close to leveling up.
 
 
-/points (player name)
+/xp (player name)
 
-tells you how many points that player has, don't include the "( )" braces, just the name of the player you want to check. The amount of points a player has will give you a rough guess as to how powerful they are, if they have 0 points they may be a refugee that just started playing the game, if they have thousands and thousands of points they may be a very powerful player that you should be very careful about getting into a confrontation with.
+Tells you how much SLXP another player has, and close they are to leveling up.
+
+
+/buyxp
+
+Use this command to buy xp to level up, 
+
+/pinfo (player name)
+
+Tells you the settlement a player is in, the nation the player is in, their relation to your nation, the player's xp, and the player's level. You can use this command to know exactly who you're talking to, if you notice a level 54 heading towards you, and you're level 20, you might want to start flying away.
 
 
 /getpos (player name)
@@ -211,7 +215,7 @@ Commands for the creative server
 Use this command to go to the creative server.
 
 
-/server starlegacy
+/server survival
 
 Use this command to leave creative mode and go to the main survival server.
 
