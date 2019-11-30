@@ -60,9 +60,9 @@ Blaster snipers are useful for shooting people at long distances. They do enough
 
 ## Blaster Cannons
 
-**BLASTER CANNONS HAVE BEEN DISCONTINUED.**
+![Blaster Cannon](https://i.imgur.com/Byg7SGt.png)
 
-Blaster cannons were heavy, expensive weapons which create explosions on impact. They have a fairly slow chargeup for do very good damage. They cost a whopping 50 power per shot, so they are quite expensive to use.
+Blaster cannons are heavy, expensive weapons which create explosions on impact. They have a fairly slow chargeup, and do very good damage. They cost a whopping 50 power per shot, so they are quite expensive to use.
 
 > **Speed** 0.4
 >
