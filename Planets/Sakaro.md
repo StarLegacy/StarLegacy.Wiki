@@ -2,6 +2,7 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/7TPMN2K"><img src="https://i.imgur.com/7TPMN2K.jpg" title="Sakost on Sakaro." /></a>
 ## General Information
 
 > World Type: Overworld
