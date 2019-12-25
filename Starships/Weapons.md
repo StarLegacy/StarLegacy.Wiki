@@ -87,7 +87,31 @@ You can only have a few of them on ships.
 >
 > **Impact** *1x explosion, power 4.0, equivalent to TNT*
 
-#### Proton Torpedoes
+### Ion Cannons
+
+Ion cannons are very powerful cannons that can disable nodes and are manually fired.
+They can only be used on fighters and corvettes. Click the sponge to fire.
+
+#### Ion Cannon Multiblock
+
+> * `1x Sponge`
+> * `1x Lapis Block`
+> * `1x Dispenser`
+> * `1x Stained Glass`
+
+![Image](https://i.imgur.com/1NNEclf.png)
+
+#### Ion Cannon Details
+
+> **Cooldown** *30 Seconds*
+>
+> **Range** *> 180 Blocks*
+>
+> **Type** *Speciality Weapon*
+>
+> **Impact** *1x explosion, massive shield damage; does not affect blocks, 6.5 block radius cube*
+
+### Proton Torpedoes
 
 Proton torpedoes are heavy weapons useful for smaller ships.
 You can only have a few on any ship, even ones with high power output.
@@ -110,7 +134,7 @@ You fire them by holding or double clicking right click.
 >
 > **Impact** *1x explosion, power 8.0*
 
-#### Heavy Lasers
+### Heavy Lasers
 
 Heavy lasers are powerful weapons useful for larger ships.
 They are primarily useful on larger ships

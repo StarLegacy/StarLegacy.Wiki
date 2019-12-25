@@ -15,21 +15,13 @@
 > Resources:
 > - Coal (Not Much)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Low
+> Population: Medium
 >
-> Population Concentration: Low
->
-> Capitals: Qyncasmire (PlanetaEremitae)
->
-> Threats: Slime
+> Population Concentration: High
 >
 > Trade Cities: CerusBetost (NPC)
->
-> Territorial or Controlling Nations: PlanetaEremitae at the south-western corner.
 
 ## Quick Notes
 

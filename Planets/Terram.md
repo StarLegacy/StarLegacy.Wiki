@@ -17,21 +17,13 @@
 > - Iron (Not Much)
 > - Titanium (Lots)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Medium-Low
+> Population: Low
 >
 > Population Concentration: Medium-Low
 >
-> Capitals: Kragostani (Ekatera)
->
-> Threats: Zombies
->
 > Trade Cities: Kragostani (Ekatera) & Terrost (NPC)
->
-> Territorial or Controlling Nations: Ekatera
 
 ## Quick Notes
 

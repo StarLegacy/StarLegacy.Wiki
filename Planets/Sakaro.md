@@ -18,21 +18,13 @@
 > - Redstone (Some)
 > - Gold (Some)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Low-Medium
 >
 > Population Concentration: Low
 >
-> Capitals: Aviarus (AltBandits), PotatoUnion (Ensis), & Heikara (Orovika)
->
-> Threats: AltBandits
->
 > Trade Cities: Sakost
->
-> Territorial or Controlling Nations: AltBandits & Ensis (Occasionally)
 
 ## Quick Notes
 

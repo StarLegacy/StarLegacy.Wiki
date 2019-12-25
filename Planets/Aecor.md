@@ -19,21 +19,13 @@
 > - Prismerine Crystals (Some)
 > - Aluminum (Some)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Medium-Low
+> Population: Low
 >
-> Population Concentration: Medium
->
-> Capitals: ClewBay (Anarchists) & ColonyOne (StarFleet)
->
-> Threats: Anarchists
+> Population Concentration: Low
 >
 > Trade Cities: Aecost (NPC)
->
-> Territorial or Controlling Nations: Anarchists
 
 ## Quick Notes
 
