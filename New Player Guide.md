@@ -150,6 +150,8 @@ If you don't have one, you respawn at the station.
 
 To make one, use `/kit cryo` to get the parts, and see `/info cryopod` for an explanation of building them.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EO_HULCRjCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > To prevent your cryo pod from being destroyed, you can use [area shields](https://starlegacy.net/wiki/machines/defense/area_shields) or hide it!
 
 Diagram of a cryopod:
