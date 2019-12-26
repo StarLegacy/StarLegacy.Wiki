@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/0Q6UDCv"><img src="https://i.imgur.com/0Q6UDCv.jpg" title="source: imgur.com" /></a>
+
 ## General Information
 
 > World Type: Overworld
