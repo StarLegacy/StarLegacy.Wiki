@@ -16,21 +16,13 @@
 > - Coal (Not Much)
 > - Gold (Not Much)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Medium-Low
 >
 > Population Concentration: Medium
 >
-> Capitals: Sector1 (VEGASecurity)
->
-> Threats: None
->
 > Trade Cities: Arbost (NPC)
->
-> Territorial or Controlling Nations: None
 
 ## Quick Notes
 

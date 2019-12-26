@@ -18,21 +18,13 @@
 > - Diamond (Not Much)
 > - Quartz (Lots)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Low (rising)
+> Population: Low
 >
 > Population Concentration: Low
 >
-> Capitals: Ortaria (UnitedSpaceFederation), ForgeAlpha (Qusmubia)
->
-> Threats: Mobs
->
-> Trade Cities: Laconia (LaconianEmpire) & Orcost (NPC)
->
-> Territorial or Controlling Nations: None
+> Trade Cities: Laconia (Arimfea) & Orcost (NPC)
 
 ## Quick Notes
 

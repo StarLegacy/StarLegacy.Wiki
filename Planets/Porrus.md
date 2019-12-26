@@ -18,21 +18,13 @@
 > - Redstone (Some)
 > - Glowstone (Not Much)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Medium-Low
 >
 > Population Concentration: Low
 >
-> Capitals: TempleOfYavan (JediAlliance)
->
-> Threats: None
->
-> Trade Cities: Porost (NPC)
->
-> Territorial or Controlling Nations: None
+> Trade Cities: Jita (DemonCorp) Porost (NPC)
 
 ## Quick Notes
 

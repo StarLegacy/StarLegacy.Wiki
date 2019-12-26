@@ -19,7 +19,7 @@
 > - Diamond (Lots)
 > - Uranium (Some)
 
-## Politics and Related Information
+## Related Information
 
 * Most of this could change at a moment's notice, but generally will be correct.
 
@@ -27,13 +27,7 @@
 >
 > Population Concentration (i.e. an estimation on players per territory; e.g. low, medium, high)
 >
-> Capitals (i.e. "are there any nation capitals here?" If so, then list them)
->
-> Threats (e.g. pirate or privateer concentration)
->
 > Trade Cities ("are there any npc cities?"; include the npc outpost)
->
-> Territorial or Controlling Nations (e.g. ekatera controls terram and arimfea controls trunkadis)
 
 ## Quick Notes
 

@@ -22,21 +22,13 @@
 > - Copper (Lots)
 > - Aluminum (Lots)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Low
 >
 > Population Concentration: Medium
 >
-> Capitals: Overkill (Overkill) & CTMC (CrociatoCo)
->
-> Threats: CrociatoCo
->
 > Trade Cities: Syrost (NPC)
->
-> Territorial or Controlling Nations: None
 
 ## Quick Notes
 

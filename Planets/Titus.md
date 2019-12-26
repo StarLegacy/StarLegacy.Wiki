@@ -18,21 +18,13 @@
 > - Emerald (Lots)
 > - Uranium (Lots)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Low
 >
 > Population Concentration: Low
 >
-> Capitals: Centradia (CortesiaDelMar) & NewStag (Valkyries)
->
-> Threats: Mobs
->
 > Trade Cities: Titost (NPC)
->
-> Territorial or Controlling Nations: None
 
 ## Quick Notes
 

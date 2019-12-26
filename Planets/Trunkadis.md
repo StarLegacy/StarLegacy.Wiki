@@ -18,21 +18,13 @@
 > - Gold (Not Much)
 > - Diamond (Not Much)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Medium-Low
+> Population: Low
 >
 > Population Concentration: Low
 >
-> Capitals: Creta (Arimfea) & BlockEvraHorizon (Pieratz)
->
-> Threats: Arimfea & Pieratz
->
 > Trade Cities: Creta (Arimfea) & Trunkost (NPC)
->
-> Territorial or Controlling Nations: Arimfea
 
 ## Quick Notes
 

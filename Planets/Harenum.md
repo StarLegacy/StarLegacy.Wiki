@@ -18,21 +18,13 @@
 > - Diamond (Not Much)
 > - Glowstone (Lots)
 
-## Politics and Related Information
+## Related Information
 
-* Most of this could change at a moment's notice, but generally will be correct.
-
-> Population: Medium-Low
+> Population: Medium
 >
 > Population Concentration: Low
 >
-> Capitals: None
->
-> Threats: Zombies
->
 > Trade Cities: Harenost (NPC)
->
-> Territorial or Controlling Nations: None
 
 ## Quick Notes
 

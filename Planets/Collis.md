@@ -15,21 +15,13 @@
 > Resources:
 > - Coal (Some)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: Medium-Low
 >
 > Population Concentration: Low
 >
-> Capitals: Concordia (Luxivitas)
->
-> Threats: None
->
 > Trade Cities: Collost (NPC)
->
-> Territorial or Controlling Nations: None
 
 ## Quick Notes
 

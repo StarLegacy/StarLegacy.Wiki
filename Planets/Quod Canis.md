@@ -19,21 +19,13 @@
 > - Quartz (Lots)
 > - Chetherite (Lots)
 
-## Politics and Related Information
-
-* Most of this could change at a moment's notice, but generally will be correct.
+## Related Information
 
 > Population: High
 >
 > Population Concentration: High
 >
-> Capitals: Capitalia (Exerticus)
->
-> Threats: Inconsistent
->
-> Trade Cities: Atlantis (Ekatera), Virtuis (Orovika), & Quodcanost (NPC)
->
-> Territorial or Controlling Nations: None
+> Trade Cities: Atlantis (Aegis), Virtuis (Orovika), & Quodcanost (NPC)
 
 ## Quick Notes
 
