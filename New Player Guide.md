@@ -197,6 +197,10 @@ Now with a base set up you should protect it using GriefPrevention, or GP for sh
 ### Discord
 Join us on Discord for more up-to-date information on changes!
 
+### Video tutorial
+Here is a video tutorial on getting started:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFfDmmpMXQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://cdn.discordapp.com/attachments/341345428651900948/375705484251889664/unknown.png
 
 https://discord.gg/RdRCVkM
