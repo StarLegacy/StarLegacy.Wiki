@@ -16,14 +16,14 @@ All batteries use aluminum on the sides for their casing.
 - Size A Battery 
     > Capacity : 500
 
-    ![Crafting Recipe](https://i.imgur.com/i7dhOAs.png)
+    ![Crafting Recipe](https://i.imgur.com/i7dhOAs.png "Crafting Recipe")
 
 - Size M Battery 
     > Capacity : 1000
 
-    ![Crafting Recipe](https://i.imgur.com/8KDpiBo.png)
+    ![Crafting Recipe](https://i.imgur.com/8KDpiBo.png "Crafting Recipe")
 
 - Size G Battery 
     > Capacity : 2000
 
-    ![Crafting Recipe](https://i.imgur.com/AdnDfxm.png)
+    ![Crafting Recipe](https://i.imgur.com/AdnDfxm.png "Crafting Recipe")
