@@ -38,12 +38,22 @@ their visual indicator is combined into one boss bar.
 
 ![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/a98c52ec5b882c8e1047c79be2c36e1a.png)
 
-### Class 2.0 (12 block radius)
+### Class 0.8i (8 block radius)
 #### Materials needed
 ```
 1x glass
 2x glass pane
-2x iron block
+1x chetherite block
+2x sponge
+```
+
+*Image Unavailable | Contribute One!*
+
+### Class 2.0 (12 block radius)
+#### Materials needed
+```
+1x glass
+4x iron block
 1x sponge
 ```
 
