@@ -2,7 +2,8 @@
 
 Blasters are the pinnacle of modern infantry weaponry. They come in four variants - blaster pistols, rifles, snipers, and cannons.
 
-- Blaster Pistols
+## Blaster Pistols
+
     > **Speed** 0.2
     >
     > **Range** 40 blocks
@@ -17,10 +18,11 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
 
     *This item can be obtained as part of the pvp and starter kits.*
 
-    ![Blaster Pistols](https://imgur.com/xKRkUdq.png)
+   ![Blaster Pistols](https://imgur.com/xKRkUdq.png)
 
 
-- Blaster Rifles
+## Blaster Rifles
+
     > **Speed** 0.25
     >
     > **Range** 75 blocks
@@ -33,9 +35,10 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
     >
     > **Damage** 15
 
-    ![Blaster Rifle](https://imgur.com/EKz1pu0.png)
+   ![Blaster Rifle](https://imgur.com/EKz1pu0.png)
 
-- Blaster Snipers
+## Blaster Snipers
+
     > **Speed** 0.375
     >
     > **Range** 256 blocks
@@ -48,11 +51,12 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
     >
     > **Damage** 20
 
-    ![Blaster Sniper](https://imgur.com/Ryzmsl7.png)
+   ![Blaster Sniper](https://imgur.com/Ryzmsl7.png)
 
 
 
-- Blaster Cannons
+## Blaster Cannons
+
     > **Speed** 0.4
     >
     > **Range** 300 blocks
@@ -67,4 +71,4 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
     >
     > **Explosion Power** 4.0
 
-    ![Blaster Cannon](https://imgur.com/JIV39Y0.png)
+   ![Blaster Cannon](https://imgur.com/JIV39Y0.png)
