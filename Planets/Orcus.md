@@ -24,10 +24,11 @@
 >
 > Population Concentration: Low
 >
-> Trade Cities: Laconia (Arimfea) & Orcost (NPC)
+> Trade Cities: Orcost (NPC)
 
 ## Quick Notes
 
 Many people see Orcus has the little brother of Syre. It surves the same purpose of mining with Quartz and Redstone but does worse overall. The main differences of landscape are the massive lava ocean on the west side and the underground cave system. You need a space suit or an environmental helmet to survive outside.
+Multiple Pirate Organizations reside on Orcus. These include Serpentis and FirstOrder. It is recommended that you avoid attempting colonization while those groups are still active.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Orcus)
