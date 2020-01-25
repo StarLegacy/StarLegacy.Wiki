@@ -34,20 +34,22 @@ However, they can only carry half as many cargo crates.
 | Dreadnought    | 32,000   | 48,000   | 150,000 | 2          | 2         | LXXXIV |
 
 ## Freighters
-Warships can have up to **4.5% containers**.
+Freighters can have up to **4.5% containers**.
 While they cannot do as well as a warship in combat, freighters can transport large amounts of items easily.
-They can also be used to trade cargo missiosn between planets.
+They can also be used to trade cargo missiosn between planets. 
 
-| Name             | Min Size | Max Size | Power   | Accel Dist | Max Accel | Level  |
-|------------------|----------|----------|---------|------------|-----------|--------|
-| Shuttle          | 100      | 500      | 16,000  | 3          | 2         | I      |
-| Transport        | 500      | 2,000    | 24,000  | 5          | 3         | XII    |
-| Light Freighter  | 2,000    | 4,000    | 30,000  | 6          | 2         | XXIV   |
-| Medium Freighter | 4,000    | 8,000    | 40,000  | 6          | 2         | XXXVI  |
-| Bulk Freighter   | 8,000    | 12,000   | 55,000  | 2          | 3         | XLVIII |
-| Heavy Freighter  | 12,000   | 20,000   | 75,000  | 3          | 3         | LX     |
-| Barge            | 20,000   | 32,000   | 90,000  | 2          | 2         | LXXII  | 
-| Tanker           | 32,000   | 48,000   | 110,000 | 2          | 2         | LXXXIV |
+You can figure out the amount of sticky pistons your ship can hold by multiplying your block count by 0.015 or by taking the square root of your block count, whichever result is lower. (Make sure to account for blocks that you will remove to place crates!)
+
+| Name             | Min Size | Max Size | Power   | Accel Dist | Max Accel | Level  | Max Stickies |
+|------------------|----------|----------|---------|------------|-----------|--------|--------------|
+| Shuttle          | 100      | 500      | 16,000  | 3          | 2         | I      | 7            |
+| Transport        | 500      | 2,000    | 24,000  | 5          | 3         | XII    | 29 (+22)     |
+| Light Freighter  | 2,000    | 4,000    | 30,000  | 6          | 2         | XXIV   | 59 (+30)     |
+| Medium Freighter | 4,000    | 8,000    | 40,000  | 6          | 2         | XXXVI  | 88 (+29)     |
+| Bulk Freighter   | 8,000    | 12,000   | 55,000  | 2          | 3         | XLVIII | 109 (+21)    |
+| Heavy Freighter  | 12,000   | 20,000   | 75,000  | 3          | 3         | LX     | 140 (+31)    |
+| Barge            | 20,000   | 32,000   | 90,000  | 2          | 2         | LXXII  | 178 (+38)    |
+| Tanker           | 32,000   | 48,000   | 110,000 | 2          | 2         | LXXXIV | 218 (+40)    |
 
 ## Specialized
 
