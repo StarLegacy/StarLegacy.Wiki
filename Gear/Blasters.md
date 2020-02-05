@@ -2,8 +2,7 @@
 
 Blasters are the pinnacle of modern infantry weaponry. They come in four variants - blaster pistols, rifles, snipers, and cannons.
 
-## Blaster Pistols
-
+### Blaster Pistols
 > **Speed** 0.2
 >
 > **Range** 40 blocks
@@ -21,8 +20,7 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
 ![Blaster Pistols](https://imgur.com/xKRkUdq.png)
 
 
-## Blaster Rifles
-
+### Blaster Rifles
 > **Speed** 0.25
 >
 > **Range** 75 blocks
@@ -37,7 +35,7 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
 
 ![Blaster Rifle](https://imgur.com/EKz1pu0.png)
 
-## Blaster Snipers
+### Blaster Snipers
 
 > **Speed** 0.375
 >
@@ -55,8 +53,7 @@ Blasters are the pinnacle of modern infantry weaponry. They come in four variant
 
 
 
-## Blaster Cannons
-
+### Blaster Cannons
 > **Speed** 0.4
 >
 > **Range** 300 blocks
