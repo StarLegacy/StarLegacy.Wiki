@@ -25,7 +25,7 @@
 >
 > Population Concentration: Low
 >
-> Trade Cities: Aecost (NPC)
+> Trade Cities: Aecost (NPC), DoDixie (Irkalla)
 
 ## Quick Notes
 
