@@ -10,18 +10,17 @@ Batteries are used to provide small amounts of power in a portable way.
 
 [Detailed Video Tutorial](https://youtu.be/RgkvASn3Cd0 "Detailed Video Tutorial")
 
-## Crafting Recipes:
-- Size A Battery 
-    > **Capacity** 500
+### Size A Battery 
+> **Capacity** 500
 
-    ![Crafting Recipe](https://imgur.com/i7dhOAs.png "Crafting Recipe")
+![Crafting Recipe](https://imgur.com/i7dhOAs.png "Crafting Recipe")
 
-- Size M Battery 
-    > **Capacity** 1000
+### Size M Battery 
+> **Capacity** 1000
 
-    ![Crafting Recipe](https://imgur.com/8KDpiBo.png "Crafting Recipe")
+![Crafting Recipe](https://imgur.com/8KDpiBo.png "Crafting Recipe")
 
-- Size G Battery 
-    > **Capacity** 2000
+### Size G Battery 
+> **Capacity** 2000
 
-    ![Crafting Recipe](https://imgur.com/AdnDfxm.png "Crafting Recipe")
+![Crafting Recipe](https://imgur.com/AdnDfxm.png "Crafting Recipe")
