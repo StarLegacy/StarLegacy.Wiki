@@ -182,12 +182,8 @@ Left to right:
 * Copper, Aluminum, Chetherite, Titanium, and Uranium Blocks out of 9x of each respective item.
 * 16x Wire (End Rod) can be crafted out of 3x Copper Ingots.
 
-### Ranks and Advancements
-Meanwhile, you should decide on a [[Ranks|rank path]] (`/ranktrack`).
-
-After choosing a path, can earn points. Points are used to rank up, unlock bigger ship types and unlock higher advancement tiers. Colonists get points by getting money (money = points, losing money = losing points and ranking up costs money) and pirates/privateers get points from kills.
-
-Advancements are unlockable technologies which can be added to your ship, defenses, or automatons (more on that later). They also cost points to unlock, increasingly more expensive the higher the tier. Advancements can be implemented on ships, defenses, and automatons. [Click here to jump to Advancements](#main-features).
+### Advancements
+Advancements are unlockable technologies which can be added to your ship, defenses, or automatons (more on that later). They cost credits to unlock, increasingly more expensive the higher the tier. Advancements can be implemented on ships, defenses, and automatons.
 
 ### Claiming Land
 Now with a base set up you should protect it using GriefPrevention, or GP for short. You can do a basic claim using `/claim`. To do more advanced stuff like custom sizes and shapes, you'll need a golden shovel (gold can be acquired on asteroids). You may only have one GP claim in a world, but you can expand them later with a golden shovel. For more info, you should check out the tutorial in this [video on YouTube](http://bit.ly/mcgpuser).
