@@ -28,6 +28,6 @@
 
 ## Quick Notes
 
-Big hills, huge trees. Spiders and creepers. This is the planet of Arimfea, the owner's nation. They make it clear they dislike colonizers who aren't in the nation and will kill anyone- yes anyone, even low levels and allies -who colonize without permission. The best way to survive here is to either join Arimfea or some other strong nation that is willing to stand up against Arimfea. Though in all honesty, you're better off choosing another planet to start a base.
+Big hills, huge trees. Spiders and creepers. The entire planet was originally claimed by Arimfea, the owner's nation. It used to be feared and anyone who dared to step foot on this planet was destroyed immediately. The nation has long since fallen, but the planet continues to contain old relics of the time.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Trunkadis)
