@@ -54,6 +54,7 @@ There, you detected it! Now, try piloting it by **right clicking the computer**.
 Now that you've piloted it, you can fly your ship! **There are 3 basic ways to move your ship:**
 
 > You must be piloting the ship and holding the controller to do these
+> If you want to bring someone as a passenger in your ship, you must depilot and wait for them to enter the ship. After they are in the ship, you can repilot and they will move along with you and the ship. 
 
 #### 1. "Shift" Flying
 
@@ -152,7 +153,9 @@ To make one, use `/kit cryo` to get the parts, and see `/info cryopod` for an ex
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EO_HULCRjCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> To prevent your cryo pod from being destroyed, you can use [area shields](https://starlegacy.net/wiki/machines/defense/area_shields) or hide it!
+> To prevent your cryo pod from being destroyed, you can use [area shields](https://starlegacy.net/wiki/machines/defense/area_shields) or hide it! If a cryopod is destroyed by a ship, detonator or blaster rifle and you die, you will respawn at the nearest local station. You will only be able to return to your cryo when it has regenerated. For it to regenerate it requires someone to be in the chunk/near the chunk it is in, otherwise you will have to fly home! 
+
+> Warning: You can only make 1 cryopod! If you have a pre-existing cryopod, and make a new one, the previous one will be deregistered and will not work. Staff are not allowed to tp you to cryopods unless there was a respawn error or they deem it appropriate!
 
 Diagram of a cryopod:
 
@@ -188,7 +191,7 @@ Advancements are unlockable technologies which can be added to your ship, defens
 ### Claiming Land
 Now with a base set up you should protect it using GriefPrevention, or GP for short. You can do a basic claim using `/claim`. To do more advanced stuff like custom sizes and shapes, you'll need a golden shovel (gold can be acquired on asteroids). You may only have one GP claim in a world, but you can expand them later with a golden shovel. For more info, you should check out the tutorial in this [video on YouTube](http://bit.ly/mcgpuser).
 
-> Warning: Claiming an area to protect a ship while in space is against the rules! Only use claim to protect your builds. However, you may still park your ship within this area, given that it's within your build area i.e. your base.''
+> Warning: Claiming an area in space with GriefPrevention is not possible! You must make a nation space claim!
 
 ### Discord
 Join us on Discord for more up-to-date information on changes!
