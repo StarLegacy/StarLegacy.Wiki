@@ -21,9 +21,9 @@
 
 ## Related Information
 
-> Population: Low
+> Population: Medium
 >
-> Population Concentration: Low
+> Population Concentration: High
 >
 > Trade Cities: Aecost (NPC), DoDixie (Irkalla)
 
