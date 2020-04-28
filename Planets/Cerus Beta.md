@@ -10,7 +10,7 @@
 >
 > Atmosphere Condition: No Atmosphere
 >
-> Generic Preferable Planet Usage: Colonization
+> General Planet Usage: Colonization
 >
 > Resources:
 > - Coal (Low)
