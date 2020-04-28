@@ -10,12 +10,12 @@
 >
 > Atmosphere Condition: Hot
 >
-> Generic Preferable Planet Usage: Challenging Colonization
+> Generic Preferable Planet Usage: Mining
 >
 > Resources:
-> - Gold (Not Much)
-> - Quartz (Lots)
-> - Glowstone (Some)
+> - Gold (Low)
+> - Quartz (High)
+> - Glowstone (Medium)
 
 ## Related Information
 
@@ -27,6 +27,6 @@
 
 ## Quick Notes
 
-It's the nether. Lots of mobs and huge oceans of lava. This planet isn't for someone who wants the easy life. It contains gold and quartz as well as a couple other things. You need a space suit or environmental helmet outside.
+It's the nether. Lots of mobs and huge oceans of lava. It contains gold and quartz as well as a couple other things. You need a space suit or environmental helmet outside. Despite the looks, it is not as difficult to live here as many people think.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=CerusAlpha)
