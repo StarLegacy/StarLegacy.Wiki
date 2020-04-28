@@ -10,7 +10,7 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Colonization
+> General Planet Usage: Colonization
 >
 > Resources:
 > - Iron (High)
