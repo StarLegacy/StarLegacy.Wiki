@@ -13,11 +13,11 @@
 > Generic Preferable Planet Usage: Colonization
 >
 > Resources:
-> - Iron (Lots)
-> - Redstone (Some)
-> - Emerald (Not Much)
-> - Prismerine Crystals (Some)
-> - Aluminum (Some)
+> - Iron (High)
+> - Redstone (Medium)
+> - Prismerine Crystals (Medium)
+> - Aluminum (Medium)
+> - Emerald (Low)
 
 ## Related Information
 
@@ -29,6 +29,6 @@
 
 ## Quick Notes
 
-This cluster of islands is based on the Greek country. High mountains and lots of islands. The dominating force is the Anarchists with many claims of land and warships. The planet contains a vast ocean and worst of all, skeletons.
+This cluster of islands is based on the Greek country. High mountains and lots of islands. The planet contains a vast ocean and worst of all, skeletons. It's a very common planet for new players to start out on.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Aecor)
