@@ -8,8 +8,6 @@ Batteries are used to provide small amounts of power in a portable way.
 
 *Unfortunaty, batteries do not yet work with power armor.*
 
-[Detailed Video Tutorial](https://youtu.be/RgkvASn3Cd0 "Detailed Video Tutorial")
-
 ### Size A Battery 
 > **Capacity** 500
 
