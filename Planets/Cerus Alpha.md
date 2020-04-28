@@ -10,7 +10,7 @@
 >
 > Atmosphere Condition: Hot
 >
-> Generic Preferable Planet Usage: Mining
+> General Planet Usage: Mining
 >
 > Resources:
 > - Gold (Low)
