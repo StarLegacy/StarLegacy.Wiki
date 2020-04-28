@@ -10,21 +10,21 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Farming
+> Generic Preferable Planet Usage: Farming, Colonisation
 >
 > Resources:
 > - Coal (Some)
 
 ## Related Information
 
-> Population: Medium-Low
+> Population: Medium
 >
 > Population Concentration: Low
 >
-> Trade Cities: Collost (NPC)
+> Trade Cities: Concordia, Collost (NPC)
 
 ## Quick Notes
 
-Low hills, little trees. This place is a great place to make a home for yourself. Luxivitas is the ruling force here, holding almost the entire north-eastern corner. Collis is known as the Australian Planet due to it's continental structure and climate. The only dangers here are the lava rivers spewing from Gloricus Volcano and the spiders. Lots of spiders. Farming is the main use due to it's nice growth rate.
+Low hills, little trees. This place is a great place to make a home for yourself. Luxivitas is the ruling force here, holding almost the entire north-eastern corner. Luxivitas is peaceful to all settlers unless provoked. In general this planet is very safe. Collis is known as the Australian Planet due to it's continental structure and climate. The only dangers here are the lava rivers spewing from Gloricus Volcano and the spiders. Lots of spiders. Farming is the main use due to it's nice growth rate.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Collis)
