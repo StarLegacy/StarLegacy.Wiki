@@ -10,7 +10,7 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Farming, Colonisation
+> General Planet Usage: Farming, Colonisation
 >
 > Resources:
 > - Coal (Low)
