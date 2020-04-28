@@ -10,13 +10,13 @@
 >
 > Atmosphere Condition: Toxic
 >
-> Generic Preferable Planet Usage: Colonization
+> General Planet Usage: Colonization
 >
 > Resources:
-> - Coal (Not Much)
-> - Lapis (Not Much)
-> - Redstone (Some)
-> - Glowstone (Not Much)
+> - Coal (Low)
+> - Lapis (Low)
+> - Redstone (Medium)
+> - Glowstone (Low)
 
 ## Related Information
 
@@ -24,7 +24,7 @@
 >
 > Population Concentration: Low
 >
-> Trade Cities: Jita (DemonCorp) Porost (NPC)
+> Trade Cities: Jita (VEGA), Porost (NPC)
 
 ## Quick Notes
 
