@@ -58,3 +58,4 @@ Specialized ships have varying statistics. These ships serve one purpose extreme
 | Name        | Min Size | Max Size | Power   | Containers | Accel Dist | Max Accel | Level   | Specialization |
 |-------------|----------|----------|---------|------------|------------|-----------|---------|----------------|
 | Interdictor | 14000    | 22000    | 70,000  | 1.5%       | 5          | 8         | 50 (٥٠) | Mass Shadows   |
+| Speeder     | 25       | 100      | 10,000  | 2.5%       | 5          | 5         | 1 (١)   | Speed          |
