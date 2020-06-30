@@ -110,7 +110,7 @@ Now that you know the basics of flying a ship, there are a number of things you 
 
 You can earn money by turning in cargo crates to trade outposts/cities or by selling items/ships to other players.
 
-   - If you want to make trade deals with other players, you can join our Discord server! Invite link: https://discord.gg/RdRCVkM
+   - If you want to make trade deals with other players, you can join our Discord server! Invite link: https://discord.gg/hPwPUMc
    - Or make a post on our [forums](https://forum.starlegacy.net/)
 
 To unlock more/larger ships you need to rank up using SLXP which is earned by turning in cargo crates.
