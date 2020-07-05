@@ -88,7 +88,7 @@ as regular doors serve the same purpose.
 2. Put the iron bars on top of it vertically
 3. Put iron blocks to the sides of the iron bars
 4. Put the last iron block on top of the top iron bar
-5. Put a sign on the left inner iron block with `[tractorbeam]` on line 1
+5. Put a sign on the left inner iron block with `[airlock]` on line 1
 6. Right click the sign
 
 ### Using an airlock
