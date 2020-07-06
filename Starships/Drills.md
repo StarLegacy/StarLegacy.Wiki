@@ -50,11 +50,6 @@ Furthermore, you must place 2 focus lens into the drills furnace. Place 1 in the
 
 ![Crystals]
 
-## Video Tutorial
-
-If you're a visual learner, see this
-[detailed video tutorial!](https://youtu.be/bObAMu28blM)
-
 [T1Drill]: https://i.imgur.com/O09HB0S.png
 [T2Drill]: https://i.imgur.com/aDBj5Wv.png
 [T3Drill]: https://i.imgur.com/8xj06Aa.png
