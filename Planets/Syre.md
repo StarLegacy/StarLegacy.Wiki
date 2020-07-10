@@ -28,7 +28,7 @@
 >
 > Population Concentration: Medium
 >
-> Trade Cities: Syrost (NPC)
+> Trade Cities: England (Irkalla), Syrost (NPC)
 
 ## Quick Notes
 
