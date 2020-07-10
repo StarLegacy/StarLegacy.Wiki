@@ -25,7 +25,7 @@
 >
 > Population Concentration: High
 >
-> Trade Cities: Atlantis (Aegis), Quodcanost (NPC)
+> Trade Cities: Atlantis (Aegea), Quodcanost (NPC), Virtuis (Orovika)
 
 ## Quick Notes
 
