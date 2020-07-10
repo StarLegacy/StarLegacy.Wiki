@@ -28,6 +28,6 @@
 
 ## Quick Notes
 
-This japanese planet which looks like it fell out of a romance novel is notorious for having one of the highest pirate settlement rates in all of recent history. As of the writing of this wiki page, most of the pirates there are inactive, however they are still dangerous. You don't need any gear to survive here as the terrain has hills with slow-rising sides and hardly any mobs. Of the planets in 7b, it is easily the prettiest.
+This japanese planet which looks like it fell out of a romance novel is notorious for having one of the highest pirate settlement rates in all of 7b's history. As of the writing of this wiki page, most of the pirates there are inactive, however they are still dangerous. You don't need any gear to survive here as the terrain has hills with slow-rising sides and hardly any mobs. Of the planets in 7b, it is easily the prettiest.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Sakaro)
