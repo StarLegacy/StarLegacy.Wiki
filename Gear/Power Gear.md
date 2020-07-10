@@ -22,8 +22,6 @@ Unbreakable gear that uses power instead of durability.
 - With a maximum power of 100,000.
 
 ## Power Armor
-Detailed Video Tutorial [here](https://youtu.be/Qu9Zn0Yebuw)
-
 - A full set of power armor reduces all incoming damage by 50%.
 - Each time you get hit, it uses up 100 power.
 - Each piece holds a max 50,000 power.
