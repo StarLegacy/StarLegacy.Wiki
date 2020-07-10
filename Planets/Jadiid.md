@@ -16,7 +16,7 @@
 > - Iron (High)
 > - Gold (Medium)
 > - Nether Quartz (Medium)
-> - Uranium (Low)
+> - Diamond(Low)
 
 ## Related Information
 
