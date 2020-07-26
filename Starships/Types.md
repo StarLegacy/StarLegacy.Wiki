@@ -24,7 +24,7 @@ However, they can only carry half as many cargo crates.
 
 | Name           | Min Size | Max Size | Power   | Accel Dist | Max Accel | Level   |
 |----------------|----------|----------|---------|------------|-----------|---------|
-| Starfighter    | 100      | 500      | 25,000  | 3          | 2         | 1 (١)   |
+| Starfighter    | 250      | 500      | 25,000  | 3          | 2         | 1 (١)   |
 | Corvette       | 500      | 2,000    | 35,000  | 5          | 3         | 12 (١٢) |
 | Frigate        | 2,000    | 4,000    | 50,000  | 6          | 2         | 24 (٢٤) |
 | Destroyer      | 4,000    | 8,000    | 60,000  | 6          | 2         | 36 (٣٦) |
