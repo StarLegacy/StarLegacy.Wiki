@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/J0vC7rD"><img src="https://i.imgur.com/J0vC7rD.jpg" title="Trunkadis." /></a>
+
 ## General Information
 
 > World Type: Overworld
