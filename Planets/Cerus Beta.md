@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/FAKYZZI"><img src="https://i.imgur.com/FAKYZZI.jpg" title="A battle on Cerus Beta." /></a>
+
 ## General Information
 
 > World Type: Overworld
