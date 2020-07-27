@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/mr9ar9k"><img src="https://i.imgur.com/mr9ar9k.jpg" title="A ship crashing on Cerus Alpha." /></a>
+
 ## General Information
 
 > World Type: Overworld
