@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/tJz0Xx8"><img src="https://i.imgur.com/tJz0Xx8.jpg" title="A village on Quod Canis." /></a>
+
 ## General Information
 
 > World Type: Overworld
