@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/WbSyNY6"><img src="https://i.imgur.com/WbSyNY6.jpg" title="One of the many entrance holes on Porrus." /></a>
+
 ## General Information
 
 > World Type: Overworld
