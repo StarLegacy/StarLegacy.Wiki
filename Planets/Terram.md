@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/5uyj9ss"><img src="https://i.imgur.com/5uyj9ss.jpg" title="An ambush on Terram." /></a>
+
 ## General Information
 
 > World Type: Overworld
