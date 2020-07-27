@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/9vXKMhi"><img src="https://i.imgur.com/9vXKMhi.jpg" title="Kellen-A Entrance Chasm on Orcus." /></a>
+
 ## General Information
 
 > World Type: Overworld
