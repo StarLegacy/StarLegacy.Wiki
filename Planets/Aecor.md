@@ -1,6 +1,6 @@
 # Aecor
 
-<a href="https://lensdump.com/i/in9L1i"><img src="https://i.lensdump.com/i/in9L1i.png" title="Peregri's House in Aecost, Aecor." /></a>
+<a href="https://imgur.com/D99FkY5"><img src="https://i.imgur.com/D99FkY5.jpg" title="Peregri's House in Aecost, Aecor." /></a>
 
 ##### [Go Back](/wiki/space#planets)
 
