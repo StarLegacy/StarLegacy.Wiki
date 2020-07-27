@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/ojt4Ajg"><img src="https://i.imgur.com/ojt4Ajg.jpg" title="Explorers on Titus." /></a>
+
 ## General Information
 
 > World Type: Overworld
