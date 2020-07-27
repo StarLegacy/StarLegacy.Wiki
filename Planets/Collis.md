@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/MAllm95"><img src="https://i.imgur.com/MAllm95.jpg" title="Concordia of Collis." /></a>
+
 ## General Information
 
 > World Type: Overworld
