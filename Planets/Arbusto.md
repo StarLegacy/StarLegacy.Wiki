@@ -2,6 +2,8 @@
 
 ##### [Go Back](/wiki/space#planets)
 
+<a href="https://imgur.com/8RLTG1D"><img src="https://i.imgur.com/8RLTG1D.jpg" title="A glassing of Arbost on Arbusto." /></a>
+
 ## General Information
 
 > World Type: Overworld
