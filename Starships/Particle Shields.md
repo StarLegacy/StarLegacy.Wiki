@@ -51,8 +51,6 @@ their visual indicator is combined into one boss bar.
 >
 > 2x sponge
 
-*Image Unavailable | Contribute One!*
-
 ### Class 2.0 (12 block radius)
 #### Materials needed
 
