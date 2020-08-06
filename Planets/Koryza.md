@@ -14,16 +14,11 @@
 > General Planet Usage: Colonization
 >
 > Resources:
-> - Lapis (Low)
-> - Emerald (Low)
+> - Lapis
+> - Emerald
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Korost (NPC)
+## Trade Cities
+> - Korost(NPC) - Mount Viurith
 
 ## Quick Notes
 
