@@ -12,22 +12,20 @@
 >
 > Atmosphere Condition: Habitable
 >
-> General Planet Usage: Colonization
+> General Planet Usage: Colonization, Mining
 >
 > Resources:
-> - Iron (High)
-> - Redstone (Medium)
-> - Prismerine Crystals (Medium)
-> - Aluminum (Medium)
-> - Emerald (Low)
+> - Iron
+> - Redstone
+> - Prismerine Crystals
+> - Aluminum
+> - Emerald
+> - Oak Wood
+> - Spruce Wood
 
-## Related Information
-
-> Population: Medium
->
-> Population Concentration: High
->
-> Trade Cities: Aecost (NPC), DoDixie (Irkalla)
+## Trade Cities
+> - Dodixie(Irkalla) - Grand Reef
+> - Aecost(NPC) - Prego Coast
 
 ## Quick Notes
 
