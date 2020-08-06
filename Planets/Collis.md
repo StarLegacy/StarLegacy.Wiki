@@ -12,18 +12,17 @@
 >
 > Atmosphere Condition: Habitable
 >
-> General Planet Usage: Farming, Colonisation
+> General Planet Usage: Farming, Colonisation, Industrialization
 >
 > Resources:
-> - Coal (Low)
+> - Coal
+> - Oak Wood
+> - Acacia Wood
+> - Magma
 
-## Related Information
-
-> Population: Medium
->
-> Population Concentration: Low
->
-> Trade Cities: Concordia (Luxivitas), Collost (NPC)
+## Trade Cities
+> - Concordia(Luxivitas) - Acualis Peninsula
+> - Collost(NPC) - Avalon Island (South)
 
 ## Quick Notes
 
