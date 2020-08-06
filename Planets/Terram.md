@@ -12,7 +12,7 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Mining, Farming
+> General Planet Usage: Mining, Farming
 >
 > Resources:
 > - Coal
