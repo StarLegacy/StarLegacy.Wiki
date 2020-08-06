@@ -13,18 +13,11 @@
 > Generic Preferable Planet Usage: Colonization
 >
 > Resources:
-> - Iron (High)
-> - Gold (Medium)
-> - Nether Quartz (Medium)
-> - Diamond(Low)
-
-## Related Information
-
-> Population: Under Colonization
->
-> Population Concentration: Under Colonization
->
-> Trade Cities: None
+> - Iron
+> - Gold
+> - Quartz
+> - Diamond
+> - Dark Oak Wood
 
 ## Quick Notes
 
