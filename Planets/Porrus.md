@@ -15,18 +15,16 @@
 > General Planet Usage: Colonization
 >
 > Resources:
-> - Coal (Low)
-> - Lapis (Low)
-> - Redstone (Medium)
-> - Glowstone (Low)
+> - Coal
+> - Lapis
+> - Redstone
+> - Glowstone
+> - Oak Wood
+> - Acacia Wood
 
-## Related Information
-
-> Population: Medium-Low
->
-> Population Concentration: Low
->
-> Trade Cities: Jita (VEGA), Porost (NPC)
+## Trade Cities
+> - Jita(VEGA) - Xora Ridge(East)
+> - Porost(NPC) - Zecca Entrance Holes(East)
 
 ## Quick Notes
 
