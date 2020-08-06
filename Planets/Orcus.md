@@ -15,18 +15,14 @@
 > General Planet Usage: Mining
 >
 > Resources:
-> - Coal (Medium)
-> - Redstone (Low)
-> - Diamond (Low)
-> - Quartz (High)
+> - Coal
+> - Redstone
+> - Diamond
+> - Quartz
+> - Spruce Wood
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Orcost (NPC)
+## Trade Cities
+> - Orcost(NPC) - Vladikov Ice Plain(South)
 
 ## Quick Notes
 
