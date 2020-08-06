@@ -12,21 +12,18 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Colonization
+> General Planet Usage: Colonization
 >
 > Resources:
-> - Coal (Lots)
-> - Redstone (Not Much)
-> - Gold (Not Much)
-> - Diamond (Not Much)
+> - Coal
+> - Redstone
+> - Gold
+> - Diamond
+> - Jungle Wood
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Creta (Arimfea) & Trunkost (NPC)
+## Trade Cities
+> - Creta(Arimfea) - Creta Island Chain
+> - Trunkost(NPC) - Pengu Beach 
 
 ## Quick Notes
 
