@@ -15,16 +15,12 @@
 > General Planet Usage: Farming
 >
 > Resources:
-> - Coal (Low)
-> - Gold (Low)
+> - Coal
+> - Gold
+> - Dark Oak Wood
 
-## Related Information
-
-> Population: Medium-Low
->
-> Population Concentration: Medium
->
-> Trade Cities: Arbost (NPC)
+## Trade Cities
+> - Arbost(NPC) - Korr Lowlands
 
 ## Quick Notes
 
