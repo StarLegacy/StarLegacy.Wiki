@@ -79,7 +79,7 @@ You can only have a few of them on ships.
 
 > **Power Usage** *1000 per cannon per shot*
 >
-> **Range** *Unknown* | Contribute! (/wiki/contributing)
+> **Range** *140 Blocks*
 >
 > **Type** *Light Weapon*
 >
