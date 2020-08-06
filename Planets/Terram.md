@@ -21,8 +21,8 @@
 > - Acacia Wood
 
 ## Trade Cities
-> - Kragostani(Ekatera)
-> - Terrost(NPC)
+> - Kragostani (Ekatera) - Kragos Vally (Northeast)
+> - Terrost (NPC) - Ragos Lake (East)
 
 ## Quick Notes
 

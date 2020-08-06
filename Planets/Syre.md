@@ -23,8 +23,8 @@
 > - Aluminum
 
 ## Trade Cities
-> - England(Irkalla) - Sector 801
-> - Syrost(NPC) - Sparex Ice Plain(North)
+> - England (Irkalla) - Sector 801
+> - Syrost (NPC) - Sparex Ice Plain (North)
 
 ## Quick Notes
 

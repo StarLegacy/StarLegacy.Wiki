@@ -23,8 +23,8 @@
 > - Acacia Wood
 
 ## Trade Cities
-> - Jita(VEGA) - Xora Ridge(East)
-> - Porost(NPC) - Zecca Entrance Holes(East)
+> - Jita (Vega) - Xora Ridge (East)
+> - Porost (NPC) - Zecca Entrance Holes (East)
 
 ## Quick Notes
 

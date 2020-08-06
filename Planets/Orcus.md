@@ -22,7 +22,7 @@
 > - Spruce Wood
 
 ## Trade Cities
-> - Orcost(NPC) - Vladikov Ice Plain(South)
+> - Orcost (NPC) - Vladikov Ice Plain (South)
 
 ## Quick Notes
 

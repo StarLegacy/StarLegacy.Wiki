@@ -21,7 +21,7 @@
 > - Dark Oak Wood
 
 ## Trade Cities
-> Cerusalphost(NPC) - Incudum Sea(East) 
+> Cerusalphost (NPC) - Incudum Sea (East) 
 
 ## Quick Notes
 

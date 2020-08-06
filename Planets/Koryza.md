@@ -18,7 +18,7 @@
 > - Emerald
 
 ## Trade Cities
-> - Korost(NPC) - Mount Viurith
+> - Korost (NPC) - Mount Viurith
 
 ## Quick Notes
 

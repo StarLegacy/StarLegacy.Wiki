@@ -24,8 +24,8 @@
 > - Spruce Wood
 
 ## Trade Cities
-> - Dodixie(Irkalla) - Grand Reef
-> - Aecost(NPC) - Prego Coast
+> - Dodixie (Irkalla) - Grand Reef
+> - Aecost (NPC) - Prego Coast
 
 ## Quick Notes
 

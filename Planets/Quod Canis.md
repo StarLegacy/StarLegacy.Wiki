@@ -22,10 +22,10 @@
 > - Chetherite
 
 ## Trade Cities
-> - Atlantis(Aegea) - Niama Pierakladu Ocean
-> - Virtuis(Orovika) - Heterobox Terrace
-> - New Captialia(Exerticus) - Zabyccio Island
-> - Quodcanost(NPC) - Jebat Slimakou Lake
+> - Atlantis (Aegea) - Niama Pierakladu Ocean
+> - Virtuis (Orovika) - Heterobox Terrace
+> - New Captialia (Exerticus) - Zabyccio Island
+> - Quodcanost (NPC) - Jebat Slimakou Lake
 
 ## Quick Notes
 

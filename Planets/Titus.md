@@ -22,7 +22,7 @@
 > - Birch Wood
 
 ## Trade Cities
-> - Titost(NPC) - Wark Woods(North)
+> - Titost (NPC) - Wark Woods (North)
 
 ## Quick Notes
 

@@ -22,8 +22,8 @@
 > - Jungle Wood
 
 ## Trade Cities
-> - Creta(Arimfea) - Creta Island Chain
-> - Trunkost(NPC) - Pengu Beach 
+> - Creta (Arimfea) - Creta Island Chain
+> - Trunkost (NPC) - Pengu Beach 
 
 ## Quick Notes
 

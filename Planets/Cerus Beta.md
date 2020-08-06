@@ -18,8 +18,7 @@
 > - Coal
 
 ## Trade Cities
-> - Spyrus (Orovika) - Spyrus Rock Field (West)
-> - CerusBetost(NPC) - Exokrites Crater
+> - CerusBetost (NPC) - Exokrites Crater
 
 ## Quick Notes
 

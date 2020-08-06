@@ -21,8 +21,8 @@
 > - Magma
 
 ## Trade Cities
-> - Concordia(Luxivitas) - Acualis Peninsula
-> - Collost(NPC) - Avalon Island (South)
+> - Concordia (Luxivitas) - Acualis Peninsula
+> - Collost (NPC) - Avalon Island (South)
 
 ## Quick Notes
 

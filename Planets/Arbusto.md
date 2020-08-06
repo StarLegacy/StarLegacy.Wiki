@@ -20,7 +20,7 @@
 > - Dark Oak Wood
 
 ## Trade Cities
-> - Arbost(NPC) - Korr Lowlands
+> - Arbost (NPC) - Korr Lowlands
 
 ## Quick Notes
 

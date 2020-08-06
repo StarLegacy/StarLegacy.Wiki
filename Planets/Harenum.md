@@ -21,8 +21,8 @@
 > - Glowstone
 
 ## Trade Cities
-> - Ortosolis(Orovika) - Electus Canyon(East)
-> - Harenost(NPC) - Cis Pasce Desert(East)
+> - Ortosolis (Orovika) - Electus Canyon (East)
+> - Harenost (NPC) - Cis Pasce Desert (East)
 
 ## Quick Notes
 
