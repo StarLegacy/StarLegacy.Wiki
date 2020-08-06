@@ -15,15 +15,11 @@
 > General Planet Usage: Colonization
 >
 > Resources:
-> - Coal (Low)
+> - Coal
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Medium
->
-> Trade Cities: CerusBetost (NPC), Spyrus (Orovika)
+## Trade Cities
+> - Spyrus (Orovika) - Spyrus Rock Field (West)
+> - CerusBetost(NPC) - Exokrites Crater
 
 ## Quick Notes
 
