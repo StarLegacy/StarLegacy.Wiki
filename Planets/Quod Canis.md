@@ -12,22 +12,20 @@
 >
 > Atmosphere Condition: Habitable
 >
-> General Planet Usage: Mining
+> General Planet Usage: Mining, Colonization, Industrialization
 >
 > Resources:
-> - Coal (Medium)
-> - Iron (Low)
-> - Gold (Medium)
-> - Quartz (High)
-> - Chetherite (High)
+> - Coal
+> - Iron
+> - Gold
+> - Quartz
+> - Chetherite
 
-## Related Information
-
-> Population: High
->
-> Population Concentration: High
->
-> Trade Cities: Atlantis (Aegea), Quodcanost (NPC), Virtuis (Orovika)
+## Trade Cities
+> - Atlantis(Aegea) - Niama Pierakladu Ocean
+> - Virtuis(Orovika) - Heterobox Terrace
+> - New Captialia(Exerticus) - Zabyccio Island
+> - Quodcanost(NPC) - Jebat Slimakou Lake
 
 ## Quick Notes
 
