@@ -11,7 +11,7 @@
 >
 > Atmosphere Condition: Freezing
 >
-> Generic Preferable Planet Usage: Mining
+> General Planet Usage: Mining
 >
 > Resources:
 > - Iron
