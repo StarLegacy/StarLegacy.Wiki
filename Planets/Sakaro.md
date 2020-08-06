@@ -17,6 +17,7 @@
 > - Coal
 > - Redstone
 > - Gold
+> - Dark Oak Wood
 
 ## Trade Cities
 > - Sakost(NPC) - Locoth Swamp(West)
