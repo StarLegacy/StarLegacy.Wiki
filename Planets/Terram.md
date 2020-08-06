@@ -25,6 +25,7 @@
 > - Terrost(NPC)
 
 ## Quick Notes
+
 This is the Ekateran planet. They make it clear that mining and/or colonizing without their permission is illegal by Ekateran law and is punishable by death. The planet has zombies but not as many as Harenum. Terram has titanium, a resource not found on any other planet. It's in your best interest to join Ekatera, get a pass to be there, or find somewhere else to live.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Terram)
