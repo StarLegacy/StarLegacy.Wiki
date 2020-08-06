@@ -12,21 +12,17 @@
 >
 > Atmosphere Condition: Radioactive
 >
-> Generic Preferable Planet Usage: Mining
+> General Planet Usage: Mining
 >
 > Resources:
-> - Coal (Lots)
-> - Redstone (Lots)
-> - Emerald (Lots)
-> - Uranium (Lots)
+> - Coal
+> - Redstone
+> - Emerald
+> - Uranium
+> - Birch Wood
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Titost (NPC)
+## Trade Cities
+> - Titost(NPC) - Wark Woods(North)
 
 ## Quick Notes
 
