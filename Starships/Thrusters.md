@@ -9,7 +9,7 @@ There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburne
 - Best for super small/cheap ships.
 - Acceleration 0.2, power 1.75
 
-![Glowstone]
+<a href="https://imgur.com/pHjKyNb"><img src="https://i.imgur.com/pHjKyNb.png" title="Glowstone Thruster" /></a>
 
 ### Plasma
 - Built with a redstone block and a redstone lamp behind it.
@@ -18,7 +18,7 @@ There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburne
 - Very fast acceleration and almost as fast speed. 
 - Acceleration 0.75, power 2.0
 
-![Plasma]
+<a href="https://imgur.com/0auL825"><img src="https://i.imgur.com/0auL825.png" title="Plasma Thruster" /></a>
 
 ### Ion 
 - Built with a sponge block and a sea lantern behind it.
@@ -27,7 +27,7 @@ There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburne
 - High power demand, very low acceleration.
 - Acceleration 0.05, power 2.75
 
-![Ion]
+<a href="https://imgur.com/U9cP5yH"><img src="https://i.imgur.com/U9cP5yH.png" title="Ion Thruster" /></a>
 
 ### Afterburner 
 - Expensive but has the power of 5 thrusters
@@ -36,8 +36,7 @@ There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburne
 - High power demand, and a good balance in acceleration and power.
 - Acceleration X.XX, power X.XX (contribute!)
 
-![Afterburner]
-
+<a href="https://imgur.com/wl6lUam"><img src="https://i.imgur.com/wl6lUam.png" title="Afterburner" /></a>
 ## Tips
 - You cannot have any blocks behind thrusters or they don't work.
 - Having walls of thrusters uses too much of your ship's power.
