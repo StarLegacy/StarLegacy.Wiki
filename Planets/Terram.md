@@ -12,20 +12,17 @@
 >
 > Atmosphere Condition: Habitable
 >
-> Generic Preferable Planet Usage: Mining / Farming
+> General Planet Usage: Mining, Farming
 >
 > Resources:
-> - Coal (Not Much)
-> - Iron (Not Much)
-> - Titanium (Lots)
+> - Coal
+> - Iron
+> - Titanium
+> - Acacia Wood
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Medium-Low
->
-> Trade Cities: Kragostani (Ekatera) & Terrost (NPC)
+## Trade Cities
+> - Kragostani(Ekatera)
+> - Terrost(NPC)
 
 ## Quick Notes
 
