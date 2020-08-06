@@ -1,11 +1,12 @@
 # Bazaars
-Bazaars are npcs in trade cities (not to be confused with trade outposts) that allow for the buying and selling of items. Players put up their items for sale and other players can buy them. Items vary between cities.
+Bazaars are a feature of player run trade cities that allow the easy buying and selling of resources.
 
 ## Usage
-Right-Click or do '/bazaar browse' to browse the stock. Each item being sold is a different price, so do your research before buying! If you want to be the seller, do '/bazaar deposit (item-id)'.
+Right-Click or do '/bazaar browse' to browse the stock. You can buy items from the bazaar if your not within its territory as long as your in the same sector however this costs 4x the amount!
 
-### Taxes
-A portion of the profit goes to the settlement. Tax rates can range from Zero to Twelve percent.
+Different Players will sell at different prices and locations, check all the bazaars before buying.
 
-### Warning
-Doing '/bazaar browse' works in any location, but costs twice as much when not in the trade city.
+- Adding your own item to the bazaar is easy, you must be in the territory of the bazaar you want to sell on.
+- Start by holding the item you want to sell then do `/bazaar string` this will give you the name of the item.
+- Then do `/bazaar create [string] [price]` replacing the values with the string you got before and the price you with to sell at.
+- Then `/bazaar deposit [string]` to add your items to your bazaar listing.
