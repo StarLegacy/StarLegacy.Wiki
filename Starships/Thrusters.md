@@ -1,11 +1,11 @@
 
 # Thrusters
-There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburner.
+There are 4 kinds of thrusters - glowstone, plasma, ion and afterburner.
 
 ## Thruster Types
 ### Glowstone
 - Built literally with just a glowstone block.
-- Worst thruster ovrerall, but use less power and space.
+- Worst thruster ovrerall, but uses less power and space.
 - Best for super small/cheap ships.
 - Acceleration 0.2, power 1.75
 
@@ -31,7 +31,7 @@ There are 4 kinds of thrusters - glowstone, plasma, ion and the newer afterburne
 
 ### Afterburner 
 - Expensive but has the power of 5 thrusters
-- The magma block should face away gtrom your ship.
+- The magma block should face away from your ship.
 - Best for smaller fighters and warships
 - High power demand, and a good balance in acceleration and power.
 - Acceleration X.XX, power X.XX (contribute!)
