@@ -14,17 +14,13 @@
 > General Planet Usage: Colonization
 >
 > Resources:
-> - Coal (Medium)
-> - Redstone (Medium)
-> - Gold (Medium)
+> - Coal
+> - Redstone
+> - Gold
+> - Dark Oak Wood
 
-## Related Information
-
-> Population: Low-Medium
->
-> Population Concentration: Low
->
-> Trade Cities: Sakost (NPC)
+## Trade Cities
+> - Sakost(NPC) - Locoth Swamp(West)
 
 ## Quick Notes
 
