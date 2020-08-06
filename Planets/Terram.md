@@ -18,6 +18,7 @@
 > - Coal
 > - Iron
 > - Titanium
+> - Acacia Wood
 
 ## Trade Cities
 > - Kragostani(Ekatera)
