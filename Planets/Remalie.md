@@ -14,18 +14,11 @@
 > General Planet Usage: Mining
 >
 > Resources:
-> - Copper (High)
-> - Iron (Medium)
-> - Lapis Lazuli (Medium)
-> - Titanium (Low)
-
-## Related Information
-
-> Population: Under Colonization
->
-> Population Concentration: Under Colonization
->
-> Trade Cities: None
+> - Copper
+> - Iron
+> - Lapis Lazuli
+> - Titanium
+> - Spruce Wood
 
 ## Quick Notes
 
