@@ -26,8 +26,7 @@ They fire yellow projectiles.
 > * `1x Sponge`
 > * `1x Piston`
 
-![lasercannontop]       <!-- Top view image -->
-![lasercannonside]      <!-- Side View Image -->
+<a href="https://imgur.com/ODat29Z"><img src="https://i.imgur.com/ODat29Z.png" title="Laser cannon" /></a>
 
 #### Laser Cannon Details
 
@@ -51,8 +50,7 @@ Their color is based on the color of their multiblock's stained glass.
 > * `1x Sponge`
 > * `1x Stained Glass`
 
-![pulsecannontop]       <!-- Top view image -->
-![pulsecannonside]      <!-- Side view image -->
+<a href="https://imgur.com/cjY0YVf"><img src="https://i.imgur.com/cjY0YVf.png" title="Pulse Cannon" /></a>
 
 #### Pulse Cannon Details
 
@@ -75,7 +73,7 @@ You can only have a few of them on ships.
 > * `1x Iron Block`
 > * `1x Furnace`
 
-![Image](https://i.gyazo.com/e020d835f5d726d7b429c6c137c02033.png)
+<a href="https://imgur.com/oYtmk7g"><img src="https://i.imgur.com/oYtmk7g.png" title="Plasma Cannon" /></a>
 
 #### Plasma Cannon Details
 
@@ -99,7 +97,7 @@ They can only be used on fighters and corvettes. Click the sponge to fire.
 > * `1x Dispenser`
 > * `1x Stained Glass`
 
-![Image](https://i.imgur.com/1NNEclf.png)
+<a href="https://imgur.com/Hq1FK10"><img src="https://i.imgur.com/Hq1FK10.png" title="Ion Cannon" /></a>
 
 #### Ion Cannon Details
 
@@ -122,7 +120,7 @@ You fire them by holding or double clicking right click.
 > * `2x Sponge`
 > * `1x Dispenser`
 
-![Image](https://i.gyazo.com/1ab7937c14d9477845dd3d3fb280a7ec.png)
+<a href="https://imgur.com/IXwJPfc"><img src="https://i.imgur.com/IXwJPfc.png" title="Proton Torpedo" /></a>
 
 #### Proton Torpedo Details
 
@@ -146,7 +144,8 @@ when fighting against other large ships.
 > * `28x Stained Glass`
 > * `1x Furnace`
 
-![Image](https://i.gyazo.com/5107adc39d05af0a1a2ee0c48767b12b.png)
+<a href="https://imgur.com/mzBALWU"><img src="https://i.imgur.com/mzBALWU.png" title="Heavy Laser" /></a>
+<a href="https://imgur.com/1N6yjw0"><img src="https://i.imgur.com/1N6yjw0.png" title="Heavy Laser Cross Section" /></a>
 
 #### Heavy Laser Details
 
@@ -175,7 +174,8 @@ and they have difficulty hitting moving targets.
 > * `1x Iron Block`
 > * `1x Dispenser`
 
-![Image](https://i.gyazo.com/b8764272cdb7d391f7b1ac5cbd1a064d.png)
+<a href="https://imgur.com/cIHPUXf"><img src="https://i.imgur.com/cIHPUXf.png" title="Auto Turret" /></a>
+<a href="https://imgur.com/RGmqHkn"><img src="https://i.imgur.com/RGmqHkn.png" title="Auto Turret Cross Section" /></a>
 
 #### Auto Turret Details
 
