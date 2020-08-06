@@ -15,18 +15,14 @@
 > General Planet Usage: Mining
 >
 > Resources:
-> - Iron (High)
-> - Gold (High)
-> - Diamond (Low)
-> - Glowstone (High)
+> - Iron
+> - Gold
+> - Diamond
+> - Glowstone
 
-## Related Information
-
-> Population: Medium
->
-> Population Concentration: Low
->
-> Trade Cities: Ortosolis (Orovika), Harenost (NPC)
+## Trade Cities
+> - Ortosolis(Orovika) - Electus Canyon(East)
+> - Harenost(NPC) - Cis Pasce Desert(East)
 
 ## Quick Notes
 
