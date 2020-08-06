@@ -14,21 +14,17 @@
 > Generic Preferable Planet Usage: Mining
 >
 > Resources:
-> - Iron (Lots)
-> - Lapis (Lots)
-> - Redstone (Some)
-> - Diamond (Some)
-> - Prismarine Crystals (Lots)
-> - Copper (Lots)
-> - Aluminum (Lots)
+> - Iron
+> - Lapis
+> - Redstone
+> - Diamond
+> - Prismarine Crystals
+> - Copper
+> - Aluminum
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Medium
->
-> Trade Cities: England (Irkalla), Syrost (NPC)
+## Trade Cities
+> - England(Irkalla) - Sector 801
+> - Syrost(NPC) - Sparex Ice Plain(North)
 
 ## Quick Notes
 
