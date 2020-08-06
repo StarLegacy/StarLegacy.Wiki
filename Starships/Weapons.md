@@ -50,7 +50,7 @@ Their color is based on the color of their multiblock's stained glass.
 > * `1x Sponge`
 > * `1x Stained Glass`
 
-<a href="https://imgur.com/cjY0YVf"><img src="https://i.imgur.com/cjY0YVf.png" title="Pulse Cannon" /></a>
+<a href="https://imgur.com/huvn8QC"><img src="https://i.imgur.com/huvn8QC.png" title="Pulse Cannon" /></a>
 
 #### Pulse Cannon Details
 
@@ -97,7 +97,7 @@ They can only be used on fighters and corvettes. Click the sponge to fire.
 > * `1x Dispenser`
 > * `1x Stained Glass`
 
-<a href="https://imgur.com/Hq1FK10"><img src="https://i.imgur.com/Hq1FK10.png" title="Ion Cannon" /></a>
+<a href="https://imgur.com/YPnDeTm"><img src="https://i.imgur.com/YPnDeTm.png" title="Ion Cannon" /></a>
 
 #### Ion Cannon Details
 
@@ -144,8 +144,8 @@ when fighting against other large ships.
 > * `28x Stained Glass`
 > * `1x Furnace`
 
-<a href="https://imgur.com/mzBALWU"><img src="https://i.imgur.com/mzBALWU.png" title="Heavy Laser" /></a>
-<a href="https://imgur.com/1N6yjw0"><img src="https://i.imgur.com/1N6yjw0.png" title="Heavy Laser Cross Section" /></a>
+<a href="https://imgur.com/loadd7q"><img src="https://i.imgur.com/loadd7q.png" title="Heavy Laser" /></a>
+<a href="https://imgur.com/pq81HXb"><img src="https://i.imgur.com/pq81HXb.png" title="Heavy Laser Cross Section" /></a>
 
 #### Heavy Laser Details
 
