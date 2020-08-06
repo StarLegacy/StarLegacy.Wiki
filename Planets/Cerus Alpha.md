@@ -15,17 +15,13 @@
 > General Planet Usage: Mining
 >
 > Resources:
-> - Gold (Low)
-> - Quartz (High)
-> - Glowstone (Medium)
+> - Gold
+> - Quartz
+> - Glowstone
+> - Dark Oak Wood
 
-## Related Information
-
-> Population: Low
->
-> Population Concentration: Low
->
-> Trade Cities: Cerusalphost (NPC)
+## Trade Cities
+> Cerusalphost(NPC) - Incudum Sea(East) 
 
 ## Quick Notes
 
