@@ -38,7 +38,7 @@ their visual indicator is combined into one boss bar.
 >
 > 1x sponge
 
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/a98c52ec5b882c8e1047c79be2c36e1a.png)
+<a href="https://imgur.com/UbeugLf"><img src="https://i.imgur.com/UbeugLf.png" title="0.8 Particle Shield" /></a>
 
 ### Class 0.8i (8 block radius)
 #### Materials needed
@@ -51,6 +51,8 @@ their visual indicator is combined into one boss bar.
 >
 > 2x sponge
 
+<a href="https://imgur.com/9SbDH0V"><img src="https://i.imgur.com/9SbDH0V.png" title="0.8i Particle Shield" /></a>
+
 ### Class 2.0 (12 block radius)
 #### Materials needed
 
@@ -60,7 +62,7 @@ their visual indicator is combined into one boss bar.
 >
 > 1x sponge
 
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/Screenshot_24.png)
+<a href="https://imgur.com/98dYXMy"><img src="https://i.imgur.com/98dYXMy.png" title="2.0 Particle Shield" /></a>
 
 ### Class 3.0 (20 block radius)
 #### Materials needed
@@ -75,8 +77,8 @@ their visual indicator is combined into one boss bar.
 >
 > 1x sponge
 
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/6ba154bec3cbafbd6d20c448b31fa40a.png)
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/d7405f97c7a48627c0c9652e37b88b19.png)
+<a href="https://imgur.com/xGM8BpP"><img src="https://i.imgur.com/xGM8BpP.png" title="3.0 Particle Shield" /></a>
+<a href="https://imgur.com/K55ljIe"><img src="https://i.imgur.com/K55ljIe.png" title="3.0 Particle Shield Cross Cut" /></a>
 
 ### Class 6.5 (30 block radius)
 #### Materials needed
@@ -91,8 +93,8 @@ their visual indicator is combined into one boss bar.
 >
 > 2x sponge
 
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/b4d7e120424490118f0ff01c23c64dbd.png)
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/4196adcdb58ad6ef27280fe97d24b9cc.png)
+<a href="https://imgur.com/4i8V8bb"><img src="https://i.imgur.com/4i8V8bb.png" title="6.5 Particle Shield" /></a>
+<a href="https://imgur.com/O2dTSeO"><img src="https://i.imgur.com/O2dTSeO.png" title="6.5 Particle Shield Cross Cut" /></a>
 
 ### Class 8.5 (35 block radius)
 #### Materials needed
@@ -108,5 +110,5 @@ their visual indicator is combined into one boss bar.
 > 4x sponge
 
 
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/9cf0e84bb37bb3ec4de0b94efdbcc40a.png)
-![Image](https://raw.githubusercontent.com/StarLegacy/StarLegacy.Wiki/48ecd68cd23ece2a32b53a34e415344d2c441923/Images/Particle%20Shields/fbc0c2e91d26ef651381b2d2984148ee.png)
+<a href="https://imgur.com/3zDcYA4"><img src="https://i.imgur.com/3zDcYA4.png" title="8.5 Particle Shield" /></a>
+<a href="https://imgur.com/K1PSqk7"><img src="https://i.imgur.com/K1PSqk7.png" title="8.5 Particle Shield Cross Cut" /></a>
