@@ -41,6 +41,9 @@ their visual indicator is combined into one boss bar.
 <a href="https://imgur.com/UbeugLf"><img src="https://i.imgur.com/UbeugLf.png" title="0.8 Particle Shield" /></a>
 
 ### Class 0.8i (8 block radius)
+
+> These shields take 10% damage as long as their health is above 80%.
+
 #### Materials needed
 
 > 1x glass
