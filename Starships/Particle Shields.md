@@ -96,8 +96,8 @@ their visual indicator is combined into one boss bar.
 >
 > 2x sponge
 
-<a href="https://imgur.com/4i8V8bb"><img src="https://i.imgur.com/4i8V8bb.png" title="6.5 Particle Shield" /></a>
-<a href="https://imgur.com/O2dTSeO"><img src="https://i.imgur.com/O2dTSeO.png" title="6.5 Particle Shield Cross Cut" /></a>
+<a href="https://imgur.com/3Wa1CYq"><img src="https://i.imgur.com/3Wa1CYq.png" title="6.5 Particle Shield" /></a>
+<a href="https://imgur.com/MrhAv9V"><img src="https://i.imgur.com/MrhAv9V.png" title="6.5 Particle Shield Cross Cut" /></a>
 
 ### Class 8.5 (35 block radius)
 #### Materials needed
