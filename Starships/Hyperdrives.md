@@ -30,7 +30,7 @@ Hyperdrives allow faster-than-lightspeed travel, drastically cutting travel time
 - 2x glass
 - 1x sponge
 
-![Tier1]
+<a href="https://imgur.com/JcPJ6d6"><img src="https://i.imgur.com/JcPJ6d6.png" title="Class 1 Hyperdrive" /></a>
 
 ## Class 2
 ### *Materials required:*
@@ -41,8 +41,8 @@ Hyperdrives allow faster-than-lightspeed travel, drastically cutting travel time
 - 1x diamond block
 - 2x iron block
 
-![Tier2Front]
-![Tier2Rear]
+<a href="https://imgur.com/6oG4E02"><img src="https://i.imgur.com/6oG4E02.png" title="Class 2 Hyperdrive" /></a>
+<a href="https://imgur.com/FKoW0Gl"><img src="https://i.imgur.com/FKoW0Gl.png" title="Class 2 Hyperdrive Cross Cut" /></a>
 
 ## Class 3
 ### *Materials required:*
@@ -54,8 +54,8 @@ Hyperdrives allow faster-than-lightspeed travel, drastically cutting travel time
 - 1x emerald block
 - 4x iron block
 
-![Tier3Front]
-![Tier3Rear]
+<a href="https://imgur.com/lBeB4uN"><img src="https://i.imgur.com/lBeB4uN.png" title="Class 3 Hyperdrive" /></a>
+<a href="https://imgur.com/JHKwJCW"><img src="https://i.imgur.com/JHKwJCW.png" title="Class 3 Hyperdrive Cross Cut" /></a>
 
 ## Class 4
 ### *Materials required:*
@@ -67,8 +67,8 @@ Hyperdrives allow faster-than-lightspeed travel, drastically cutting travel time
 - 3x emerald block
 - 9x iron block
 
-![Tier4Front]
-![Tier4Rear]
+<a href="https://imgur.com/ZLc5oTO"><img src="https://i.imgur.com/ZLc5oTO.png" title="Class 4 Hyperdrive" /></a>
+<a href="https://imgur.com/xguPHfH"><img src="https://i.imgur.com/xguPHfH.png" title="Class 4 Hyperdrive Cross Cut" /></a>
 
 [(Info here)]: https://starlegacy.net/wiki/old_pages/navigation_computer
 [Tier1]: https://i.imgur.com/nrvcsPS.png
