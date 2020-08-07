@@ -26,7 +26,8 @@ a few jumps to get to another system.
 > * `4x Glass Pane`
 > * `1x Glass`
 
-![basicnav1]
+<a href="https://imgur.com/RC38mKB"><img src="https://i.imgur.com/RC38mKB.png" title="Basic Navigation Computer" /></a>
+<a href="https://imgur.com/HuqZPf9"><img src="https://i.imgur.com/HuqZPf9.png" title="Basic Navigation Computer Cross Cut" /></a>
 
 #### Advanced
 > **Requirements**
@@ -37,8 +38,8 @@ a few jumps to get to another system.
 > * `10x Iron Block`
 > * `8x Sponge`
 
-![advancednav1]
-![advancednav2]
+<a href="https://imgur.com/H6CtEB4"><img src="https://i.imgur.com/H6CtEB4.png" title="Advanced Navigation Computer" /></a>
+<a href="https://imgur.com/BGFrHu6"><img src="https://i.imgur.com/BGFrHu6.png" title="Advanced Navigation Computer Cross Cut" /></a>
 
 [basicnav1]: https://i.gyazo.com/4110341a5ed067cde956adf128707017.png
 [advancednav1]: https://i.gyazo.com/4db72f63af51e11df98d3441d936d20d.png
