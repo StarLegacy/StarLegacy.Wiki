@@ -42,7 +42,7 @@ their visual indicator is combined into one boss bar.
 
 ### Class 0.8i (8 block radius)
 
-> These shields take 10% damage as long as their health is above 80%.
+> 0.8i shields only take 10% of the damage they receive as long as their health is above 80%.
 
 #### Materials needed
 
