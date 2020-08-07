@@ -26,7 +26,7 @@ They fire yellow projectiles.
 > * `1x Sponge`
 > * `1x Piston`
 
-<a href="https://imgur.com/ODat29Z"><img src="https://i.imgur.com/ODat29Z.png" title="Laser cannon" /></a>
+<a href="https://imgur.com/ODat29Z"><img src="https://i.imgur.com/ODat29Z.png" title="Laser Cannon" /></a>
 
 #### Laser Cannon Details
 
@@ -50,7 +50,7 @@ Their color is based on the color of their multiblock's stained glass.
 > * `1x Sponge`
 > * `1x Stained Glass`
 
-<a href="https://imgur.com/huvn8QC"><img src="https://i.imgur.com/huvn8QC.png" title="Pulse Cannon" /></a>
+<a href="https://imgur.com/PxS6Y5a"><img src="https://i.imgur.com/PxS6Y5a.png" title="Pulse Cannon" /></a>
 
 #### Pulse Cannon Details
 
