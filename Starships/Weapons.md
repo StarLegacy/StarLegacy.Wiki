@@ -50,7 +50,7 @@ Their color is based on the color of their multiblock's stained glass.
 > * `1x Sponge`
 > * `1x Stained Glass`
 
-<a href="https://imgur.com/PxS6Y5a"><img src="https://i.imgur.com/PxS6Y5a.png" title="Pulse Cannon" /></a>
+<a href="https://imgur.com/3zrXYsK"><img src="https://i.imgur.com/3zrXYsK.png" title="Pulse Cannon" /></a>
 
 #### Pulse Cannon Details
 
