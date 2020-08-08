@@ -23,3 +23,5 @@ also destabilize ships and destroy them if they have 4 or more drills.
 ### Blackular
 A small neutron star with a high gravitational force. Its asteroid belt is massive and
 contains valuable oriomium.
+
+[View it on the map](https://dynmap.starlegacy.net/?worldname=Andromeda10d)

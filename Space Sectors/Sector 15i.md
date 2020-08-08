@@ -23,3 +23,5 @@ goods of 10d and 7b.
 - [Jadiid](https://starlegacy.net/wiki/planets/jadiid) - A hot desert world with large mountains and meandering rivers; the spawn planet
 - [Demargos](https://starlegacy.net/wiki/planets/demargos) - A swamp world with many small territories and small amounts of uranium
 - [Remalie](https://starlegacy.net/wiki/planets/remalie) - A frozen ocean planet with few islands and many mineral resources
+
+[View it on the map](https://dynmap.starlegacy.net/?worldname=Andromeda15i)
