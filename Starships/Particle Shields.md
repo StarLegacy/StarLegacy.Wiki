@@ -43,6 +43,7 @@ their visual indicator is combined into one boss bar.
 ### Class 0.8i (8 block radius)
 
 > 0.8i shields only take 10% of the damage they receive as long as their health is above 80%.
+> Your ship may add one for every 7500 blocks it gains.
 
 #### Materials needed
 
