@@ -1,12 +1,8 @@
 # Pipes
-Pipes are useful tools that allow you to efficiently and neatly transport and organize items. Pipes for managing factories and furnace systems and for unloading/loading material onto ships.
-
-Glass pipes are used to make long and potentially complicated systems. Glass pipes attempt to put items into containers next to them if available and also move onto connected pipes. If there are two possible directions for them to go, they pick randomly, which generally ends up in evenly spreading out the items.
-
-Pipes can be in the form of glass pains or full glass blocks. Different colored glass pains and full blocks when used in as pipes when touching they will not mix. For example if you have a green line on one side and a red line on the other side and they are touching with no blocks in-between the items going through red will not interfere and will not go into the line of green.
+Pipes are useful tools that allow you to efficiently and neatly transport and organize items. Pipes can be used for managing factories, furnace systems, and for unloading/loading material onto ships. Glass pipes are used to make long and potentially complicated systems. Glass pipes attempt to put items into containers next to them if available and also move onto connected pipes. If there are two possible directions for them to go, they pick randomly, which generally ends up in evenly spreading out the items. Pipes can be in the form of glass pains or full glass blocks, however items do not transfer between colors of glass without the use of a chest and extractor.
 
 ## Containers
-Containers store items. Examples of containers are Chests, Trapped chests, Droppers, Dispensers and Hoppers. Hoppers DO NOT work as extractors so they cannot be use to take items out of other storage containers and place them into pipes. Ender chests are also incapable of being used with pipes or extractors.
+Containers store items. Examples of containers are chests, trapped chests, droppers, dispensers, and hoppers. Hoppers DO NOT work as extractors so they cannot be use to take items out of other storage containers and place them into pipes. Ender chests are also incapable of being used with pipes or extractors.
 
 ## Extractor
 The extractor is used to take items out of containers and place them in to the pipe network.
@@ -15,7 +11,7 @@ The extractor is used to take items out of containers and place them in to the p
 To use the extractor, you need a crafting table, a container, and a glass pipe system. Place the crafting table next to the container and connect the glass to the crafting table. The pipe system will then search for another container that is touching the glass pipe and send the items from the container to the new container.
 
 ## Set up
-To set up a pipe system you need a crafting table, glass blocks or glass pains, and two separate containers. This is an example of a correctly made pipe system:
+To set up a pipe system you need a crafting table, glass blocks or glass panes, and two separate containers. This is an example of a correctly made pipe system:
 
 ![PipeExample1]
 
