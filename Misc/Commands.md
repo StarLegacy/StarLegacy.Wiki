@@ -1,3 +1,6 @@
+# **NOTICE**
+> This page is extremely outdated and much of the information may be incorrect. The staff team is working to get this fixed.
+
 Console commands are a way for you to do many things in-game such as find exactly where another player is, check detailed information about your starship, and even build much faster in creative mode on the creative server.
 
 In order to use a console command, first open chat in-game by pressing " T " on your keyboard if your controls are default, then type in the command you would like to use, and finally press " Enter ". Commands always start with " / " if you do not include this than your command will fail and everyone in chat will be able to see what command you were trying to do, which is bad if they see you were trying to /getpos a player, or even check your money with /money which might tell them that you're a good target for a pirate.
