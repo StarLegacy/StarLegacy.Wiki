@@ -1,3 +1,13 @@
+---
+title: Founding a Nation
+description: 
+published: true
+date: 2021-01-02T15:47:19.640Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:46.741Z
+---
+
 # Founding
 Nations are collections of settlements that have formed into a larger entity. To form a nation, four requirements must be met. You must have a population, a land claim, some credits, and a high enough level.
 
