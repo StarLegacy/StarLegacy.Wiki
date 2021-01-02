@@ -1,3 +1,13 @@
+---
+title: Area Shields
+description: 
+published: true
+date: 2021-01-02T15:33:08.586Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:24:59.310Z
+---
+
 # Area Shields
 Area Shields are passive shields, similar to starship particle shields,
 which are always active and use wire power.
