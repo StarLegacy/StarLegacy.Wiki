@@ -2,7 +2,7 @@
 title: Auto Crafters
 description: 
 published: true
-date: 2021-01-02T15:44:46.387Z
+date: 2021-01-02T19:55:00.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:17.168Z
@@ -26,6 +26,11 @@ To unlock them, use i.e. `/advance AUTO_CRAFTER_ONE`. They cost C5,000, C10,000,
 - The input container is the container on the left side of the multiblock, atop the glass block.
 - The output container is the container on the right side of the multiblock, atop the crafting table.
 - In the dropper/dispenser in the center, place the recipe as if you were crafting the item normally.
+
+CURRENT SPECIAL NOTE:
+Before loading the prismarine crystals you have to load a valid recipe in the recipe dispenser! If that recipe isn't valid and you put both crystals in the furnace The autocrafter will explode.
+
+IF the autocrafter explodes (because the recipe was invalid), it will regen and explode again if you don't remove a remaining block, for example one iron block. It's like turning it off somehow until you load a valid recipe. Then place the iron back and check the crystals!
 
 ## Multiblock
 ### Requirements
