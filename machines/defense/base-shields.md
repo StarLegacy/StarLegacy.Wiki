@@ -1,3 +1,13 @@
+---
+title: Base Shields
+description: 
+published: true
+date: 2021-01-02T15:33:32.029Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:25:01.400Z
+---
+
 # Base Shields
 Base shields are machines that project a spherical shield to protect bases.
 - While active, they generate a sphere of stained glass that regenerates when destroyed.
