@@ -1,3 +1,13 @@
+---
+title: Mob Defenders
+description: 
+published: true
+date: 2021-01-02T15:46:45.825Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:40.536Z
+---
+
 # Mob Defenders
 Mob Defenders stop mobs from spawning within 50 blocks of the sign.
 
