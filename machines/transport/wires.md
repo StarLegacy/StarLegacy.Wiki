@@ -2,12 +2,11 @@
 title: Wires
 description: 
 published: true
-date: 2021-01-02T03:52:20.787Z
+date: 2021-01-02T15:27:04.638Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:05:00.922Z
+editor: markdown
+dateCreated: 2021-01-02T15:25:07.802Z
 ---
-
 
 # Wires
 Wires are similar to pipes, except they transfer power between machines.
