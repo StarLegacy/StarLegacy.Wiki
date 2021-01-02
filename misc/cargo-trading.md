@@ -1,3 +1,13 @@
+---
+title: Cargo Trading
+description: 
+published: true
+date: 2021-01-02T15:46:23.874Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:29.814Z
+---
+
 # Cargo Trading
 Cargo trading between planet based trade cities is the main and best way to obtain credits and XP.
 
