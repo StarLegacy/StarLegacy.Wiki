@@ -1,3 +1,13 @@
+---
+title: Navigation Computer
+description: 
+published: true
+date: 2021-01-02T15:35:02.105Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:24:46.339Z
+---
+
 # Navigation Computers
 
 Navigation computers are subsystems for starships used to plot hyperspace jumps without a hyperspace beacon.
