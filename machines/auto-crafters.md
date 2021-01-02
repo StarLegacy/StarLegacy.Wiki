@@ -1,3 +1,13 @@
+---
+title: Auto Crafters
+description: 
+published: true
+date: 2021-01-02T15:44:46.387Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:17.168Z
+---
+
 # Auto Crafters
 Auto crafters are machines used to mass produce a specific crafting recipe using input and output chests,
 crafting the recipe given in the recipe holder dropper/dispenser block.
