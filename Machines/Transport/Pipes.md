@@ -1,3 +1,13 @@
+---
+title: Pipes
+description: 
+published: true
+date: 2021-01-02T03:52:19.296Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:58.653Z
+---
+
 # Pipes
 Pipes are useful tools that allow you to efficiently and neatly transport and organize items. Pipes can be used for managing factories, furnace systems, and for unloading/loading material onto ships. Glass pipes are used to make long and potentially complicated systems. Glass pipes attempt to put items into containers next to them if available and also move onto connected pipes. If there are two possible directions for them to go, they pick randomly, which generally ends up in evenly spreading out the items. Pipes can be in the form of glass pains or full glass blocks, however items do not transfer between colors of glass without the use of a chest and extractor.
 

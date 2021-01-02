@@ -1,3 +1,13 @@
+---
+title: Koryza
+description: 
+published: true
+date: 2021-01-02T03:51:53.403Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:19.434Z
+---
+
 # Koryza
 
 ##### [Go Back](/wiki/space#planets)

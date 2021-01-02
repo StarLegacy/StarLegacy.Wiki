@@ -1,3 +1,13 @@
+---
+title: Roles
+description: 
+published: true
+date: 2021-01-02T03:51:41.007Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-02T03:33:49.156Z
+---
+
 # Roles
 National Roles allow for the creation of a national government. They allow for custom permissions and tags to be assigned to various players.
 

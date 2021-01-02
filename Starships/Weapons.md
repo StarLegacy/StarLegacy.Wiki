@@ -1,3 +1,13 @@
+---
+title: Weapons
+description: 
+published: true
+date: 2021-01-02T03:52:16.301Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:54.011Z
+---
+
 # Starship Weapons
 
 Starships can (and should!) have weapons to defend themselves.

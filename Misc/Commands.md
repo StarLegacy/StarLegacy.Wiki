@@ -1,3 +1,13 @@
+---
+title: Commands
+description: 
+published: true
+date: 2021-01-02T03:51:31.932Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:54.206Z
+---
+
 # **NOTICE**
 > This page is extremely outdated and much of the information may be incorrect. The staff team is working to get this fixed.
 

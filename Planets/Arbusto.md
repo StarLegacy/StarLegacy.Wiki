@@ -1,3 +1,13 @@
+---
+title: Arbusto
+description: 
+published: true
+date: 2021-01-02T03:51:44.163Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:05.711Z
+---
+
 # Arbusto
 
 ##### [Go Back](/wiki/space#planets)

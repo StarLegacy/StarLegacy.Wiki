@@ -1,3 +1,13 @@
+---
+title: Collectors
+description: 
+published: true
+date: 2021-01-02T03:51:30.351Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:51.914Z
+---
+
 # Collectors
 Collectors, also known as Collector NPCs, are NPCs at solar system space stations (as of this page being written, the only one is at Exator Station, located on the outskirts Sobrii). They allow the selling and buying of certain items and reward you with credits and SLXP. While they might not be the best way to get SLXP for high level players, they are great for players between 1 and 11.
 

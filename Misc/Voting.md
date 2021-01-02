@@ -1,3 +1,13 @@
+---
+title: Voting
+description: 
+published: true
+date: 2021-01-02T03:51:36.499Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:01.114Z
+---
+
 # Voting
 Voting increases the server's position on voting sites, supporting the server.
 In return for voting, you get rewards!

@@ -1,3 +1,13 @@
+---
+title: Printers
+description: 
+published: true
+date: 2021-01-02T03:51:27.310Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:47.344Z
+---
+
 # Printers
 Printers are machines that turn cobblestone and energy into various materials.
 

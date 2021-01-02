@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2021-01-02T03:51:19.368Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-02T03:33:25.150Z
+---
+
 # Wiki
 **Welcome to the Star Legacy wiki!**
 

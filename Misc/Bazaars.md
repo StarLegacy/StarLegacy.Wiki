@@ -1,3 +1,13 @@
+---
+title: Bazaars
+description: 
+published: true
+date: 2021-01-02T03:51:28.859Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:49.670Z
+---
+
 # Bazaars
 Bazaars are a feature of player run trade cities that allow the easy buying and selling of resources.
 

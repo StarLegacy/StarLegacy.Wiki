@@ -1,3 +1,13 @@
+---
+title: Aecor
+description: 
+published: true
+date: 2021-01-02T03:51:42.626Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:03.422Z
+---
+
 # Aecor
 
 <a href="https://imgur.com/D99FkY5"><img src="https://i.imgur.com/D99FkY5.jpg" title="Peregri's House in Aecost, Aecor." /></a>

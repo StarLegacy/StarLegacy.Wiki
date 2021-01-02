@@ -1,3 +1,13 @@
+---
+title: Trunkadis
+description: 
+published: true
+date: 2021-01-02T03:52:05.548Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:37.774Z
+---
+
 # Trunkadis
 
 ##### [Go Back](/wiki/space#planets)

@@ -1,3 +1,13 @@
+---
+title: Batteries
+description: 
+published: true
+date: 2021-01-02T03:51:20.894Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:38.198Z
+---
+
 # Batteries 
 
 Batteries are used to provide small amounts of power in a portable way.

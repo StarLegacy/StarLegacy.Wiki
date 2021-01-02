@@ -1,3 +1,13 @@
+---
+title: Elevator
+description: 
+published: true
+date: 2021-01-02T03:51:34.857Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:58.823Z
+---
+
 # Elevators
 Elevators are simple multiblocks you can use to move up and down floors in buildings with ease.
 

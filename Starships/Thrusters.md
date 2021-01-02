@@ -1,3 +1,13 @@
+---
+title: Thrusters
+description: 
+published: true
+date: 2021-01-02T03:52:13.126Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:49.368Z
+---
+
 
 # Thrusters
 There are 4 kinds of thrusters - glowstone, plasma, ion and afterburner.

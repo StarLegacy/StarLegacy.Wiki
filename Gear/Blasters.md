@@ -1,3 +1,13 @@
+---
+title: Blasters
+description: 
+published: true
+date: 2021-01-02T03:51:22.488Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:40.497Z
+---
+
 # Blasters
 
 Blasters are the pinnacle of modern infantry weaponry. They come in four variants - blaster pistols, rifles, snipers, and cannons.

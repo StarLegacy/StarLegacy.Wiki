@@ -1,3 +1,13 @@
+---
+title: Communication
+description: 
+published: true
+date: 2021-01-02T03:51:33.374Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:56.561Z
+---
+
 Types Of Communication
 `/l [message]` or simply `/l` to chat/switch to **local chat**, for people within render distance.
 

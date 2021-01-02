@@ -1,3 +1,13 @@
+---
+title: Landspeeders
+description: 
+published: true
+date: 2021-01-02T03:51:25.528Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:45.047Z
+---
+
 # Landspeeders
 
 Landspeeders are hoverbikes that allow you to go across land at high speeds; they require fuel to run and burn though it quickly. There are three tiers of Landspeeder. However, only the lowest tier is obtainable.

@@ -1,3 +1,13 @@
+---
+title: Activity
+description: 
+published: true
+date: 2021-01-02T03:51:38.055Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-02T03:33:44.505Z
+---
+
 # Activity
 Activity is a system that tracks how active a player is. It is used to determine many systems in the Nations plugin.
 

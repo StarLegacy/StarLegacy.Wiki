@@ -1,3 +1,13 @@
+---
+title: Turrets
+description: 
+published: true
+date: 2021-01-02T03:52:17.798Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:56.374Z
+---
+
 
 # Turrets
 Turrets are multiblock structures useful for larger ships and base defense platforms.

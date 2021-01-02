@@ -1,3 +1,13 @@
+---
+title: Types
+description: 
+published: true
+date: 2021-01-02T03:52:14.667Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:51.699Z
+---
+
 # Starship Types
 Every starship has a type.
 Starship types have their own stats.

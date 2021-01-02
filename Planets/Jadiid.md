@@ -1,3 +1,13 @@
+---
+title: Jadiid
+description: 
+published: true
+date: 2021-01-02T03:51:51.758Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:17.157Z
+---
+
 # Jadiid
 
 ##### [Go Back](/wiki/space#planets)

@@ -1,3 +1,13 @@
+---
+title: Detonators
+description: 
+published: true
+date: 2021-01-02T03:51:23.960Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:03:42.771Z
+---
+
 # Detonators
 Detonators are explosives which can be used to destroy blocks, even if they are protected by an area shield. They destroy a 5x5x5 area around them.
 

@@ -1,3 +1,13 @@
+---
+title: Relations
+description: 
+published: true
+date: 2021-01-02T03:51:39.494Z
+tags: 
+editor: undefined
+dateCreated: 2021-01-02T03:33:46.933Z
+---
+
 # Relations
 Relations are a system of statuses between nations. They indicate many things, as well as influence some game features.
 

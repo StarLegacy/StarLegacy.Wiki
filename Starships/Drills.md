@@ -1,3 +1,13 @@
+---
+title: Drills
+description: 
+published: true
+date: 2021-01-02T03:52:08.615Z
+tags: 
+editor: undefined
+dateCreated: 2020-09-11T02:04:42.349Z
+---
+
 # Starship Drills
 
 Starship drills are drills mounted on starships
