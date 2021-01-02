@@ -1,3 +1,13 @@
+---
+title: Power Gear
+description: 
+published: true
+date: 2021-01-02T15:37:09.776Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:14.983Z
+---
+
 # Power Gear
 Unbreakable gear that uses power instead of durability.
 
