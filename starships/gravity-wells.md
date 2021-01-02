@@ -1,3 +1,13 @@
+---
+title: Gravity Wells
+description: 
+published: true
+date: 2021-01-02T15:35:28.158Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:24:41.995Z
+---
+
 # Gravity Well Projectors
 
 ![GravityWell1]
