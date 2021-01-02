@@ -1,3 +1,13 @@
+---
+title: Solar Panels
+description: 
+published: true
+date: 2021-01-02T15:45:52.328Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:25.689Z
+---
+
 # Solar Panels
 
 Solar Panels are devices which you can use to generate power passively, without fuel.
