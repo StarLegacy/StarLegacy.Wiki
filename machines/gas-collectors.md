@@ -1,3 +1,13 @@
+---
+title: Gas Collectors
+description: 
+published: true
+date: 2021-01-02T15:45:10.002Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:23:19.241Z
+---
+
 Gas
 Gasses are useful for generating power and they may have other uses in the future. (Hydrogen generates 5000 power per canister.) You collect gasses using gas collectors and store them with gas canisters. You can see how to make those below.
 
