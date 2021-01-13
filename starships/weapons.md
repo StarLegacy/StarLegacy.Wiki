@@ -87,13 +87,13 @@ You can only have a few of them on ships.
 
 #### Plasma Cannon Details
 
-> **Power Usage** *1000 per cannon per shot*
+> **Power Usage** *2500 per cannon per shot*
 >
-> **Range** *140 Blocks*
+> **Range** *160 Blocks*
 >
 > **Type** *Light Weapon*
 >
-> **Impact** *1x explosion, power 4.0, equivalent to TNT*
+> **Impact** *1x explosion, power 4.0, equivalent to TNT, Shield Damage: 12.0*
 
 ### Ion Cannons
 
@@ -134,13 +134,15 @@ You fire them by holding or double clicking right click.
 
 #### Proton Torpedo Details
 
-> **Power Usage** *500 per torpedo*
+> **Power Usage** *10000*
 >
-> **Range** *300 Blocks*
+> **Boost Charge Time** *10 seconds*
+>
+> **Range** *100 Blocks*
 >
 > **Type** *Heavy Weapon*
 >
-> **Impact** *1x explosion, power 8.0*
+> **Impact** *1x explosion, power 6.0, Shield Damage: 12.0*
 
 ### Heavy Lasers
 
@@ -159,15 +161,87 @@ when fighting against other large ships.
 
 #### Heavy Laser Details
 
-> **Power Usage** *5000 per shot; less on bigger ships*
+> **Power Usage** *30,000*
 >
-> **Range** *500 Blocks*
+> **Boost Charge Time** *5 seconds*
+>
+> **Range** *200 Blocks*
 >
 > **Type** *Heavy Weapon*
 >
-> **Impact** *10x explosions, power 3.0*
+> **Impact** *1x explosion, power 12.0, Shield Damage: 24.0*
 
 > Note: Furnace is the FRONT of the weapon
+
+
+### Rocket Launchers
+
+Rocket are powerful weapons useful for larger ships.
+They do massive amounts of damage, but are expensive
+to use
+
+#### Rocket Launcher Multiblock
+
+> * `21x Iron Block`
+> * `??x Stone Brick Stairs`
+> * `1x Sign`
+
+#### Rocket Launcher Details
+
+> **Power Usage** *50,000*
+>
+> **Boost Charge Time** *7 seconds*
+>
+> **Ammunition** *1x Oriomium Rocket*
+>
+> **Range** *300 Blocks*
+>
+> **Type** *Heavy Weapon*
+>
+> **Impact** *1x explosion, power 30.0, Shield Damage: 150.0*
+
+
+
+### Phasers
+
+Phasers fire beams of energy at the target,
+and are useful for taking down sheilds.
+
+#### Phaser Multiblock
+
+> * `3x Copper Block`
+> * `2x Glass Pane`
+> * `2x Bell`
+> * `6x Wall`
+> * `1x Hopper`
+> * `1x Grindstone`
+
+#### Phaser Details
+
+> **Power Usage** *50,000*
+>
+> **Boost Charge Time** *3 seconds*
+>
+> **Ammunition** *4x Prismarine Crystal*
+>
+> **Range** *140 Blocks*
+>
+> **Type** *Heavy Weapon*
+>
+> **Impact** *1x explosion, power 2.0, Shield Damage: 110.0*
+
+
+### Magazines
+
+Most heavy weapons need ammunition. Magazines
+supply ammunition to them.
+
+#### Magazine Multiblock
+
+> * `1x Iron Block`
+> * `1x End Portal Frame`
+> * `1x Sign`
+
 
 #### Auto Turrets
 
