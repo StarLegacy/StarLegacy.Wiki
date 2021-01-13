@@ -41,19 +41,27 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 
 ### Light Turret Multiblock
 ***Materials required:***
-- 1x sponge,
-- 1x concrete,
-- 3x terracotta,
-- 7x stairs,
-- 1x iron block,
-- 2x glass,
-- 2x stained glass
+> * `1x sponge`
+> * `1x concrete`
+> * `3x terracotta`
+> * `7x stairs`
+> * `1x iron block`
+> * `2x glass`
+> * `2x stained glass`
 
 > ***Expanded view below for reference***
 
 ![exlightfront]
 
 ![exlightrear]
+
+### Light Turret Details
+
+> **Power Usage** *6,000*
+>
+> **Range** *200 Blocks*
+>
+> **Impact** *1x explosion, power 4.0, Shield Damage: 8.0*
 
 ## Heavy Turret
 - Good for medium to large ships
@@ -67,19 +75,55 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 
 ### Heavy Turret Multiblock
 ***Materials required:***
-- 4x sponge
-- 8x concrete
-- 13x stairs
-- 3x terracotta
-- 1x iron block
-- 2x glass
-- 4x stained glass
+> * `4x sponge`
+> * `8x concrete`
+> * `13x stairs`
+> * `3x terracotta`
+> * `1x iron block`
+> * `2x glass`
+> * `4x stained glass`
 
 > ***Expanded view below for reference***
 
 ![exheavyfront]
 
 ![exheavyrear]
+
+### Heavy Turret Details
+
+> **Power Usage** *8,000*
+>
+> **Range** *300 Blocks*
+>
+> **Impact** *2x explosion, power 4.0, Shield Damage: 8.0*
+
+## Tri-Barrel Turret
+- Good for large ships.
+- Anti-ship, heavy defense.
+- Larger and slightly more expensive than the others, but pack a lot of power.
+- However, they are less accurate.
+
+
+### Tri-Barrel Multiblock
+***Materials required:***
+> * `4x sponge`
+> * `?x concrete`
+> * `?x stairs`
+> * `9x terracotta`
+> * `3x iron block`
+> * `3?x glass`
+> * `9x stained glass`
+
+
+### Tri-Barrel Turret Details
+
+> **Power Usage** *45,000*
+>
+> **Range** *300 Blocks*
+>
+> **Type** *Heavy Weapon*
+>
+> **Impact** *3x explosion, power 6.0, Shield Damage: 18.0*
 
 [turretsigntop]: https://i.imgur.com/1rest8q.png
 [turretsignbottom]: https://i.imgur.com/otgtaXG.png
