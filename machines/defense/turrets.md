@@ -103,6 +103,14 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 - Larger and slightly more expensive than the others, but pack a lot of power.
 - However, they are less accurate.
 
+![trifront]
+
+![trirear]
+
+![tritop]
+
+![trirear]
+
 
 ### Tri-Barrel Multiblock
 ***Materials required:***
@@ -135,3 +143,7 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 [lightrear]: https://i.imgur.com/zO6XVBk.png
 [exlightfront]: https://i.imgur.com/ogStuXs.png
 [exlightrear]: https://i.imgur.com/muj8a0x.png
+[trifront]: https://imgur.com/EQC6WpD.png
+[trirear]: https://imgur.com/z4TUTmw.png
+[tritop]: https://imgur.com/YgqC2SN.png
+[tribottom]: https://imgur.com/iJRh1ny.png
