@@ -98,10 +98,9 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 > **Impact** *2x explosion, power 4.0, Shield Damage: 8.0*
 
 ## Tri-Barrel Turret
-- Good for large ships.
-- Anti-ship, heavy defense.
-- Larger and slightly more expensive than the others, but pack a lot of power.
-- However, they are less accurate.
+- Shoots three projectiles
+- Very large and expensive
+- Unlike other turrets, tri-turrets are heavy weapons
 
 ![trifront]
 
