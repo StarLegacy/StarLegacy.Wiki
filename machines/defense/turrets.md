@@ -108,17 +108,17 @@ Turrets are multiblock structures useful for larger ships and base defense platf
 
 ![tritop]
 
-![trirear]
+![tribottom]
 
 
 ### Tri-Barrel Multiblock
 ***Materials required:***
 > * `4x sponge`
-> * `?x concrete`
-> * `?x stairs`
+> * `20x concrete`
+> * `19x stairs`
 > * `9x terracotta`
 > * `3x iron block`
-> * `3?x glass`
+> * `3x glass`
 > * `9x stained glass`
 
 
