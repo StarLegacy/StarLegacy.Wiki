@@ -183,8 +183,14 @@ to use
 #### Rocket Launcher Multiblock
 
 > * `21x Iron Block`
-> * `??x Stone Brick Stairs`
+> * `16x Stairs`
+> * `16x Wall`
+> * `9x Concrete`
 > * `1x Sign`
+
+<a href="https://imgur.com/Rcv1rqJ"><img src="https://imgur.com/Rcv1rqJ.png" title="Rocket Launcher Rear" /></a>
+<a href="https://imgur.com/5Gic5bP"><img src="https://imgur.com/5Gic5bP.png" title="Rocket Launcher Cross-section" /></a>
+<a href="https://imgur.com/HezgXgc"><img src="https://imgur.com/HezgXgc.png" title="Rocket Launcher Barrel" /></a>
 
 #### Rocket Launcher Details
 
@@ -210,11 +216,15 @@ and are useful for taking down sheilds.
 #### Phaser Multiblock
 
 > * `3x Copper Block`
-> * `2x Glass Pane`
+> * `4x Glass Pane`
 > * `2x Bell`
+> * `2x Slab`
 > * `6x Wall`
 > * `1x Hopper`
 > * `1x Grindstone`
+
+<a href="https://imgur.com/Dp10UYS"><img src="https://imgur.com/Dp10UYS.png" title="Phaser Side" /></a>
+<a href="https://imgur.com/pEyHCYY"><img src="https://imgur.com/pEyHCYY.png" title="Phaser Rear" /></a>
 
 #### Phaser Details
 
@@ -241,7 +251,9 @@ supply ammunition to them.
 > * `1x Iron Block`
 > * `1x End Portal Frame`
 > * `1x Sign`
+> * `1+ Conatainer Block`
 
+<a href="https://imgur.com/TCCSVmf"><img src="https://imgur.com/TCCSVmf.png" title="Magazine" /></a>
 
 #### Auto Turrets
 
@@ -251,6 +263,23 @@ against starfighters and corvettes.
 They are also primarily defensive weapons -
 if you move around or fire other weapons, they can't fire as much,
 and they have difficulty hitting moving targets.
+
+The redstone lamp is where the auto turret fires from.
+To set up auto turrets you need [node] signs.
+Place a sign on the dispenser that says, for example:
+
+> Line 1: [node]
+>
+> Line 2: defense
+
+Then, you can do `/settarget defense <player>`
+
+> Alternatively, you can use `/st` instead of `/settarget`
+
+You can also turn heavy turrets into auto turrets.
+To do that, place a node sign on the turret sign, like this:
+
+![Image](https://image.prntscr.com/image/oyKvb_ecSYSumhBepC-80A.png)
 
 #### Auto Turret Multiblock
 
@@ -271,21 +300,32 @@ and they have difficulty hitting moving targets.
 >
 > **Impact** *1x explosion, power 2.0*
 
-The redstone lamp is where the auto turret fires from.
-To set up auto turrets you need [node] signs.
-Place a sign on the dispenser that says, for example:
+#### Node Signs
+
+Node signs are used to divide weapons into weaponsets.
+To set up a node sign, type 
 > Line 1: [node]
 >
-> Line 2: defense
+> Line 2: \<weaponset name\>
+  
+ If the weaponset consists of turrets or auto turrets,
+ you can fire them automatically with:
+ 
+> /settarget \<set name\> \<target\>
+> or /st with the same arguments.
+  
+ If the weaponset contains manual weapons,
+ to take control you need a sign like this:
+ 
+> Line 1: [weaponset]
+>
+> Line 2: \<weaponset name\>
+ 
+ Clicking the sign will let you take control
+ of the selected weaponset.
+  
+  
 
-Then, you can do `/settarget defense <player>`
-
-> Alternatively, you can use `/st` instead of `/settarget`
-
-You can also turn heavy turrets into auto turrets.
-To do that, place a node sign on the turret sign, like this:
-
-![Image](https://image.prntscr.com/image/oyKvb_ecSYSumhBepC-80A.png)
 
 [lasercannontop]: https://forum.starlegacy.net/uploads/default/original/1X/503c55842997e104ccac75cbdc1577360372ae86.png
 [lasercannonside]: https://forum.starlegacy.net/uploads/default/original/1X/4c45592b2fd12e6717010b11d2afd8085f394162.png
