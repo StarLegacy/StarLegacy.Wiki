@@ -1,3 +1,13 @@
+---
+title: Quod Canis
+description: 
+published: true
+date: 2021-02-14T19:51:11.200Z
+tags: 
+editor: markdown
+dateCreated: 2021-01-02T15:24:20.761Z
+---
+
 # Quod Canis
 
 ##### [Go Back](/wiki/space#planets)
