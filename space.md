@@ -2,14 +2,14 @@
 title: Space
 description: 
 published: true
-date: 2021-02-14T19:46:43.934Z
+date: 2021-02-14T19:48:30.513Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:22:57.786Z
 ---
 
 # Planets
-SL has 21 planets. Each planet has unique terrain and environment.
+SL has 22 planets. Each planet has unique terrain and environment.
 
 ## List of Planets
 1. ![icon](https://starlegacy.net/img/planeticons/arbusto.png) [Arbusto](/wiki/planets/arbusto)
