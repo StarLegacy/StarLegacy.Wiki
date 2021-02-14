@@ -2,14 +2,14 @@
 title: Space
 description: 
 published: true
-date: 2021-01-02T03:51:17.828Z
+date: 2021-02-14T19:46:43.934Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:03:33.615Z
+editor: markdown
+dateCreated: 2021-01-02T15:22:57.786Z
 ---
 
 # Planets
-SL has 15 planets. Each planet has unique terrain and environment.
+SL has 21 planets. Each planet has unique terrain and environment.
 
 ## List of Planets
 1. ![icon](https://starlegacy.net/img/planeticons/arbusto.png) [Arbusto](/wiki/planets/arbusto)
@@ -27,3 +27,10 @@ SL has 15 planets. Each planet has unique terrain and environment.
 13. ![icon](https://starlegacy.net/img/planeticons/terram.png) [Terram](/wiki/planets/terram)
 14. ![icon](https://starlegacy.net/img/planeticons/titus.png) [Titus](/wiki/planets/titus)
 15. ![icon](https://starlegacy.net/img/planeticons/trunkadis.png) [Trunkadis](/wiki/planets/trunkadis)
+16. [Chimgara](/planets/chimgara)
+17. [Cragmori](/planets/cragmori)
+18. [Demargos](/planets/demargos)
+19. [Remalie](/planets/remalie)
+20. Syrimq
+21. Vask
+22. [Jadiid](/planets/jadiid)
