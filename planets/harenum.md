@@ -2,10 +2,10 @@
 title: Harenum
 description: 
 published: true
-date: 2021-01-02T03:51:50.166Z
+date: 2021-02-14T19:52:07.964Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:04:14.863Z
+editor: markdown
+dateCreated: 2021-01-02T15:24:07.954Z
 ---
 
 # Harenum
@@ -31,7 +31,6 @@ dateCreated: 2020-09-11T02:04:14.863Z
 > - Glowstone
 
 ## Trade Cities
-> - Ortosolis (Orovika) - Electus Canyon (East)
 > - Harenost (NPC) - Cis Pasce Desert (East)
 
 ## Quick Notes
