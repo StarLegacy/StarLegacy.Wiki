@@ -2,10 +2,10 @@
 title: Chimgara
 description: 
 published: true
-date: 2020-11-02T14:14:36.106Z
+date: 2021-02-14T19:45:51.548Z
 tags: 
-editor: undefined
-dateCreated: 2020-11-02T13:59:30.020Z
+editor: markdown
+dateCreated: 2021-01-02T15:24:14.424Z
 ---
 
 # Chimgara
