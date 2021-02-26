@@ -2,14 +2,14 @@
 title: Cargo Trading
 description: 
 published: true
-date: 2021-02-26T16:01:08.623Z
+date: 2021-02-26T16:01:52.645Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
 ---
 
 # Cargo Trading
-Cargo trading between planet based trade cities is the main and best way to obtain credits and XP.
+Cargo trading between planet based Outposts and Trade Cities is the main and best way to obtain credits and XP in the late game.
 
 ## Required Items
 There are a few things that are needed to trade cargo between planets and a few that are highly recommended.
