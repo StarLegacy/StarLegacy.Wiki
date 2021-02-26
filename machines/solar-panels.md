@@ -2,7 +2,7 @@
 title: Solar Panels
 description: 
 published: true
-date: 2021-01-02T15:45:52.328Z
+date: 2021-02-26T16:43:44.105Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:25.689Z
@@ -12,7 +12,8 @@ dateCreated: 2021-01-02T15:23:25.689Z
 
 Solar Panels are devices which you can use to generate power passively, without fuel.
 - They only work when the daylight sensor is powered
-  - Either by the sun or being inverted.
+  - On planets, they do not generate power when inverted.
+  - In Space, they must be inverted to generate power.
 - Each sensor generates an average of five power per second.
 
 ## Multiblock
