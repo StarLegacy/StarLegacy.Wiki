@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: 
 published: true
-date: 2021-02-26T15:46:45.573Z
+date: 2021-02-26T15:47:25.668Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -60,7 +60,6 @@ Once you have arrived and either landed or docked, locate the Importer and Expor
 
 Right-click on the Exporter NPC to get a cargo crate mission.
   - You will see a GUI simlar to the one below.
-
 	![missions]
 
  Hovering your cursor over each crate will bring up lots more info to consider.
