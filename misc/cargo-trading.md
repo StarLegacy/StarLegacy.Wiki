@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: 
 published: true
-date: 2021-01-02T15:46:23.874Z
+date: 2021-02-26T15:28:37.398Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -15,9 +15,9 @@ Cargo trading between planet based trade cities is the main and best way to obta
 There are a few things that are needed to trade cargo between planets and a few that are highly recommended.
 
 **Required**
-   - Credits- to purchase crates, 500-1000c should get you started.
-   - A starship- with some ammount of sticky pistons to place crates onto.
-   - A space suit- to survive in space and the harsh conditions of some planets.
+   - Credits to purchase crates, 1000-1000c should get you started
+   - A starship with some sticky pistons(for the crates) and a hyperdrive
+   - A space suit to survive in space and the harsh conditions of some planets
 
 **Recommended**
    - [Power armor-](https://starlegacy.net/wiki/gear/power_gear)  with corresponding modules. 
@@ -28,55 +28,65 @@ There are a few things that are needed to trade cargo between planets and a few 
 
 ## Cargo Trading
 ### Step One
-------
-To start trading you first need to find a trade city to buy crates from.
--  There are trade outposts on every planet,
-   - Their names all begin with the planet name and end in "-ost".
+---
+
+To start trading you first need to find a NPC Outpost or Trade City to buy crates from.
+#### NPC Outposts
+-  There are NPC Outposts on every planet
+   - NPC Outposts end with 'ost'
 
    ![outpost]
-> The above example is the outpost from Quod Canis, hence the name "Quodcanost".
+> The above example is the NPC Outpost on Quod Canis, hence the name "Quodcanost"
+#### Trade City
+- Trade Cities are player owned settlements and are located on various worlds
+   - Trade Cities are identified by the green territories
+	![atc]
+> The above picture is of Acracia on Terram. All Trade Cities will be green when they meet activity and tax requirements
+
+   - When a Trade City is considered inactive, it disables all trading at the Trade City and turns the territory red
+	![itc]
+> The above picture is of Kragostani in its inactive state. All Trade Cities will turn red when they go down and will go green once activity/tax requirements are met
 
 ### Step Two
------
+---
 
- Once you have arrived and either landed or docked, locate the Importer and Exporter Npcs.
+Once you have arrived and either landed or docked, locate the Importer and Exporter NPCs.
 
 ![npcs]
 > They are easy to locate and have a variety of skins.
 
 ### Step Three
------
+---
 
-Right click on the Exporter Npc to get a cargo crate mission.
+Right-click on the Exporter NPC to get a cargo crate mission.
   - You will see a GUI simlar to the one below.
 
-![missions]
+	![missions]
 
  Hovering your cursor over each crate will bring up lots more info to consider.
-  - Destination - Outpost name and planet to deliver to.
-  - Total Crates - Ammount of crates to be purchased and thus placed in your ship.
-  - Cost - Total cost to buy all the crates.
-  - Route Value - The Higher the value the more xp given and higher potential profit. Max is 2.0.
-  - Days until expiry - How many days given to comlete mission.
+  - Destination - Says the NPC Outpost or Trade City as well as the planet
+  - Cost - The ammount you will be spending per crate
+  - Days until expiry - How many days given to deliever crates to destination
+  > For the example above, you have 5 days to deliever crates to Atlantis on Quod Canis. It'd cost 1,081.8 credits to purchase 10 crates. 
 
 ### Step Four
------
+---
 
- Once you have found the right mission left click to accept.
-- The crates will be given and any not able to fit into the inventory will be dropped on the ground.
-    - Only you will be able to pick these crates up for 1 hour so get them quickly!
-    - You can sell back crates at cost to an Importer in the same outpost you purchased them from.
-    - Sell the unwanted crates back by right clicking the importer with the crates in your inventory.
-
+Once you have found the right mission left-click to accept.
+- Once you have selected a mission, you'll get a message in the chat box
+	![crate ammount]
+- Type the amount of crates you wish to purchase into the chat 
+   - Once you enter the ammount of crates you want, you'll recieve the following message with the crates on the ground:
+	![receiving]
 
 
 ### Step Five
------
+---
 
  Head back to your ship with the crates and place them on your sticky piston heads.
 
 ![crates]
-> Ensure your pistons are wired up so you can use a redstone pulse to release the crates in outpost land!
+> Ensure your pistons are wired up so you can use a redstone pulse to release the crates upon arrival!
 
 Crates have special rules to be noted.
 - Crates are not able to be placed into any kind of container.
@@ -87,10 +97,9 @@ Crates have special rules to be noted.
 ### Step Six
 -----
 
-After you are loaded up with crates, locate your destination on the dynmap and fly there.
-> Watch out for pirates! 
-- Locate the Importer and Exporter Npcs with the crates in your inventory. 
-- Right click the Importer Npc this time and you should see a message similar to the one below.
+After you are loaded up with crates, locate your destination on the dynmap and fly there
+- Locate the Importer and Exporter NPCs with the crates in your inventory. 
+- Right-click the Importer Npc this time and you should see a message similar to the one below.
 
 ![completed]
 
@@ -100,6 +109,10 @@ Take your newly earned money and buy some more crates and repeat the process!
 
    [outpost]: https://i.imgur.com/9e97OLX.png
    [npcs]: https://i.imgur.com/SVYDOVz.png
-   [missions]: https://i.imgur.com/8KOB1Dw.png
+   [atc]: https://imgur.com/haRWVql.png
+   [itc]: https://imgur.com/M63WA5D.png
+   [missions]: https://imgur.com/5QB38pe.png
+   [crate ammount]: https://imgur.com/odFxEPM.png
+   [receiving]: https://imgur.com/8NxMe2I.png
    [crates]: https://i.imgur.com/TQb0FNR.png
    [completed]: https://i.imgur.com/qiwheGH.png
