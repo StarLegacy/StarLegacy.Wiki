@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: Step by step process of how to do crate missions
 published: true
-date: 2021-02-26T16:03:21.220Z
+date: 2021-02-26T16:39:00.655Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -20,11 +20,11 @@ There are a few things that are needed to trade cargo between planets and a few 
    - A space suit to survive in space and the harsh conditions of some planets
 
 **Recommended**
-   - [Power armor](https://starlegacy.net/wiki/gear/power_gear)  with corresponding modules. 
+   - [Power armor](https://wiki.starlegacy.net/en/gear/power-gear)  with corresponding modules. 
      - (Enviromental module and rocket boots are especially useful).
-   - A [navigation computer](https://starlegacy.net/wiki/starships/navigation_computer)
-   - [Shields](https://starlegacy.net/wiki/starships/particle_shields) and [ship weaponry](https://starlegacy.net/wiki/starships/weapons) to help fend of any pirates.
-   - [Blasters](https://starlegacy.net/wiki/gear/blasters) for protection against mobs and pirates.
+   - A [navigation computer](https://wiki.starlegacy.net/en/starships/navigation-computer)
+   - [Shields](https://wiki.starlegacy.net/en/starships/particle-shields) and [ship weaponry](https://wiki.starlegacy.net/en/starships/weapons) to help fend of any pirates.
+   - [Blasters](https://wiki.starlegacy.net/en/gear/blasters) for protection against mobs and pirates.
 
 ## Cargo Trading
 ### Step One
