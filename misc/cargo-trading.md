@@ -1,8 +1,8 @@
 ---
 title: Cargo Trading
-description: Step by Step process of how to do crate missions
+description: Step by step process of how to do crate missions
 published: true
-date: 2021-02-26T16:03:04.709Z
+date: 2021-02-26T16:03:21.220Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
