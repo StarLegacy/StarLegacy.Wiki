@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: 
 published: true
-date: 2021-02-26T15:28:37.398Z
+date: 2021-02-26T15:46:45.573Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -99,10 +99,12 @@ Crates have special rules to be noted.
 
 After you are loaded up with crates, locate your destination on the dynmap and fly there
 - Locate the Importer and Exporter NPCs with the crates in your inventory. 
-- Right-click the Importer Npc this time and you should see a message similar to the one below.
+- Right-click the Importer NPC this time and you should see a message similar to the one below once all crates are sold.
 
 ![completed]
 
+### Step Seven
+---
 Take your newly earned money and buy some more crates and repeat the process!
 
 
@@ -115,4 +117,4 @@ Take your newly earned money and buy some more crates and repeat the process!
    [crate ammount]: https://imgur.com/odFxEPM.png
    [receiving]: https://imgur.com/8NxMe2I.png
    [crates]: https://i.imgur.com/TQb0FNR.png
-   [completed]: https://i.imgur.com/qiwheGH.png
+   [completed]: https://imgur.com/vHpY0HJ.png
