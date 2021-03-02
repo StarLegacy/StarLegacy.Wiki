@@ -2,7 +2,7 @@
 title: Chimgara
 description: 
 published: true
-date: 2021-02-14T19:45:51.548Z
+date: 2021-03-02T01:16:54.512Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:14.424Z
@@ -14,20 +14,22 @@ dateCreated: 2021-01-02T15:24:14.424Z
 
 ## General Information
 
-- World Type: Flower Forest
-- World Theme: Nether
-- Atmosphere Condition: Habitable
 
- ## General Planet Usage
- - Mining
-
-## Resources
-- Lapis Lazuli
-- Copper
-- Chetherite
-- Emerald
-- Crimson Hyphae
-- Warped Hyphae
+> World Type: Flower Forest
+> 
+> World Theme: Nether
+> 
+> Atmosphere Condition: Habitable
+> 
+> General Planet Usage: Mining
+> 
+> Resources:
+> - Lapis Lazuli
+> - Copper
+> - Chetherite
+> - Emerald
+> - Crimson Hyphae
+> - Warped Hyphae
 
 ## Quick Notes
 *Somone put something here*
