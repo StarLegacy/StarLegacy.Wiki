@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: Step by step process of how to do crate missions
 published: true
-date: 2021-02-26T16:39:00.655Z
+date: 2021-03-03T16:08:42.512Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -91,7 +91,8 @@ Crates have special rules to be noted.
 - Crates are not able to be placed into any kind of container.
 - Crates can only be held in the player inventory if not flying.
   - Upon piloting all held crates will be dropped.
-- Crates can only be placed on sticky piston heads and must not be adjacent to another crate, even diagonally.
+- Crates can only be placed on sticky piston heads and must not be adjacent to another crate, even diagonally
+> If you have extra crates that can't be loaded, you are able to return them via the Importer NPC at the location of purchase!
 
 ### Step Six
 -----
