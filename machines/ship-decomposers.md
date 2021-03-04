@@ -2,7 +2,7 @@
 title: Ship Decomposers
 description: A multiblock to quickly disassemble any starship
 published: true
-date: 2021-03-04T15:55:49.360Z
+date: 2021-03-04T15:57:01.529Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T15:55:05.766Z
@@ -11,7 +11,7 @@ dateCreated: 2021-03-04T15:55:05.766Z
 # Ship Decomposers
 
 Ship decomposers allow for the easy disassembly of any starship or other pilotable structures.
-- Ship decomposers require power to operate, holding a max of
+- Ship decomposers require power to operate, holding a max of *(to be determiend)*
 - Ship decomposers can extend 100 blocks in each direction, a 100x100x100 at its largest for one decomposer
 - Ship decomposers can only break pilotable blocks
 
