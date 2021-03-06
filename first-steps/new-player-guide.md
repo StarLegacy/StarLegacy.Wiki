@@ -2,10 +2,10 @@
 title: New Player Guide
 description: This guide will help you get started on Star Legacy as well as some basics of the server
 published: true
-date: 2020-11-27T17:36:18.245Z
+date: 2021-03-06T01:08:11.755Z
 tags: 
-editor: undefined
-dateCreated: 2020-11-06T04:14:56.621Z
+editor: markdown
+dateCreated: 2021-01-02T15:23:02.160Z
 ---
 
 # New Player Guide
@@ -70,8 +70,8 @@ If you wish to have a helm, place down a sign with `[helm]` on the first line an
 - `Left-click` to turn left.
 
 You can also turn by using `Q` and `F` to navigate which comes much more in handy when you're not at the bridge or in combat for quick manuevering.
-- `Q` to turn right.
-- `F` to right left.
+- `Q` to turn left.
+- `F` to right right.
 
 
 #### Tips
