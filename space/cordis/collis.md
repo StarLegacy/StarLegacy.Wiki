@@ -2,37 +2,27 @@
 title: Collis
 description: 
 published: true
-date: 2021-01-02T03:51:45.745Z
+date: 2021-03-06T22:01:24.974Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:04:08.025Z
+editor: markdown
+dateCreated: 2021-01-02T15:24:01.577Z
 ---
 
-# Collis
-
-##### [Go Back](/wiki/space#planets)
-
-<a href="https://imgur.com/MAllm95"><img src="https://i.imgur.com/MAllm95.jpg" title="Concordia of Collis." /></a>
+![collis.png](/collis.png =200%x200%)
 
 ## General Information
-
-> World Type: Overworld
->
-> World Theme: Savanna
->
-> Atmosphere Condition: Habitable
->
-> General Planet Usage: Farming, Colonisation, Industrialization
->
-> Resources:
-> - Coal
-> - Oak Wood
-> - Acacia Wood
-> - Magma
+|                         |                                        |
+|-------------------------|----------------------------------------|
+|**World Type:**          |Overworld                               |
+|**World Theme:**         |Savanna                                 |
+|**Atmosphere Condition:**|Habitable                               |
+|**General Planet Usage:**|Farming, Colonisation, Industrialization|
+|**Resources:**           |Coal, Oak Wood, Acacia Wood, Magma      |
+<br>
 
 ## Trade Cities
-> - Concordia (Luxivitas) - Acualis Peninsula
-> - Collost (NPC) - Avalon Island (South)
+- Concordia (Luxivitas) - Acualis Peninsula
+- Collost (NPC) - Avalon Island (South)
 
 ## Quick Notes
 
