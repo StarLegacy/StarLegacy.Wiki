@@ -2,13 +2,13 @@
 title: Arbusto
 description: 
 published: true
-date: 2021-03-06T00:38:53.441Z
+date: 2021-03-06T00:42:58.207Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:55.241Z
 ---
 
-<a href="https://imgur.com/8RLTG1D"><img src="https://i.imgur.com/8RLTG1D.jpg" title="A glassing of Arbost on Arbusto." /></a>
+![arbusto.jpg](/arbusto.jpg =x256)
 
 ## General Information
 
