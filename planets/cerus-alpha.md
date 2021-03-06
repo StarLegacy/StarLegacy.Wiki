@@ -2,7 +2,7 @@
 title: Cerus Alpha
 description: 
 published: true
-date: 2021-02-14T19:47:22.096Z
+date: 2021-03-06T00:08:30.706Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:57.394Z
