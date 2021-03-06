@@ -2,15 +2,11 @@
 title: Arbusto
 description: 
 published: true
-date: 2021-03-06T00:37:35.862Z
+date: 2021-03-06T00:37:44.577Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:55.241Z
 ---
-
-# Arbusto
-
-##### [Go Back](/wiki/space#planets)
 
 <a href="https://imgur.com/8RLTG1D"><img src="https://i.imgur.com/8RLTG1D.jpg" title="A glassing of Arbost on Arbusto." /></a>
 
