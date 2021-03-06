@@ -2,7 +2,7 @@
 title: New Player Guide
 description: This guide will help you get started on Star Legacy as well as some basics of the server
 published: true
-date: 2021-03-06T01:12:47.633Z
+date: 2021-03-06T01:14:02.355Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:02.160Z
