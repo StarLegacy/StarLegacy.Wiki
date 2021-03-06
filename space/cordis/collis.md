@@ -2,13 +2,13 @@
 title: Collis
 description: 
 published: true
-date: 2021-03-06T22:02:29.151Z
+date: 2021-03-06T22:02:39.662Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:01.577Z
 ---
 
-![collis.png](/collis.png =x120%)
+![collis.png](/collis.png =x150%)
 
 ## General Information
 |                         |                                        |
