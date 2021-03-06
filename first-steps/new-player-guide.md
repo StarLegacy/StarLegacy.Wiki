@@ -2,7 +2,7 @@
 title: New Player Guide
 description: This guide will help you get started on Star Legacy as well as some basics of the server
 published: true
-date: 2021-03-06T01:14:02.355Z
+date: 2021-03-06T01:19:31.098Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:02.160Z
@@ -133,7 +133,7 @@ To use the beacon, fly very close to the beacon station. When you get close enou
 Once you've unlocked a [navigation computer](https://wiki.starlegacy.net/en/starships/navigation_computer), you can use it to go through hyperspace from and to any point in space. However, you may get caught in mass shadows like dark matter, planets, stars, gravity wells of other players. Navigation computers however have limited range, its range dependant on the size of your starship.
 
 ## Cryo Pods
-If you're on your own and on a planet, you probably will want to setup a cryopod in either a claim or a safe location. Cryopods allow you to respawn in the cryopod; if you don't have one at the time of death, you will respawn at a station.
+If you're on your own and on a planet, you probably will want to setup a cryopod in either a claim or a safe location. Cryopods allow you to respawn in the cryopod; if you don't have one at the time of death, you will respawn at Jadiid.
 
 Keep in mind you can only have one active cryopod at any given moment. Also if you have your cryopod on your ship, you will not respawn on it if you move the ship after detection. Make sure to detect the cryopod after **every** time you move your ship. Staff will not return you to your ship if this happens to you.
 
@@ -170,4 +170,4 @@ Here's an example of blocks which have been re-textured or renamed:
 - 16x Wire (End Rod) can be crafted out of 3x Copper Ingots.
 
 ## Advancements
-Advancements are unlockable technologies which can be added to your ship, defenses, or automatons (more on that later). They cost credits to unlock, increasingly more expensive the higher the tier. Advancements can be implemented on ships, defenses, and automatons.
+Advancements are unlockable technologies which can be added to your ship, defenses, or automatons (more on that later). They cost credits to unlock, increasingly more expensive the higher the tier. To see your advancements, press `L` to see all advancements you haven't unlocked and how get certain advancements. Use `/advance` to help you get started.
