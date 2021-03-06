@@ -2,10 +2,10 @@
 title: Syre
 description: 
 published: true
-date: 2021-01-02T03:52:01.056Z
+date: 2021-03-06T00:06:19.074Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:04:30.938Z
+editor: markdown
+dateCreated: 2021-01-02T15:24:27.226Z
 ---
 
 # Syre
