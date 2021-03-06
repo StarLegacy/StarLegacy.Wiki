@@ -2,7 +2,7 @@
 title: Arbusto
 description: 
 published: true
-date: 2021-03-06T00:46:58.932Z
+date: 2021-03-06T00:47:38.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:55.241Z
@@ -12,12 +12,12 @@ dateCreated: 2021-01-02T15:23:55.241Z
 
 ## General Information
 
-|---|---|
-|**World Type:**|Overworld|
-|**World Theme:**|Temperate Forest|
-|**Atmosphere Condition:**|Habitable|
-|**General Planet Usage:**|Farming|
-|**Resources:**|Coal, Gold, Dark Oak Wood|
+|-------------------------|-------------------------|
+|**World Type:**          |Overworld                |
+|**World Theme:**         |Temperate Forest         |
+|**Atmosphere Condition:**|Habitable                |
+|**General Planet Usage:**|Farming                  |
+|**Resources:**           |Coal, Gold, Dark Oak Wood|
 
 ## Trade Cities
 - Arbost (NPC) - Korr Lowlands
