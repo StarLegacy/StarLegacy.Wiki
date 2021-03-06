@@ -2,7 +2,7 @@
 title: Arbusto
 description: 
 published: true
-date: 2021-03-06T00:48:38.987Z
+date: 2021-03-06T00:49:52.804Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:55.241Z
@@ -18,9 +18,11 @@ dateCreated: 2021-01-02T15:23:55.241Z
 |**Atmosphere Condition:**|Habitable                |
 |**General Planet Usage:**|Farming                  |
 |**Resources:**           |Coal, Gold, Dark Oak Wood|
+<br>
 
 ## Trade Cities
 - Arbost (NPC) - Korr Lowlands
+<br>
 
 ## Quick Notes
 
