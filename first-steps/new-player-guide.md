@@ -2,7 +2,7 @@
 title: New Player Guide
 description: This guide will help you get started on Star Legacy as well as some basics of the server
 published: true
-date: 2021-03-06T01:08:11.755Z
+date: 2021-03-06T01:12:47.633Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:02.160Z
@@ -128,7 +128,7 @@ To get travel to other systems, you will first need a [hyperdrive](https://wiki.
 
 With your hyperdrive and some chetherite(two chetherite per hopper to make one jump), head to one of the **hyperspace beacons** in your system, Nexus only has one beacon. These beacons look like portals on the map. 
 
-To use the beacon, fly very close to the beacon station. When you get close enough, you will get a message saying "accept or deny" the jump to its system.
+To use the beacon, fly very close to the beacon station. When you get close enough, you will get a message saying "accept or deny" the jump to its system. **(Note: Jump Beacons are currently not active and will require either a [navigation computer](https://wiki.starlegacy.net/en/starships/navigation-computer) or another player to assist you to leave Nexus in a timely manner(cruising through the void of space is an option, but not suggested))**
 
 Once you've unlocked a [navigation computer](https://wiki.starlegacy.net/en/starships/navigation_computer), you can use it to go through hyperspace from and to any point in space. However, you may get caught in mass shadows like dark matter, planets, stars, gravity wells of other players. Navigation computers however have limited range, its range dependant on the size of your starship.
 
