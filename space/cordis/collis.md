@@ -2,13 +2,13 @@
 title: Collis
 description: 
 published: true
-date: 2021-03-06T22:03:53.781Z
+date: 2021-03-22T12:19:50.153Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:01.577Z
 ---
 
-![collis.png](/collis.png =75%x75%)
+<a href="https://imgur.com/1z04Iml"><img src="https://imgur.com/1z04Iml.jpg" title="Concordia, Capital of Luxivitas" /></a>
 
 ## General Information
 |                         |                                        |
