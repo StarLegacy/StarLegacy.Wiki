@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: Step by step process of how to do crate missions
 published: true
-date: 2021-03-03T16:08:42.512Z
+date: 2021-03-22T01:45:49.757Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -15,7 +15,7 @@ Cargo trading between planet based Outposts and Trade Cities is the main and bes
 There are a few things that are needed to trade cargo between planets and a few that are highly recommended.
 
 **Required**
-   - Credits to purchase crates, 1000-1000c should get you started
+   - Credits to purchase crates, 1,000-10,000c should get you started
    - A starship with some sticky pistons(for the crates) and a hyperdrive
    - A space suit to survive in space and the harsh conditions of some planets
 
