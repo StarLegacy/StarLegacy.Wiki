@@ -2,7 +2,7 @@
 title: Cargo Trading
 description: Step by step process of how to do crate missions
 published: true
-date: 2021-03-22T01:45:49.757Z
+date: 2021-03-22T01:53:52.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:23:29.814Z
@@ -53,7 +53,7 @@ To start trading you first need to find a NPC Outpost or Trade City to buy crate
 Once you have arrived and either landed or docked, locate the Importer and Exporter NPCs.
 
 ![npcs]
-> They are easy to locate and have a variety of skins.
+> They are generally located in the vacinity of an active beacon and have a variety of skins
 
 ### Step Three
 ---
@@ -66,7 +66,7 @@ Right-click on the Exporter NPC to get a cargo crate mission.
   - Destination - Says the NPC Outpost or Trade City as well as the planet
   - Cost - The ammount you will be spending per crate
   - Days until expiry - How many days given to deliever crates to destination
-  > For the example above, you have 5 days to deliever crates to Atlantis on Quod Canis. It'd cost 1,081.8 credits to purchase 10 crates. 
+  > For the example above, you have 5 days to deliever crates to Atlantis on Quod Canis. It'd cost 1,081.8 credits to purchase 10 crates
 
 ### Step Four
 ---
