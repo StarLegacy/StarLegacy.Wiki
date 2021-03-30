@@ -2,7 +2,7 @@
 title: Pulse Cannons
 description: 
 published: true
-date: 2021-03-30T21:21:02.003Z
+date: 2021-03-30T21:21:28.629Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T21:21:02.003Z
@@ -19,4 +19,4 @@ dateCreated: 2021-03-30T21:21:02.003Z
 |Impact|1 explosion, 1.75 power|
 |Firing Arc|Unlimited|
 
-![pulse_cannons.png](/pulse_cannons.png)
+![pulse_cannons.png](/pulse_cannons.png =x256)
