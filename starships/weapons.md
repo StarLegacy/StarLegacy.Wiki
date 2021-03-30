@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2021-03-30T21:06:04.558Z
+date: 2021-03-30T21:22:07.156Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:57.030Z
@@ -47,30 +47,6 @@ They fire yellow projectiles.
 > **Type** *Light Weapon*
 >
 > **Impact** *1x explosion, power 2.0*
-
-### Pulse Cannons
-
-The most aimable light weapon is the pulse cannon.
-Pulse cannons fire at the targetted block with no angle limit.
-Their color is based on the color of their multiblock's stained glass.
-
-#### Pulse Cannon Multiblock
-
-> **Requirements**
-> * `1x Sponge`
-> * `1x Stained Glass`
-
-<a href="https://imgur.com/3zrXYsK"><img src="https://i.imgur.com/3zrXYsK.png" title="Pulse Cannon" /></a>
-
-#### Pulse Cannon Details
-
-> **Power Usage** *400 per cannon for ships at least 5000 blocks, 400 more for every 1000 blocks smaller*
->
-> **Range** *165 Blocks*
->
-> **Type** *Light Weapon*
->
-> **Impact** *1x explosion, power 1.75*
 
 ### Plasma Cannons
 
