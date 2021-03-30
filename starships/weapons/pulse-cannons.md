@@ -2,7 +2,7 @@
 title: Pulse Cannons
 description: 
 published: true
-date: 2021-03-30T21:24:52.649Z
+date: 2021-03-30T21:25:11.350Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-30T21:21:02.003Z
@@ -20,5 +20,6 @@ Pulse Cannons are not ideal for most ships due to there high power requirement f
 |Type|Light Weapon|
 |Impact|1 explosion, 1.75 power|
 |Firing Arc|Unlimited|
+|Ammo|None|
 
 ![pulse_cannons.png](/pulse_cannons.png =x256)
