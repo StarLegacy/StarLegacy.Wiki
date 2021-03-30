@@ -2,10 +2,10 @@
 title: Weapons
 description: 
 published: true
-date: 2021-01-02T03:52:16.301Z
+date: 2021-03-30T21:06:04.558Z
 tags: 
-editor: undefined
-dateCreated: 2020-09-11T02:04:54.011Z
+editor: markdown
+dateCreated: 2021-01-02T15:24:57.030Z
 ---
 
 # Starship Weapons
@@ -96,6 +96,10 @@ You can only have a few of them on ships.
 > **Impact** *1x explosion, power 4.0, equivalent to TNT*
 
 ### Ion Cannons
+
+> **Ion Cannons were not re-implemented after 1.16, while they will supposudly be re-implemented, this is yet to be seen.**
+{.is-warning}
+
 
 Ion cannons are very powerful cannons that can disable nodes and are manually fired.
 They can only be used on fighters and corvettes. Click the sponge to fire.
