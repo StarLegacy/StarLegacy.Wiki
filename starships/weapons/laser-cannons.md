@@ -1,8 +1,8 @@
 ---
-title: Laser Cannon
+title: Laser Cannons
 description: 
 published: true
-date: 2021-03-31T12:07:45.186Z
+date: 2021-03-31T12:09:54.176Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-31T12:07:45.186Z
