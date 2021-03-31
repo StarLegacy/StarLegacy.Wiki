@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2021-03-30T21:22:07.156Z
+date: 2021-03-31T12:10:28.613Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:57.030Z
@@ -21,32 +21,6 @@ Weapons can be either light or heavy weapons.
 **Heavy weapons** are fired by right clicking with a starship controller.
 
 ## Weapon Types
-
-### Laser Cannons
-
-The simplest starship weapon is the laser cannon.
-Laser cannons fire towards the targetted block,
-with a firing cone of 15 degrees, a single explosion on impact,
-and linear power usage.
-They fire yellow projectiles.
-
-#### Laser Cannon Multiblock
-
-> **Requirements**
-> * `1x Sponge`
-> * `1x Piston`
-
-<a href="https://imgur.com/ODat29Z"><img src="https://i.imgur.com/ODat29Z.png" title="Laser Cannon" /></a>
-
-#### Laser Cannon Details
-
-> **Power Usage** *500 power per cannon per shot*
->
-> **Range** *190 blocks*
->
-> **Type** *Light Weapon*
->
-> **Impact** *1x explosion, power 2.0*
 
 ### Plasma Cannons
 
