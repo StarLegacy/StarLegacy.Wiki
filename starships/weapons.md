@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2021-04-14T14:52:29.242Z
+date: 2021-04-14T15:26:21.907Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:57.030Z
@@ -21,29 +21,6 @@ Weapons can be either light or heavy weapons.
 **Heavy weapons** are fired by right clicking with a starship controller.
 
 ## Weapon Types
-
-### Plasma Cannons
-
-Plasma cannons are like laser cannons but much more powerful.
-You can only have a few of them on ships.
-
-#### Plasma Cannon Multiblock
-
-> * `1x Sponge`
-> * `1x Iron Block`
-> * `1x Furnace`
-
-<a href="https://imgur.com/oYtmk7g"><img src="https://i.imgur.com/oYtmk7g.png" title="Plasma Cannon" /></a>
-
-#### Plasma Cannon Details
-
-> **Power Usage** *1000 per cannon per shot*
->
-> **Range** *140 Blocks*
->
-> **Type** *Light Weapon*
->
-> **Impact** *1x explosion, power 4.0, equivalent to TNT*
 
 ### Proton Torpedoes
 
