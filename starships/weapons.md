@@ -2,7 +2,7 @@
 title: Weapons
 description: 
 published: true
-date: 2021-03-31T12:10:28.613Z
+date: 2021-04-14T14:52:29.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-02T15:24:57.030Z
@@ -44,34 +44,6 @@ You can only have a few of them on ships.
 > **Type** *Light Weapon*
 >
 > **Impact** *1x explosion, power 4.0, equivalent to TNT*
-
-### Ion Cannons
-
-> **Ion Cannons were not re-implemented after 1.16, while they will supposudly be re-implemented, this is yet to be seen.**
-{.is-warning}
-
-
-Ion cannons are very powerful cannons that can disable nodes and are manually fired.
-They can only be used on fighters and corvettes. Click the sponge to fire.
-
-#### Ion Cannon Multiblock
-
-> * `1x Sponge`
-> * `1x Lapis Block`
-> * `1x Dispenser`
-> * `1x Stained Glass`
-
-<a href="https://imgur.com/YPnDeTm"><img src="https://i.imgur.com/YPnDeTm.png" title="Ion Cannon" /></a>
-
-#### Ion Cannon Details
-
-> **Cooldown** *30 Seconds*
->
-> **Range** *> 180 Blocks*
->
-> **Type** *Speciality Weapon*
->
-> **Impact** *1x explosion, massive shield damage; does not affect blocks, 6.5 block radius cube*
 
 ### Proton Torpedoes
 
