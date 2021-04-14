@@ -1,8 +1,8 @@
 ---
-title: Ion Cannon
+title: Ion Cannons
 description: 
 published: true
-date: 2021-04-14T14:52:57.071Z
+date: 2021-04-14T14:53:17.695Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-14T14:51:26.982Z
